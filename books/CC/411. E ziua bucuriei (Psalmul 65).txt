@@ -6,7 +6,7 @@ Cu sufletu-nălţat, (bis)
 Cântaţi, cântaţi, cântaţi-I:"
 „Hristos a înviat.
 
-fRefren:
+Refren:
 Hristos a înviat! (bis)
 Adevărat, adevărat
 Cântăm, cântăm, cântăm:
@@ -17,7 +17,7 @@ Isus e înălţat! (bis)
 Cântaţi, cântaţi, cântaţi-I:
 „Hristos a înviat!"
 
-fRefren:
+Refren:
 Hristos a înviat! (bis)
 Adevărat, adevărat
 Cântăm, cântăm, cântăm:
@@ -28,7 +28,7 @@ Toţi cei care-aţi scăpat,
 (bis) Cântaţi, cântaţi, cântaţi-I:
  „Hristos a înviat!"
 
-fRefren:
+Refren:
 Hristos a înviat! (bis)
 Adevărat, adevărat
 Cântăm, cântăm, cântăm:
@@ -39,7 +39,7 @@ Toţi cei răscumpăraţi,(bis)
 Cântaţi, cântaţi, cântaţi-I:
  „Hristos a înviat!"
 
-fRefren:
+Refren:
 Hristos a înviat! (bis)
 Adevărat, adevărat
 Cântăm, cântăm, cântăm:
