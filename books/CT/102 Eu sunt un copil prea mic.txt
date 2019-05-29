@@ -1,0 +1,12 @@
+@Title Eu sunt un copil prea mic
+@Number 102
+
+/:	Eu sunt un copil prea mic
+	Dar nu mi-e frică de nimic. :/
+
+R:	/:	Fiindcă am la dreapta mea
+		Îngeri a mă apăra. :/
+
+/:	Iar atunci când sunt bolnav
+	Mă rog la Isus cel drag. :/
+

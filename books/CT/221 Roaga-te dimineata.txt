@@ -1,0 +1,17 @@
+@Title Roaga-te dimineata
+@Number 221
+
+	Roagă-te dimineața,
+	Roagă-te și la prânz,
+/:	Roagă-te pe-nserate,
+	Roagă-te orișicând. :/
+
+	Citește dimineața,
+	Citește și la prânz,
+/:	Citește pe-nserate,
+	Citește orișicând. :/
+
+	Fă bine dimineața,
+	Fă bine și la prânz,
+/:	Fă bine pe-nserate,
+	Fă bine orișicând. :/	

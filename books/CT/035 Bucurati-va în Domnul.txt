@@ -1,0 +1,8 @@
+@Title Bucurati-va în Domnul
+@Number 035
+
+/:	Bucurați-vă în Domnul, zic.
+	Iarăși zic: bucurați-vă! :/
+	/:	Bucurați-vă, bucurați-vă
+		Iarăți zic: bucurați-vă! :/
+
