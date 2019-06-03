@@ -6,9 +6,9 @@
 	Ridicăm mâinile noastre
 	Înălțăm Numele Tău. :/
 
-R1:	/:	Ce mare ești
+R1:		Ce mare ești
 		Și ce mari minuni faci Tu
-		Și ca Tine altul nu-i. (x2) :/
+		Și ca Tine altul nu-i. (x2)
 		Ce mare ești.
 
 /:	Ai venit din ceruri
@@ -24,4 +24,5 @@ R1:	/:	Ce mare ești
 R2:		Că Tu ești Domn,
 		Tu ești Domn cu-adevărat
 		Și păcatul ne-ai purtat! (x2)
+		
 R1: ...
