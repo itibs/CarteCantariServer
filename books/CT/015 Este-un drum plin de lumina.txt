@@ -1,7 +1,7 @@
 @Title Este-un drum plin de lumina
 @Number 015
 
-Este-un drum plin de lumină
+1. Este-un drum plin de lumină
 Spre-un oraș îndepărtat
 Unde-i glorie, mărire,
 Fericire ne-ncetat.
@@ -13,7 +13,7 @@ La Mielul Lui Dumnezeu.
 R:	/:	Eu sunt călător pe pământ străin
 		Înspre Țara Sfântă pelerin :/
 
-Azi orașul este templul
+2. Azi orașul este templul
 Pentru Dumnezeul Sfânt,
 Dar curând el se va umple
 Cu oameni de pe pământ.
@@ -22,7 +22,10 @@ Ne ajută să simțim
 Dorul pentru noua casă
 Unde vrem și noi să fim.
 
-Orașu-acesta este gata
+R:	/:	Eu sunt călător pe pământ străin
+		Înspre Țara Sfântă pelerin :/
+		
+3. Orașu-acesta este gata
 Pregătită-i casa ta,
 Dumnezeu așteaptă clipa
 Când ești gata să te ia.
@@ -31,7 +34,10 @@ Dar nu dispera pe cale
 Tu doar laudă-L pe Isus
 Și-L iubește ne-ncetat.
 
-Este-un drum plin de lumină
+R:	/:	Eu sunt călător pe pământ străin
+		Înspre Țara Sfântă pelerin :/
+		
+4. Este-un drum plin de lumină
 Spre-un oraș îndepărtat
 Unde-i glorie, mărire,
 Fericire ne-ncetat.
