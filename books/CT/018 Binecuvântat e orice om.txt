@@ -1,12 +1,16 @@
 @Title Binecuvântat e orice om
 @Number 018
 
-/:	Binecuvântat e orice om
+1. /:	Binecuvântat e orice om
 	Ce se-ncrede-n Dumnezeu :/
 
 R: /:	Căci el va fi ca un pom
 		Sădit pe malul apei
 		Ce la timp aduce rod. :/
 
-/:	Chiar de arșița e mare
+2. /:	Chiar de arșița e mare
 	Frunzele-i rămân tot verzi :/
+
+R: /:	Căci el va fi ca un pom
+		Sădit pe malul apei
+		Ce la timp aduce rod. :/
