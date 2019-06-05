@@ -1,28 +1,42 @@
 @Title Cand sufletul meu plânge
 @Number 020
 
-	Când sufletul meu plânge
+1. 	Când sufletul meu plânge
 	Doamne eu privesc spre cer
-/:	Eu mă rog mereu la Tine
-	Și ajutor îti cer. :/
+	Eu mă rog mereu la Tine
+/:	Și ajutor îti cer. :/
 
 R:	Nimeni în afara de Tine, Isuse
 	Nu mă poate izbăvi
 	Nimeni în afara de Tine, Isuse
 	Nu ma poate liniști.
 
-	Pe acest pământ, Isuse
+2. 	Pe acest pământ, Isuse
 	Eu sunt ca și un străin
-/:	Și durerile-mi nespuse
-	Mă apasă pe deplin. :/
+	Și durerile-mi nespuse
+/:	Mă apasă pe deplin. :/
 
-	Doamne când sunt lângă  Tine
+R:	Nimeni în afara de Tine, Isuse
+	Nu mă poate izbăvi
+	Nimeni în afara de Tine, Isuse
+	Nu ma poate liniști.
+	
+3. 	Doamne când sunt lângă  Tine
 	Nu-i nimica mai frumos
-/:	Eu mă rog mereu la Tine
-	Să-mi faci viața cu folos. :/
+	Eu mă rog mereu la Tine
+/:	Să-mi faci viața cu folos. :/
 
-	Ce frumoasă-i tinerețea
+R:	Nimeni în afara de Tine, Isuse
+	Nu mă poate izbăvi
+	Nimeni în afara de Tine, Isuse
+	Nu ma poate liniști.
+	
+4. 	Ce frumoasă-i tinerețea
 	Petrecută cu Isus
-/:	Căci în țara mult dorită
-	Ne vom bucura nespus. :/
+	Căci în țara mult dorită
+/:	Ne vom bucura nespus. :/
 
+R:	Nimeni în afara de Tine, Isuse
+	Nu mă poate izbăvi
+	Nimeni în afara de Tine, Isuse
+	Nu ma poate liniști.
