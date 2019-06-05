@@ -1,15 +1,26 @@
 @Title La Tine Doamne îmi inalt sufletul
 @Number 021
 
-/:	La Tine Doamne îmi înalț sufletul :/
+1. /:	La Tine Doamne îmi înalț sufletul :/
 
-R:/:	Domnul meu, mă-ncred în Tine
+R: /:	Domnul meu, mă-ncred în Tine
 	Să nu fiu dat de rușine
 	Cel rău să nu se bucure de mine. :/
 
-/:	Învață-mă cărările Tale :/
+2. /:	Învață-mă cărările Tale :/
 
-/:	Cei ce cred sunt prieteni cu Domnul :/
+R: /:	Domnul meu, mă-ncred în Tine
+	Să nu fiu dat de rușine
+	Cel rău să nu se bucure de mine. :/
 
-/:	Nu-ți aminti greșelile mele:/
+3. /:	Cei ce cred sunt prieteni cu Domnul :/
 
+R: /:	Domnul meu, mă-ncred în Tine
+	Să nu fiu dat de rușine
+	Cel rău să nu se bucure de mine. :/
+
+4. /:	Nu-ți aminti greșelile mele:/
+
+R: /:	Domnul meu, mă-ncred în Tine
+	Să nu fiu dat de rușine
+	Cel rău să nu se bucure de mine. :/
