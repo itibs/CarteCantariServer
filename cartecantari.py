@@ -4,19 +4,24 @@ import json
 from os import listdir
 from os.path import isfile, join
 
-BOOKS = ['CC', 'J', 'CT']
+BOOKS = ['CC', 'J', 'CT', 'Cor']
 
-app = Flask(__name__)
+app = Flask(__name__, static_url_path='/static')
 
 @app.errorhandler(404)
 def not_found(error):
     return make_response(jsonify({'error': 'Not found'}), 404)
+
+@app.route('/bible.yes', methods=['GET'])
+def get_VDC():
+    return app.send_static_file('ro-cornilescu-correct.yes')
 
 @app.route('/CarteCantari/books', methods=['GET'])
 def get_books():
     return jsonify(
         [   {'id': 'CC', 'name': 'Cartea de Cantari'},
             {'id': 'J', 'name': 'Jubilate'},
+            {'id': 'Cor', 'name': 'Cantari Cor'},
             {'id': 'CT', 'name': 'Cartea de tineret'}])
 
 @app.route('/CarteCantari/books/<string:book_id>', methods=['GET'])
