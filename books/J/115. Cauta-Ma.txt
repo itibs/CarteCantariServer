@@ -1,4 +1,4 @@
-﻿@Title Caută-Mă
+@Title Caută-Mă
 @Number 115
 
 115. “Caută-Mă, caută-Mă,

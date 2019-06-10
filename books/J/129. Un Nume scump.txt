@@ -1,4 +1,4 @@
-﻿@Title Un Nume scump
+@Title Un Nume scump
 @Number 129
 
 129. Un Nume scump ne-a adunat,

@@ -1,4 +1,4 @@
-﻿@Title Vesti-voi azi
+@Title Vesti-voi azi
 @Number 123
 
 123. Vesti-voi azi mărirea Domnului,

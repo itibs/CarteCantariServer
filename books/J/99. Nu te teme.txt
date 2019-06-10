@@ -1,4 +1,4 @@
-﻿@Title Nu te teme
+@Title Nu te teme
 @Number 99
 
 99. Nu te teme, căci Eu sunt cu tine!

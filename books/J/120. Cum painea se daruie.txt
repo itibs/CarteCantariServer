@@ -1,12 +1,11 @@
-﻿@Title Cum pâinea se dăruie
+@Title Cum pâinea se dăruie
 @Number 120
 
-120. Cum pâinea se dăruie-ntruna
+1. Cum pâinea se dăruie-ntruna
 La toți flămânziții din gloată,
 Cum ea nu-și așteaptă cununa
 Și nici pentru jertfa-i răsplată,
-
-1. Așa să mă dărui, Isuse,
+Așa să mă dărui, Isuse,
 Ca pâinea pe căile-Ți drepte
 Și plata pe jertfele-aduse,
 Făptura-mi nicicând să n-aștepte.

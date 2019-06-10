@@ -1,4 +1,4 @@
-﻿@Title Facă-mi-se-ntotdeauna
+@Title Facă-mi-se-ntotdeauna
 @Number 111
 
 111. Facă-mi-se-ntotdeauna

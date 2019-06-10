@@ -1,4 +1,4 @@
-﻿@Title Nu mai sunt al meu
+@Title Nu mai sunt al meu
 @Number 117
 
 117. Nu mai sunt al meu de-acuma,
