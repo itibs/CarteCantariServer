@@ -1,7 +1,7 @@
 @Title Un Nume scump
 @Number 129
 
-129. Un Nume scump ne-a adunat,
+1. Un Nume scump ne-a adunat,
 Isus Cristos, măreţul Miel glorificat,
 Căci Tatăl ne-a unit prin Fiul Său iubit
 Cu pâine, vin, cu-al nostru Domn
