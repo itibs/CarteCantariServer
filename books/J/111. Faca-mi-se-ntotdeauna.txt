@@ -1,7 +1,7 @@
 @Title Facă-mi-se-ntotdeauna
 @Number 111
 
-111. Facă-mi-se-ntotdeauna
+1. Facă-mi-se-ntotdeauna
 După sfântul Tău Cuvânt,
 Chiar de-ar fi să-mi cadă toate
 Planurile la pământ.
