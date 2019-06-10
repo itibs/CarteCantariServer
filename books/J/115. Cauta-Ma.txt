@@ -1,7 +1,7 @@
 @Title Caută-Mă
 @Number 115
 
-115. “Caută-Mă, caută-Mă,
+1. “Caută-Mă, caută-Mă,
 Caută-Mă” zice azi Dumnezeu.
 “Caută-Mă, caută-Mă 
 Și Ție Mă voi descoperi!
