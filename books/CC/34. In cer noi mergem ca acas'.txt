@@ -1,4 +1,4 @@
-@Title In cer noi mergem ca acas'
+@Title În cer noi mergem ca acas'
 @Number 34
 
 1. În cer noi mergem ca acas';

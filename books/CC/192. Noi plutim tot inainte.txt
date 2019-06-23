@@ -1,4 +1,4 @@
-@Title Noi plutim tot inainte
+@Title Noi plutim tot înainte
 @Number 192
 
 1. Noi plutim tot înainte

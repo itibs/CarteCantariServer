@@ -1,4 +1,4 @@
-@Title Prin scumpul sange ce-a varsat
+@Title Prin scumpul sânge ce-a vărsat
 @Number 10
 
 1. Prin scumpul sânge ce-a vărsat

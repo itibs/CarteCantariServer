@@ -1,4 +1,4 @@
-@Title Cine, bate, cine, esti
+@Title Cine bate? Cine eşti?
 @Number 32
 
 1. Cine bate? Cine eşti?

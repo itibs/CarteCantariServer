@@ -1,4 +1,4 @@
-@Title Izbavit sunt acum
+@Title Izbăvit sunt acum
 @Number 279
 
 1. Izbăvit sunt acum

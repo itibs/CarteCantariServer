@@ -1,4 +1,4 @@
-@Title Vezi cum in zbor, se duce timpul
+@Title Vezi cum în zbor se duce timpul
 @Number 247
 
 1. Vezi cum, în zbor, se duce timpul?

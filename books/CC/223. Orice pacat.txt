@@ -1,4 +1,4 @@
-@Title Orice pacat
+@Title Orice păcat
 @Number 223
 
 1. Orice păcat (bis)

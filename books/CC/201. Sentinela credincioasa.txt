@@ -1,4 +1,4 @@
-@Title Sentinela credincioasa
+@Title Sentinelă credincioasă
 @Number 201
 
 1. Sentinelă credincioasă,

@@ -1,7 +1,7 @@
-@Title Haideti la lucru acuma
+@Title Haideţi la lucru-acuma
 @Number 26
 
-1. Haideţi la lucru-acum,
+1. Haideţi la lucru-acuma,
 Cât mai puteţi lucra!
 Haideţi, că-n timpul nopţii
 Nu veţi mai lucra!

@@ -1,4 +1,4 @@
-@Title Mantuitorule
+@Title Mântuitorule
 @Number 91
 
 1. Mântuitorule,

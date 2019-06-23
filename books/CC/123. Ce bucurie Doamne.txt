@@ -1,4 +1,4 @@
-@Title Ce bucurie Doamne
+@Title Ce bucurie, Doamne
 @Number 123
 
 1. Ce bucurie, Doamne,

@@ -1,4 +1,4 @@
-@Title Aceasta lume-i un pustiu
+@Title Această lume-i un pustiu
 @Number 121
 
 1. Această lume-i un pustiu;

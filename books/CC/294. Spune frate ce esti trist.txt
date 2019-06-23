@@ -1,4 +1,4 @@
-@Title Spune frate ce esti trist
+@Title Spune, frate ce eşti trist
 @Number 294
 
 1. Spune, frate: ce eşti trist?
