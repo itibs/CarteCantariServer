@@ -8,8 +8,8 @@ Ce ne-a dat-o Dumnezeu.
 
 Prin câmpii, prin munţi şi dealuri,
  Spre acel locaş frumos,
-Spre acel locaş frumos, - bis
-Drag prieten, hai cu noi!
+/: Spre acel locaş frumos,
+Drag prieten, hai cu noi! :/
 
 2. - Ce v-aşteaptă-n acea ţară,
 Ce v-aşteaptă, călători?
@@ -18,8 +18,8 @@ Pregătită de Isus.
 
 Cu Isus vom îi acolo,
 S-au sfârşit dureri şi lacrimi,
-S-au sfârşit dureri şi lacrimi, - bis
-Drag prieten, hai cu noi!
+/: S-au sfârşit dureri şi lacrimi,
+Drag prieten, hai cu noi! :/
 
 3. - Pe-acest drum sunt greutăţi mari,
 Oare ştiţi voi, călători?
@@ -28,8 +28,8 @@ Al Lui înger e cu noi.
 
 Dumnezeu ne este scutul,
 Călăuză ni-e Isus,
-Călăuză ni-e Isus, - bis
-Drag prieten, hai cu noi!
+/: Călăuză ni-e Isus,
+Drag prieten, hai cu noi! :/
 
 4. - Fericire-n ţara-aceea
 Oare şi eu pot găsi?
@@ -38,6 +38,6 @@ In acel locaş frumos.
 
 Prin a lui Isus jertfire,
 Cerul este azi deschis,
-Cerul este azi deschis,  - bis
-Drag prieten, hai cu noi!
+/: Cerul este azi deschis,
+Drag prieten, hai cu noi! :/
 
