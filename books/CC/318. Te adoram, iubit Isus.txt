@@ -1,5 +1,6 @@
-@Title Te adoram, iubit Isus
+@Title Te adorăm, iubit Isus
 @Number 318
+@Tag Adorare - Laudă
 
 1. Te adoram, iubit Isus,
 Slavitul nostru Salvator!

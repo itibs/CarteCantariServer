@@ -1,5 +1,6 @@
-@Title Isuse, n-am ce să-Ţi aduc
+@Title Isuse, n-am ce să-Ți aduc
 @Number 45
+@Tag Predarea
 
 1. Isuse, n-am ce să-Ţi aduc
 Decât ticăloşia mea;

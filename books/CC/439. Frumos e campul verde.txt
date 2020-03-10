@@ -1,5 +1,6 @@
-@Title Frumos e campul verde
+@Title Frumos e câmpul verde
 @Number 439
+@Tag Natura
 
 1. Frumos e câmpul verde
 De ierburi şi de flori;

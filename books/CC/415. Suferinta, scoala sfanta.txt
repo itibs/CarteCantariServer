@@ -1,5 +1,6 @@
-@Title Suferinta, scoala sfanta
+@Title Suferință, școală sfântă
 @Number 415
+@Tag Îmbărbătare - mângâiere
 
 1. Suferinţă, şcoală sfântă,
 Dar al harului de sus,

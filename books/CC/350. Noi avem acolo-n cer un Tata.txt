@@ -1,5 +1,6 @@
-@Title Noi avem acolo-n cer un Tata
+@Title Noi avem acolo-n cer un Tată
 @Number 350
+@Tag Dumnezeu
 
 1. Noi avem acolo-n cer un Tata
 Care tine-n larguri bolta instelata.

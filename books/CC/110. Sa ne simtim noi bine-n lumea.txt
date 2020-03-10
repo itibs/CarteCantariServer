@@ -1,5 +1,6 @@
-@Title Să ne simţim noi bine-n lumea
+@Title Să ne simțim noi bine-n lumea
 @Number 110
+@Tag Umblarea (purtarea) credinciosului
 
 1. Să ne simţim noi bine-n lumea
 Care n-a primit

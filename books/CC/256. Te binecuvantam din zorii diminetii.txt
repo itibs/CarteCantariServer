@@ -1,5 +1,6 @@
-@Title Te binecuvântăm din zorii dimineţii
+@Title Te binecuvântăm din zorii dimineții
 @Number 256
+@Tag Adorare - Laudă
 
 1. Te binecuvântăm, din zorii dimineţii;
 Al Tău braţ zi şi noapte scut de fier ne-a fost.

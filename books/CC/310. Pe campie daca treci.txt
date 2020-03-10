@@ -1,5 +1,6 @@
-@Title Pe campie daca treci
+@Title Pe câmpie dacă treci
 @Number 310
+@Tag Natura
 
 1. Pe campie daca treci, (bis)
 Florile zambesc usor,

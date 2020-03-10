@@ -1,5 +1,6 @@
-@Title Tu cunoşti acea cetate
+@Title Tu cunoști acea cetate
 @Number 184
+@Tag Nădejdea credinciosului
 
 1. Tu cunoşti acea cetate
 Strălucind în ceruri?

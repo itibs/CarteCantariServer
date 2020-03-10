@@ -1,5 +1,6 @@
 @Title Călător pe-acest pământ sunt
 @Number 215
+@Tag Umblarea (purtarea) credinciosului
 
 1. Călător pe-acest pământ sunt,
 Dar spre cer înaintez;

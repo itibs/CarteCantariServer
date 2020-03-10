@@ -1,5 +1,6 @@
-@Title Nu se poate sa nu fie
+@Title Nu se poate să nu fie
 @Number 337
+@Tag Nădejdea credinciosului
 
 1. Nu se poate sa nu fie
 Tara Sfanta ce-o dorim,

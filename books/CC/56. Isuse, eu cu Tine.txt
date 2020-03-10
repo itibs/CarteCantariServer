@@ -1,5 +1,6 @@
-@Title Isuse, eu cu Tine
+@Title Isuse, eu cu Tine
 @Number 56
+@Tag Umblarea (purtarea) credinciosului
 
 1. Isuse, eu cu Tine
 Nu-s singur niciodat',

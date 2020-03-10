@@ -1,5 +1,6 @@
 @Title Această lume-i un pustiu
 @Number 121
+@Tag Nădejdea credinciosului
 
 1. Această lume-i un pustiu;
 Noi suntem străini în ea,

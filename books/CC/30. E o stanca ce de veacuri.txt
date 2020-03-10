@@ -1,5 +1,6 @@
-@Title E o Stâncă ce de veacuri
+@Title E o stâncă ce de veacuri
 @Number 30
+@Tag Biruința creștinului
 
 1. E o Stâncă ce de veacuri
 Stă în valuri, neclintit,

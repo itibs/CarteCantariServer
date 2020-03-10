@@ -1,5 +1,6 @@
 @Title Noi avem un bun Prieten
 @Number 79
+@Tag Mântuirea - roadele ei
 
 1. Noi avem un bun Prieten
 Cum ne-a iubit!

@@ -1,5 +1,6 @@
-@Title Sunt un bulgar de nimic
+@Title Sunt un bulgăr de nimic
 @Number 387
+@Tag Mântuirea - roadele ei
 
 1. Sunt un bulgar de nimic,
 Sunt un strop de roua-n soare

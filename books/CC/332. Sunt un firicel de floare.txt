@@ -1,5 +1,6 @@
 @Title Sunt un firicel de floare
 @Number 332
+@Tag Poziția credinciosului
 
 1. Sunt un firicel de floare (bis)
 Langa crucea cu piroane.

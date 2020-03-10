@@ -1,5 +1,8 @@
 @Title Marele “Eu sunt”
 @Number 1
+@Text: Twila Paris
+@Trad: Iulian Teodorescu
+@Music: Twila Paris
 
 1. Aleluia Regelui Preasfânt, 
 Mielului făr’ de cusur,

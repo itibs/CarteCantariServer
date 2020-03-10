@@ -1,5 +1,6 @@
-@Title Aici suntem straini
+@Title Aici suntem străini
 @Number 99
+@Tag Poziția credinciosului
 
 1. Aici suntem străini:
 Casa ne este în cer.
