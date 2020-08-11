@@ -55,6 +55,11 @@ def get_song_json(song_filename):
                 song_json['title'] = val.strip()
             elif key == '@Number':
                 song_json['number'] = val.strip()
+            elif key == '@Tag':
+                if 'tags' in song_json:
+                    song_json['tags'].append(val.strip())
+                else:
+                    song_json['tags'] = [val.strip()]
             else:
                 print 'Unknown metadata song field: ' + key
 
