@@ -60,6 +60,14 @@ def get_song_json(song_filename):
                     song_json['tags'].append(val.strip())
                 else:
                     song_json['tags'] = [val.strip()]
+            elif key == '@Lyricist':
+                song_json['lyricist'] = val.strip()
+            elif key == '@Composer':
+                song_json['composer'] = val.strip()
+            elif key == '@OriginalTitle':
+                song_json['original_title'] = val.strip()
+            elif key == '@References':
+                song_json['references'] = val.strip()
             else:
                 print 'Unknown metadata song field: ' + key
 
@@ -73,7 +81,7 @@ def get_book_json(book_id):
     book_json = {}
     book_json['id'] = book_id
     book_json['songs'] = []
-    #return {'msg': [f for f in listdir(book_path)]}
+
     for fname in files:
         song_json = get_song_json(join(book_path, fname))
         book_json['songs'].append(song_json)
