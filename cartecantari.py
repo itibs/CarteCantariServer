@@ -8,6 +8,8 @@ BOOKS = ['CC', 'J', 'CT', 'Cor']
 
 app = Flask(__name__, static_url_path='/static')
 
+META_FIELDS = ['title', 'number', 'author', 'composer', 'original_title', 'references', 'tag']
+
 @app.errorhandler(404)
 def not_found(error):
     return make_response(jsonify({'error': 'Not found'}), 404)
@@ -51,23 +53,15 @@ def get_song_json(song_filename):
         song_json = {}
         for metaline in metalines:
             key, val = metaline.split(' ', 1)
-            if key == '@Title':
-                song_json['title'] = val.strip()
-            elif key == '@Number':
-                song_json['number'] = val.strip()
-            elif key == '@Tag':
-                if 'tags' in song_json:
-                    song_json['tags'].append(val.strip())
+            meta_field = key[1:].lower()
+            if meta_field in META_FIELDS:
+                if meta_field == 'tag':
+                    if 'tags' in song_json:
+                        song_json['tags'].append(val.strip())
+                    else:
+                        song_json['tags'] = [val.strip()]
                 else:
-                    song_json['tags'] = [val.strip()]
-            elif key == '@Lyricist':
-                song_json['lyricist'] = val.strip()
-            elif key == '@Composer':
-                song_json['composer'] = val.strip()
-            elif key == '@OriginalTitle':
-                song_json['original_title'] = val.strip()
-            elif key == '@References':
-                song_json['references'] = val.strip()
+                    song_json[meta_field] = val.strip()
             else:
                 print 'Unknown metadata song field: ' + key
 
