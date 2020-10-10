@@ -3,12 +3,14 @@ from flask import Flask, jsonify, abort, make_response
 import json
 from os import listdir
 from os.path import isfile, join
+import io
+import pdb
 
 BOOKS = ['CC', 'J', 'CT', 'Cor']
 
 app = Flask(__name__, static_url_path='/static')
 
-META_FIELDS = ['title', 'number', 'author', 'composer', 'original_title', 'references', 'tag']
+META_FIELDS = [u'title', u'number', u'author', u'composer', u'original_title', u'references', u'tag']
 
 @app.errorhandler(404)
 def not_found(error):
@@ -43,7 +45,7 @@ def strip_lines(lines):
         return lines[i:]
     return []
 
-def get_song_json(song_filename):
+def get_song_json(song_filename, get_fname=False):
     with open(song_filename, 'rw') as f:
         lines = f.readlines()
         metalines = [l for l in lines if len(l) > 0 and l[0] == '@']
@@ -63,13 +65,19 @@ def get_song_json(song_filename):
                 else:
                     song_json[meta_field] = val.strip()
             else:
-                print 'Unknown metadata song field: ' + key
+                # print 'Unknown metadata song field: ' + key + str((song_filename, val))
+                pass
 
         text = ''.join(lines)
         song_json['text'] = text
+        if get_fname:
+            if '/' in song_filename:
+                idx = song_filename.rfind('/')
+                song_filename = song_filename[idx+1:]
+            song_json['fname'] = song_filename
         return song_json
 
-def get_book_json(book_id):
+def get_book_json(book_id, get_fname=False):
     book_path = 'books/' + book_id
     files = [f for f in listdir(book_path) if isfile(join(book_path, f))]
     book_json = {}
@@ -77,10 +85,26 @@ def get_book_json(book_id):
     book_json['songs'] = []
 
     for fname in files:
-        song_json = get_song_json(join(book_path, fname))
+        song_json = get_song_json(join(book_path, fname), get_fname)
         book_json['songs'].append(song_json)
 
     return book_json
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', debug=True)
+
+def save_song_json(song_filename, song_json):
+    with io.open(song_filename, 'w', encoding='utf-8') as f:
+        for meta_field in META_FIELDS:
+            if meta_field in song_json and song_json[meta_field] != '':
+                f.write(u'@{} {}\n'.format(meta_field.title(), touni(song_json[meta_field])))
+        if 'tags' in song_json:
+            for tag in song_json['tags']:
+                f.write(u'@Tag {}\n'.format(touni(tag)))
+        f.write(u'\n')
+        f.write(touni(song_json['text']))
+
+def touni(s):
+    if isinstance(s, str):
+        return s.decode('utf-8')
+    return s
