@@ -1,4 +1,6 @@
 @Title În orice colț de noapte
+@Author Angela Tamaș
+@Composer Raluca Vieriu
 
 1. Privirea Ta cutremură pământul,
 La glasul Tău se-așterne chiar și vântul

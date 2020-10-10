@@ -1,4 +1,6 @@
 @Title Inger alb din cerul sfant
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Înger alb din cerul sfânt
 Se coboară pe pământ

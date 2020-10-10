@@ -1,4 +1,6 @@
 @Title Dar din glorii
+@Author Alina Bălăceanu, Emanuel Bălăceanu
+@Composer Alina si Emanuel Balaceanu
 
 1. Nimeni dintre noi nu se gândea 
 C-ai să vii să locuieşti

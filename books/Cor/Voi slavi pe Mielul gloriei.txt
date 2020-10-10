@@ -1,4 +1,6 @@
 @Title Voi slavi pe Mielul gloriei
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 Voi slăvi pe Mielul gloriei,
 Regelui regilor mă-nchin.

@@ -1,4 +1,6 @@
 @Title Tatăl nostru
+@Author Titus C. Adorian
+@Composer Titus C. Adorian
 
 Tatăl nostru, care ești în ceruri,
 Fie numele-Ți sfințit!

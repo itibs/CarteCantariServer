@@ -1,4 +1,6 @@
 @Title O, crește-mi iubirea
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 
 1. O, creşte-mi iubirea în inima mea
 Isuse, Isuse, mereu Te-oi ruga.

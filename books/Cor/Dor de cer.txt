@@ -1,4 +1,6 @@
 @Title Dor de cer
+@Author Chris Rice, trad. Maia Balas si Cristina Ciora
+@Composer Chris Rice
 
 1. În orice suflet
 e-un tainic dor

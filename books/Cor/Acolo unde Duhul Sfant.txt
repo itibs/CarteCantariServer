@@ -1,4 +1,6 @@
 @Title Acolo unde Duhul Sfant
+@Author G. Adam 
+@Composer J. Sweney
 
 1. Acolo unde Duhul Sfânt 
 domneşte, pace e,

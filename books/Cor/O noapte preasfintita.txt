@@ -1,4 +1,7 @@
 @Title O noapte preasfintita
+@Author Franz Xaver Gruber
+@Composer Franz Xaver Gruber
+@Original_Title Stille Nacht, heilige Nacht
 
 1. O, noapte preasfinţită
 Toate-s în odihnă,

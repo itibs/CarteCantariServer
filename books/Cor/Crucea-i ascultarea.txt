@@ -1,4 +1,6 @@
 @Title Crucea-i ascultarea
+@Author Nicolae Moldoveanu
+@Composer Michael Farren, Rich Thompson and Jonny Robinson
 
 1. Crucea-i ascultarea Domnului Isus,
 Cea mai ‘naltă Jertfă care s-a adus;

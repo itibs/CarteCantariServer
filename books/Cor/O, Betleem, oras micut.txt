@@ -1,4 +1,7 @@
 @Title O, Betleem, oras micut
+@Author Phillips Brooks
+@Composer Lewis H. Redner
+@Original_Title O Little Town of Bethlehem
 
 1. O, Betleem, oraş micuţ,
 Cum dormi de liniştit

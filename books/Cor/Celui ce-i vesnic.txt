@@ -1,4 +1,7 @@
 @Title Celui ce-i vesnic
+@Author Kurt Kaiser.
+@Composer Kurt Kaiser.
+@Original_Title Oh, how He loves you and me!
 
 /: Celui ce-i veşnic
 Îi dăm onoare,

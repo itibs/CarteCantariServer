@@ -1,4 +1,7 @@
 @Title Via Dolorosa
+@Author Billy Sprague, Niles Borop
+@Composer Billy Sprague, Niles Borop
+@Original_Title Via Dolorosa
 
 Jos pe Via Dolorosa,
 În-acea zi-n Ierusalim,

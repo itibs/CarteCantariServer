@@ -1,4 +1,7 @@
 @Title Cu Tine nu sunt singur
+@Author Andrae Crouch
+@Composer Andrae Crouch
+@Original_Title My Tribute
 
 1. Cu Tine nu sunt singur 
 Doamne orice'ar fi

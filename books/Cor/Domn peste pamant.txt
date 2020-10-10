@@ -1,4 +1,6 @@
 @Title Domn peste pamant
+@Author Michael W. Smith & Debbie Smith
+@Composer Michael W. Smith & Debbie Smith
 
 Domn peste pământ,
 Peste Univers şi peste noi,

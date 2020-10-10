@@ -1,4 +1,6 @@
 @Title Cu bucurie sa cantati
+@Author Benoni Catana
+@Composer Benoni Catana
 
 1. Cu bucurie să cântaţi,
 Căci S-a născut Isus!

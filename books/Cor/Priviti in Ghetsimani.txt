@@ -1,4 +1,6 @@
 @Title Priviti in Ghetsimani
+@Author I. Milutanul
+@Composer I. Milutanul
 
 /: Priviţi în Ghetsimani, 
 La Domnul meu Isus

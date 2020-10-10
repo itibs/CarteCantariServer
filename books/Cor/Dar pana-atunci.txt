@@ -1,4 +1,7 @@
 @Title Dar pana-atunci
+@Author Stuart Hamblen
+@Composer Stuart Hamblen
+@Original_Title Until Then
 
 1. În lumea-aceasta toate-s trecătoare
 Se duc întruna, toate vor pieri.

@@ -1,4 +1,6 @@
 @Title Din El prin El si pentru El
+@Author Alecu Iacob
+@Composer Alecu Iacob
 
 /: Din El, Prin El si pentru El
 Sunt toate lucrurile! :/

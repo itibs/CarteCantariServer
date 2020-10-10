@@ -1,4 +1,6 @@
 @Title Nu mai fi trist
+@Author Ira Stanphill
+@Composer Ira Stanphill
 
 /: Nu mai fi trist, 
 Căci pentru tine

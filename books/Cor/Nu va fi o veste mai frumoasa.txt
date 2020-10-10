@@ -1,4 +1,7 @@
 @Title Nu va fi o veste mai frumoasa
+@Author John Peterson
+@Composer John Peterson
+@Original_Title There will never be a sweeter story
 
 1. Nu va fi o veste mai frumoasă
 Ca salvarea dată prin Isus,

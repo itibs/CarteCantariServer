@@ -1,4 +1,6 @@
 @Title Spala-ma in raul dragostei
+@Author Anonim
+@Composer anonim
 
 /: Spală-mă în râul dragostei,
 Umple-mă deplin cu bucurie sfântă,

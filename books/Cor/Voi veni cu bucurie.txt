@@ -1,4 +1,6 @@
 @Title Voi veni cu bucurie
+@Author Iovan Miclea
+@Composer Iovan Miclea
 
 Voi veni cu bucurie 
 înaintea Domnului,

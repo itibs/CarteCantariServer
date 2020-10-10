@@ -1,4 +1,7 @@
 @Title Colindul ingerilor
+@Author John Rutter, adapt. Carmen Gavril
+@Composer John Rutter
+@Original_Title Angel's Carol
 
 1. Oare-aţi auzit 
 răsunând în slavă

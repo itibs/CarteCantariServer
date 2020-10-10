@@ -1,4 +1,6 @@
 @Title Isuse, niciodată
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 
 1. Isuse, niciodată
 Nu-i nimeni să-mi mai ia

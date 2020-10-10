@@ -1,4 +1,5 @@
 @Title Isus m-ai cuprins din necuprins
+@Composer Tom Coomes
 
 1. Isus m-ai cuprins din necuprins,
 Isus, viaţă-n mine ai aprins,

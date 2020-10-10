@@ -1,4 +1,7 @@
 @Title Fata Ta
+@Author Eileen Berry, adapt. Măriuca Mihalache
+@Composer Dan Forrest
+@Original_Title To Behold Thee
 
 1. Sătul de-atât păcat mă-ntorc 
 la Tine, în sfârşit,

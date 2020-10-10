@@ -1,4 +1,6 @@
 @Title Break my plans
+@Author This Hope
+@Composer This Hope
 
 1. The praise songs of a nation
 flowed from his hand

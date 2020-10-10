@@ -1,4 +1,6 @@
 @Title Mă cufund în oceanul de har
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Mă cufund în oceanul de har
 Și găsesc perle sfinte de cer,

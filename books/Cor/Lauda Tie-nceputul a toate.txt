@@ -1,4 +1,6 @@
 @Title Laudă Ţie-nceputul a toate
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Laudă Ţie-nceputul a toate,
 Laudă Ţie, Etern Dumnezeu!
