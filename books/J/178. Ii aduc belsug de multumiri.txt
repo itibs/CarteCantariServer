@@ -1,5 +1,8 @@
 @Title Îi aduc belșug de mulțumiri
 @Number 178
+@Author Stuart Townend, Keith Getty, adapt. Daniel Suciu, Echipa Jubilate
+@Composer Stuart Townend, Keith Getty
+@Original_Title My Heart Is Filled with Thankfulness
 
 1. Îi aduc belşug de mulţumiri, 
 Căci El m-­a alinat, 

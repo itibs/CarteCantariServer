@@ -1,5 +1,7 @@
 @Title Înger alb
 @Number 198
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Înger alb din cerul sfânt 
 se coboară pe pământ,

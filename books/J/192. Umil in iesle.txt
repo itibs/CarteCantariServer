@@ -1,5 +1,7 @@
 @Title Umil în iesle
 @Number 192
+@Author Voicu Mureșan
+@Composer Voicu Mureșan
 
 1. Umil în iesle Te-ai născut, 
 Isus, iubite Domn,

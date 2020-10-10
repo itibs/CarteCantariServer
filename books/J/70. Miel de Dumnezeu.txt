@@ -1,5 +1,9 @@
 @Title Miel de Dumnezeu
 @Number 70
+@Author Shlomo Berger, adapt. Carmen Gavril, Iulian Teodorescu
+@Composer Shlomo Berger
+@Original_Title Se haElohim
+
 
 Miel de Dumnezeu 
 Ce ridici păcatul greu,

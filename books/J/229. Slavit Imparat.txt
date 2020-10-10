@@ -1,5 +1,7 @@
 @Title Slăvit Împărat
 @Number 229
+@Author Monica Turtoi
+@Composer Monica Turtoi
 
 1. Tu, Doamne, ești plin de-ndurare,
 De har Ți-este nins tot veșmântul,

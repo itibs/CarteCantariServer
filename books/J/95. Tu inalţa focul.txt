@@ -1,5 +1,7 @@
 @Title Tu înalţă focul
 @Number 95
+@Author adapt. Carmen Gavril
+@Composer Melodie tradițională evreiască
 
 1. Tu înalţă focul în adâncul meu,
 Flacăra luminii răspândind mereu,

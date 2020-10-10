@@ -1,5 +1,7 @@
 @Title O, creste-mi iubirea
 @Number 272
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 
 O, crește-mi iubirea în inima mea
 Isuse, Isuse mereu te-oi ruga

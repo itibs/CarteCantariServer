@@ -1,5 +1,8 @@
 @Title Iată, eu stau la ușă și bat
 @Number 265
+@Author Sabina Tinco
+@Composer Sabina Tinco
+@References Apocalipsa 3:20
 
 1. Iată, Eu stau la ușă și bat.
 Dacă-aude cineva glasul Meu și deschide,

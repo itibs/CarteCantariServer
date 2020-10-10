@@ -1,5 +1,8 @@
 @Title Astăzi venim
 @Number 36
+@Author Imn latin atribuit lui John Francis Wade, adapt. Ovidiu Niculaș
+@Composer John Francis Wade
+@Original_Title Adeste Fideles
 
 1. Astăzi venim toți, cu bucurie,
 La Betleem să ne închinăm.

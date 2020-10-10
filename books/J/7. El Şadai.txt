@@ -1,5 +1,9 @@
 @Title El Şadai
 @Number 7
+@Author John Thompson, Michael Card, adapt. Carmen Gavril
+@Composer John Thompson, Michael Card
+@Original_Title El Shaddai
+@References Geneza 17:1, 22:13, Psalmul 7:17
 
 R: El Şadai, El Şadai, Înălţate Adonai,
 Neschimbat din veşnicii,

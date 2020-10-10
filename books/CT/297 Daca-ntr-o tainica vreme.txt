@@ -1,5 +1,7 @@
 @Title Daca-ntr-o tainica vreme
 @Number 297
+@Author Costache Ioanid
+@Composer Nicolae Moldoveanu
 
 Dacă-ntr-o tainică vreme
 Din lut Cineva mă făcu

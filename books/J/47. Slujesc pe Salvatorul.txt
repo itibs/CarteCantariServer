@@ -1,5 +1,8 @@
 @Title Slujesc pe Salvatorul
 @Number 47
+@Author Alfred Ackley
+@Composer Alfred Ackley
+@Original_Title He lives
 
 1. Slujesc pe Salvatorul, 
 Pe Cel ce-a înviat.

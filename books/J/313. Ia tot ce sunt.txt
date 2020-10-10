@@ -1,5 +1,8 @@
 @Title Ia tot ce sunt
 @Number 313
+@Author William Himes, adapt. Echipa Jubilate
+@Composer William Himes
+@Original_Title All That I am
 
 R: Ia tot ce sunt și ce pot fi,
 Ia tot ce am și ce voi deveni,

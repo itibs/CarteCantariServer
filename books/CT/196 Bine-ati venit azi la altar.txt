@@ -1,5 +1,7 @@
 @Title Bine-ati venit azi la altar
 @Number 196
+@Author Cristian Vasile Roske
+@Composer Cristian Vasile Roske
 
 Bine-ați venit azi la altar
 În Casa Domnului Sfânt

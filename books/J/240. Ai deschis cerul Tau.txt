@@ -1,5 +1,7 @@
 @Title Ai deschis cerul Tău
 @Number 240
+@Author Adi Galiger
+@Composer Adi Galiger
 
 1. Ai deschis cerul Tău,
 Ai lăsat slava Ta și-ai venit 

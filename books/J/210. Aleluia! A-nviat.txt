@@ -1,5 +1,8 @@
 @Title Aleluia! A-nviat!
 @Number 210
+@Author Chris Pearse, adapt. Ruben Mureșan
+@Composer Chris Pearse
+@Original_Title Hallelujah, Christ is Risen
 
 Vocea 1
 /: Aleluia! Domnu-i Rege!

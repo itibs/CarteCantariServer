@@ -1,5 +1,8 @@
 @Title Ce tainică și mare
 @Number 190
+@Author N. F. S. Grundtvig (1783-1872), adapt. Emanuel Bălăceanu
+@Composer Carl Nielsen (1865-1931)
+@Original_Title Forunderligt at sige
 
 1. Ce tainică și mare, și greu de înțeles,
 Și totuși, ce duioasă e vestea ce-o primesc:

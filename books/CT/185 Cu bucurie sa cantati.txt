@@ -1,5 +1,8 @@
 @Title Cu bucurie sa cantati
 @Number 185
+@Author Isaac Walts
+@Composer George Frederick Handel
+@Original_Title Joy to the world
 
 Cu bucurie să cântați
 Căci s-a născut Isus.

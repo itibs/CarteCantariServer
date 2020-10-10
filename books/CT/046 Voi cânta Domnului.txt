@@ -1,5 +1,8 @@
 @Title Voi cânta Domnului
 @Number 046
+@Author Claude Fraysse
+@Composer Claude Fraysse
+
 
 1. Voi cânta Domnului din tot sufletul
 Și din toată inima voi cânta,

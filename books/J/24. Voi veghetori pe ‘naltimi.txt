@@ -1,5 +1,7 @@
 @Title Voi veghetori pe ‘nălțimi
 @Number 24
+@Author Athelstan Riley, adapt. Benone Burtescu
+@Original_Title Geistliche Kirchengesänge
 
 1. Voi veghetori pe ‘nălțimi,
 Voi heruvimi și serafimi,

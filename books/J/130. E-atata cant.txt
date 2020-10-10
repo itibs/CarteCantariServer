@@ -1,5 +1,6 @@
 @Title E-atâta cânt
 @Number 130
+@Composer Ralph Vaughn Williams (1872-1958)
 
 1. E-atâta cânt sub cerul necuprins,
 Şi-n suflete astăzi soare s-a aprins,

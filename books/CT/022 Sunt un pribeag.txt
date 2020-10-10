@@ -1,5 +1,9 @@
 @Title Sunt un pribeag
 @Number 022
+@Author necunoscut
+@Composer Melodie traditionala americana
+@Original_Title Wayfaring Stranger
+
 
 1. Sunt un pribeag fără de țară
 Rătăcitor prin lung pustiu,

@@ -1,5 +1,7 @@
 @Title Eu stiu ca Domnul ne-a creat
 @Number 162
+@Author Alexandru Groza
+@Composer Alexandru Groza
 
 Eu știu că Domnul ne-a creat
 După făptura Lui

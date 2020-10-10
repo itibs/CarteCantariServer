@@ -1,5 +1,8 @@
 @Title Domnul vieții vă fie sprijin
 @Number 350
+@Author E. Fred Morris, adapt. Daniel Ciotlăuș
+@Composer E. Fred Morris
+@Original_Title The Lord Bless You
 
 1. Domnul vieții vă fie sprijin,
 brațul Lui să vă fie tăria,

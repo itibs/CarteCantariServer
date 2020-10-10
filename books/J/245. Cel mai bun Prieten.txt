@@ -1,5 +1,7 @@
 @Title Cel mai bun Prieten
 @Number 245
+@Author Benoni Catană
+@Composer Alina Radu
 
 1. Cel mai bun Prieten, bucuria mea,
 Doamne, lângă Tine-mi cântă inima!

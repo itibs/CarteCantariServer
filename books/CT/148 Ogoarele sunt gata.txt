@@ -1,5 +1,8 @@
 @Title Ogoarele sunt gata
 @Number 148
+@Author Chris Bowater
+@Composer Chris Bowater
+@Original_Title Here I am
 
 R:	/:	Sunt aici, la dispoziția Ta,
 		Cheamă-mă, Te voi asculta. :/

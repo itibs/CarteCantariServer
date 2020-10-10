@@ -1,6 +1,7 @@
 @Title Un cor îngeresc
 @Number 032
 
+
 1. /:	Un cor îngeresc
 	Din cer se-aude chemând:
 	„O, păcătos, vin' la Isus!”,

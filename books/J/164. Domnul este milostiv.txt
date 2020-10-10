@@ -1,5 +1,7 @@
 @Title Domnul este milostiv
 @Number 164
+@Composer Kenneth Tucker
+@References Psalmul 145
 
 R: Domnul este milostiv, 
 Plin de îndurare,

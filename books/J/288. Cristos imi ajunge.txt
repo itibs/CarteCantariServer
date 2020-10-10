@@ -1,5 +1,8 @@
 @Title Cristos îmi ajunge
 @Number 288
+@Author Graham Kendrick, adapt. Daniel Suciu
+@Composer Graham Kendrick
+@Original_Title For This I have Jesus
 
 1. Pentru zâmbet și-ntristare, pentru zori și-apus,
 Pentru azi și ce-i în zare, pentru ceasul scurs,

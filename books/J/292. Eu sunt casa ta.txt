@@ -1,5 +1,8 @@
 @Title Eu sunt casa ta
 @Number 292
+@Author Micahel Card
+@Composer Michael Card
+@Original_Title I Will Bring You Home
 
 1. Chiar de ești singur, fără-adăpost,
 Eu sunt casa ta.

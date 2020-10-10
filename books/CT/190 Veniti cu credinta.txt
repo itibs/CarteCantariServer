@@ -1,5 +1,8 @@
 @Title Veniti cu credinta
 @Number 190
+@Author Imn latin atribuit lui John Francis Wade, adapt. text: Ovidiu Niculas
+@Composer John Francis Wade
+@Original_Title adeste fideles
 
 Veniți cu credință, plini de bucurie
 Veniți, o, veniți toți azi la Betleem!

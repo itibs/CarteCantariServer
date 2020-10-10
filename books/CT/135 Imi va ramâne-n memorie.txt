@@ -1,5 +1,6 @@
 @Title Imi va ramâne-n memorie
 @Number 135
+@Composer John W. Peterson
 
 Îmi va rămâne-n memorie-o zi
 Când s-a schimbat viața mea.

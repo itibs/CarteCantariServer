@@ -1,5 +1,7 @@
 @Title Când simti în piept amar
 @Number 158
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 Când simți în piept amar mustrarea
 Pentru păcatul tău aprins,

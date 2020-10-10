@@ -1,5 +1,7 @@
 @Title Isuse, bucuria mea
 @Number 92
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Tu mi-ai fost, Isuse, toată bucuria mea,
 Niciodată, niciodată n-am să pot uita.

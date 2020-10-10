@@ -1,5 +1,6 @@
 @Title Spala-mi Doamne gândul
 @Number 080
+@Author Costache Ioanid
 
 Spală-mi Doamne gândul
 Spală-mi Doamne viața

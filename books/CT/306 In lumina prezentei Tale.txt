@@ -1,5 +1,8 @@
 @Title In lumina prezentei Tale
 @Number 306
+@Author Graham Kendrick (1987)
+@Composer Graham Kendrick (1987)
+@Original_Title Shine, Jesus, shine
 
 	În lumina prezenței Tale
 	Întunericul va dispare

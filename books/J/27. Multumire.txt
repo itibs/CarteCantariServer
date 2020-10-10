@@ -1,5 +1,7 @@
 @Title Mulțumire
 @Number 27
+@Author Folliott S. Pierpoint, adapt. Carmen Gavril
+@Composer Conrad Kocher
 
 1. Pentru tot ce-n mână ții,
 Lume, soare, cer și nori,

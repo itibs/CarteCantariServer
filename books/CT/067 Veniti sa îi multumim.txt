@@ -1,5 +1,8 @@
 @Title Veniti sa îi multumim
 @Number 067
+@Author Henry Smith
+@Composer Henry Smith
+@Original_Title Give Thanks
 
 Veniți să Îi mulțumim
 Veniți să Îl preamărim

@@ -1,5 +1,8 @@
 @Title Numai prin har
 @Number 64
+@Author Gerrit Gustafson
+@Composer Gerrit Gustafson
+@Original_Title Only by grace
 
 1. Numai prin har e intrare,
 Numai prin har ne-nchinăm.

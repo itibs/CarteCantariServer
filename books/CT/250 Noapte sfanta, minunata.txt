@@ -1,5 +1,7 @@
 @Title Noapte sfanta, minunata
 @Number 250
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 Noapte sfântă, minunată
 Ceru-ți este luminos,

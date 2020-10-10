@@ -1,5 +1,8 @@
 @Title Zi de zi
 @Number 52
+@Author Stuart Townend, adapt. Carmen Gavril
+@Composer Stuart Townend
+@Original_Title All my days (Beautiful Saviour)
 
 1. Zi de zi din fântâna mântuirii
 Am să ‘nalț fericit un cântec nou

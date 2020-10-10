@@ -1,5 +1,7 @@
 @Title Pâine a vieții
 @Number 272
+@Author David Hudson
+@Composer David Hudson
 
 R: Pâine a vieții pogorâtă din cer,
 Dă-ni-Te pe Tine nouă astăzi!

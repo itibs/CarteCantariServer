@@ -1,5 +1,7 @@
 @Title Sfant locas, tainic locas
 @Number 177
+@Author Joseph Mohr
+@Composer Franz Xaver Gruber
 
 	Sfânt locaș, tainic locaș
 	Totul doarme în oraș

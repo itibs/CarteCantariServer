@@ -1,5 +1,8 @@
 @Title Duh Preasfânt
 @Number 250
+@Author Stuart Townend, Keith Getty, adapt. Daniel Suciu, Echipa Jubilate
+@Composer Stuart Townend, Keith Getty
+@Original_Title Holy Spirit, Living Breath of God
 
 1. Duh Preasfânt, Suflarea Celui Viu,
 suflă viață-n sufletu-mi uscat,

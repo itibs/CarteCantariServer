@@ -1,5 +1,7 @@
 @Title Caută-Mă
 @Number 115
+@Author Augustin Roșian
+@Composer Anonim
 
 1. “Caută-Mă, caută-Mă,
 Caută-Mă” zice azi Dumnezeu.

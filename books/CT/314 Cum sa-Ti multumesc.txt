@@ -1,5 +1,8 @@
 @Title Cum sa-Ti multumesc
 @Number 314
+@Author Andrae Crouch
+@Composer Andrae Crouch
+@Original_Title My Tribute
 
 Cum să-Ți mulțumesc
 Pentru tot ce mi-ai dăruit?

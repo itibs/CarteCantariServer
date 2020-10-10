@@ -1,5 +1,7 @@
 @Title Facă-mi-se-ntotdeauna
 @Number 111
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Facă-mi-se-ntotdeauna
 După sfântul Tău Cuvânt,

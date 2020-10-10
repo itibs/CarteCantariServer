@@ -1,5 +1,7 @@
 @Title O, ce veste plina de bucurii
 @Number 382
+@Author Franklin Edson Belden
+@Composer Franklin Edson Belden
 
 Oastea de îngeri ne-a adus!
 E o veste a marii îndurări,

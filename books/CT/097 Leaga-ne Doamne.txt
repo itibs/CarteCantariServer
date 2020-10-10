@@ -1,5 +1,8 @@
 @Title Leaga-ne Doamne
 @Number 097
+@Author Bob Gillman
+@Composer Bob Gillman
+@Original_Title Bind us together
 
 Leagă-ne Doamne pe toți împreună
 Cu lanțuri ce nu pot fi rupte.

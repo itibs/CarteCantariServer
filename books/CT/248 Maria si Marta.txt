@@ -1,5 +1,7 @@
 @Title Maria si Marta
 @Number 248
+@Author Costache Ioanid
+@Composer Nicolae Moldoveanu
 
 	Maria și Marta sunt două surori,
 	Alese din lumea cea largă

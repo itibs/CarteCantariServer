@@ -1,5 +1,8 @@
 @Title Numele Tău
 @Number 183
+@Author Ada Ghica
+@Composer Ada Ghica
+@References Psalmul 51
 
 1. Știu ce-am făcut...
 Păcatul meu stă necurmat înaintea mea.

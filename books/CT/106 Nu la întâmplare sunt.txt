@@ -1,5 +1,7 @@
 @Title Nu la întâmplare sunt
 @Number 106
+@Author Mircea Ciugudean
+@Composer Mircea Ciugudean
 
 /:	Nu la întâmplare sunt,
 	Domnul m-a creat. :/

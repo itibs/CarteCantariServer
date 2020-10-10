@@ -1,5 +1,8 @@
 @Title Mare bucurie
 @Number 196
+@Author Stuart Townend, Keith Getty, adapt. Eugenia Posa, Onisim Mladin
+@Composer Stuart Townend, Keith Getty
+@Original_Title Joy Has Dawned
 
 1. Mare bucurie azi din înalt coboară, 
 Vine­-al mântuirii dar, inimii comoară!

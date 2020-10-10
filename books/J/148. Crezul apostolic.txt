@@ -1,5 +1,8 @@
 @Title Crezul apostolic
 @Number 148
+@Author Larry Shackley, adapt. Carmen Gavril
+@Composer Melodie tradițională americană
+@Original_Title Lord, I believe
 
 1. Cred în Unul Domn puternic,
 Tată-a toate Creator,

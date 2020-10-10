@@ -1,5 +1,8 @@
 @Title Ai platit un pret sa-mi dai viata
 @Number 150
+@Author Dan Damian
+@Composer Dan Damian
+@Original_Title sing hallelujah to the lord
 
 Ai plătit un preț să-mi dai viață
 Să trăiesc prin har azi mântuit.

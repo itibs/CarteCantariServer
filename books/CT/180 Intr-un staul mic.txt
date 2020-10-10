@@ -1,5 +1,7 @@
 @Title Intr-un staul mic
 @Number 180
+@Author R. Cocar
+@Composer Daniel Stauceanu
 
 Într-un staul mic,
 La o margine de sat

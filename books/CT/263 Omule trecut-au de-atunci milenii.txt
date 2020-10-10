@@ -1,5 +1,6 @@
 @Title Omule trecut-au de-atunci milenii
 @Number 263
+@Composer Adrian Stoica
 
 Omule trecut-au de-atunci milenii
 Pe aripa vremii

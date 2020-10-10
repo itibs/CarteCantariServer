@@ -1,5 +1,6 @@
 @Title Cine crede se botează
 @Number 128
+@Composer Iulian Teodorescu
 
 /: Cine crede se botează,
 Cine-a crezut s-a botezat. :/

@@ -1,5 +1,8 @@
 @Title Fii cu noi, Isuse
 @Number 136
+@Author Graham Kendrick, adapt. Carmen Gavril
+@Composer Graham Kendrick
+@Original_Title Jesus stand among us
 
 1. Fii cu noi, Isuse, când adesea ne-ntâlnim,
 Fii iubirea noastră, când în faţă ne privim.

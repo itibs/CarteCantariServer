@@ -1,5 +1,8 @@
 @Title Dumnezeu e taria mea
 @Number 060
+@Author Rich Mullins
+@Composer Rich Mullins
+@Original_Title Our God is an awesome God
 
 R1:	/:	Dumnezeu e tăria mea
 		Adăpost pentru sufletul meu, 

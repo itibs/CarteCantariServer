@@ -1,5 +1,9 @@
 @Title Isuse, viata noastra
 @Number 033
+@Author Julia Ward Howe
+@Composer William Steffe
+@Original_Title Battle Hymn of the Republic
+
 
 1. Isuse, viața noastră, noi pe Tine Te slăvim
 Căci prin jertfirea Ta pe cruce noi voioși trăim.

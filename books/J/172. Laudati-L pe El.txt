@@ -1,5 +1,8 @@
 @Title Lăudați-L pe El
 @Number 172
+@Author Martin Leckebusch, adapt. Ruben Mureșan
+@Composer Swee Hong Lim
+@Original_Title Sing Praise to the Lord, You People of Grace
 
 1. Lăudați-L pe El, voi, neam plin de har,
 Iar al vostru cânt să n-aibă hotar!

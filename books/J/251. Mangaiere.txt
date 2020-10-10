@@ -1,5 +1,7 @@
 @Title Mângâiere
 @Number 251
+@Author Monica Turtoi
+@Composer Monica Turtoi
 
 1. Mângâiere în durere
 oferă brațul Tău,

@@ -1,5 +1,8 @@
 @Title Eu sunt un om
 @Number 284
+@Author Marijohn Wilkin, K Kristoferson
+@Composer Marijohn Wilkin, K Kristoferson
+@Original_Title https: / /alevro. net / BPDF / B638-Voce3-Eu%20sunt%20un%20om. pdf
 
 Eu sunt un om, sunt doar un om!
 Ajută-mi te rog să pot să cred ce pot a fi,

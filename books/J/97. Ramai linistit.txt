@@ -1,5 +1,8 @@
 @Title Rămâi liniștit
 @Number 97
+@Author David J. Evans, adapt. Carmen Gavril
+@Composer David J. Evans
+@Original_Title Be still, for the presence of the Lord
 
 1. Se-aud pașii Domnului venind,
 Așteaptă liniștit.

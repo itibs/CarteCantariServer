@@ -1,5 +1,8 @@
 @Title Tu omule ce stai
 @Number 361
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
+@Original_Title ??????
 
 Tu, omule ce stai în lume azi nepăsător
 De Dumnezeu, A-Toate-Creator

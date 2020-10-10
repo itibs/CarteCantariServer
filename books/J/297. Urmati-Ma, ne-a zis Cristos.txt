@@ -1,5 +1,8 @@
 @Title Urmați-Mă, ne-a zis Cristos
 @Number 297
+@Author Johann Scheffler (1624-1677)
+@Composer Johann Scheffler
+@Original_Title Mir nach, spricht Christus, unser Held
 
 1. Urmați-Mă, ne-a zis Cristos, 
 cel ce-i al Meu să vină,

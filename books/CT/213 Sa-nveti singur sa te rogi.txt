@@ -1,5 +1,7 @@
 @Title Sa-nveti singur sa te rogi
 @Number 213
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 Să-nveți singur să re rogi
 Tatălui din cer Preasfânt

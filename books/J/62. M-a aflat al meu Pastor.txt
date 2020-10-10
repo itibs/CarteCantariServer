@@ -1,5 +1,7 @@
 @Title M-a aflat al meu Păstor
 @Number 62
+@Author Robert Robinson
+@Composer Melodie tradițională americană
 
 1. M-a aflat al meu Păstor bun
 Și pe brațele-I m-a pus.

@@ -1,5 +1,7 @@
 @Title Dupa ploaie si furtuna
 @Number 082
+@Author Alexandru Groza
+@Composer Alexandru Groza
 
 După ploaie și furtună va veni o zi mai bună
 Soarele va străluci mai luminos.

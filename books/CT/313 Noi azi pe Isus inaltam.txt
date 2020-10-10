@@ -1,5 +1,6 @@
 @Title Noi azi pe Isus inaltam
 @Number 313
+@Composer Doug Horley
 
 /:	Noi azi pe Isus înălțăm
 	Ca un drapel pe-acest oraș

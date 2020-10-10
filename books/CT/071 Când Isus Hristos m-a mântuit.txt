@@ -1,5 +1,7 @@
 @Title Când Isus Hristos m-a mântuit
 @Number 071
+@Author Ionel Muresan
+@Composer Ionel Muresan
 
 Când Isus Hristos m-a mântuit
 Har din harul Său, El mi-a dăruit.

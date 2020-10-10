@@ -1,5 +1,7 @@
 @Title Singur, îndurerat
 @Number 42
+@Composer B. B. McKinney
+@Original_Title For me
 
 1. Singur, îndurerat,
 Purtând blestemul greu,

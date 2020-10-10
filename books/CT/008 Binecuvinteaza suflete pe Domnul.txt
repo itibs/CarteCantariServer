@@ -1,6 +1,7 @@
 @Title Binecuvântează suflete pe Domnul
 @Number 008
-@Ref Ps. 103:2,3
+@References Ps. 103:2,3
+
 
 /: Binecuvântează, suflete pe Domnul tău
 Nu uita nici-una din binefacerile Lui

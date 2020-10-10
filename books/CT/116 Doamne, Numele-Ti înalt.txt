@@ -1,5 +1,8 @@
 @Title Doamne, Numele-Ti înalt
 @Number 116
+@Author Rick Founds
+@Composer Rick Founds
+@Original_Title Lord I lift Your Name on high
 
 Doamne Numele-Ți înalț,
 Doamne laudă-Ți cânt Ție,

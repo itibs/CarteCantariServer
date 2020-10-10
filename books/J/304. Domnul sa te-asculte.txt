@@ -1,5 +1,9 @@
 @Title Domnul să te-asculte
 @Number 304
+@Author Philip Lawson Johnston, adapt. Ruben Mureșan
+@Composer Philip Lawson Johnston
+@Original_Title May the Lord Answer You
+@References Psalmul 20
 
 1. Domnul să te-asculte-n ziua grea și-n necaz,
 Să te ocrotească Numele Lui,

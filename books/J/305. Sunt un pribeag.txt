@@ -1,5 +1,8 @@
 @Title Sunt un pribeag
 @Number 305
+@Author Anonim
+@Composer Melodie tradițională americană
+@Original_Title Wayfaring Stranger
 
 1. Sunt un pribeag fără de țară,
 rătăcitor prin lung pustiu,

@@ -1,5 +1,7 @@
 @Title Sa-L sarbatorim, sa-I cantam
 @Number 257
+@Author Linda Duvall
+@Composer Linda Duvall
 
 /:	Să-L sărbătorim, să-I cântăm cu toți
 	Domnului un imn de slavă! (Slava) :/

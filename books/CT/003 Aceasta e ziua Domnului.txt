@@ -1,5 +1,9 @@
 @Title Aceasta e ziua Domnului
 @Number 003
+@Author Less Garrett
+@Composer Less Garrett
+@Original_Title This is the day
+
 
 1. /:Aceasta e:/:ziua Domnului:/
 /:Veseli să fim:/:să ne bucurăm:/

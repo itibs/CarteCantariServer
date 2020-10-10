@@ -1,5 +1,8 @@
 @Title Nu este munte prea 'nalt
 @Number 304
+@Author Scott Wesley Brown
+@Composer Scott Wesley Brown
+@Original_Title He will carry you
 
 Nu este munte prea 'nalt ca să nu-l miște
 Nu e problemă prea grea să n-o rezolve

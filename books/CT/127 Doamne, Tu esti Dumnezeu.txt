@@ -1,5 +1,8 @@
 @Title Doamne, Tu esti Dumnezeu
 @Number 127
+@Author Pete Sanchez
+@Composer Pete Sanchez
+@Original_Title I exalt Thee
 
 Doamne, Tu ești Dumnezeu
 Și vei domni în veci.

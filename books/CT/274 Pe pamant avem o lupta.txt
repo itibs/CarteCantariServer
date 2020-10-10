@@ -1,5 +1,7 @@
 @Title Pe pamant avem o lupta
 @Number 274
+@Author Grupul Speranta
+@Composer Grupul Speranta
 
 Pe pământ avem o luptă,
 Ce-n Cuvânt e arătată

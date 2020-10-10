@@ -1,5 +1,6 @@
 @Title Isus, m-ai cuprins din necuprins
 @Number 254
+@Composer Tom Coomes
 
 Isus, m-ai cuprins din necuprins
 Isus, viață-n mine ai aprins

@@ -1,5 +1,7 @@
 @Title Binecuvântat fie Domnul
 @Number 162
+@Composer Kenneth Tucker
+@References Psalmul 72:18-19
 
 1. /: Binecuvântat fie Domnul, Dumnezeul lui 	Israel,
 Binecuvântat fie Domnul, singurul care face 	minuni! :/

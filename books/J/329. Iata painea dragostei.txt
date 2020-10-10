@@ -1,5 +1,8 @@
 @Title Iată pâinea dragostei
 @Number 329
+@Author Mark Bradford, adapt. Ruben Mureșan
+@Composer Mark Bradford
+@Original_Title Here Is Bread
 
 1. Iată pâinea dragostei, 
 trupul Tău frânt din vina lumii-ntregi,

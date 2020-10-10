@@ -1,5 +1,7 @@
 @Title Mi-e gândul și dorul
 @Number 234
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Mi-e gândul și dorul la Tine mereu,
 Isuse, Isuse, Tu, Mirele meu.

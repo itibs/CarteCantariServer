@@ -1,5 +1,8 @@
 @Title Robia de veacuri
 @Number 301
+@Author Laura Hăpăianu
+@Composer Laura Hăpăianu
+@Original_Title Laura Hăpăianu
 
 1. Robia de veacuri e ruptă acuma
 Şi lanţul cel tare căzut e pe veci,

@@ -1,5 +1,7 @@
 @Title Nu lasa sa treaca vremea
 @Number 099
+@Author Ira D. Sankey
+@Composer Ira D. Sankey
 
 Nu lăsa să treacă vremea
 Trece însăși viața ta,

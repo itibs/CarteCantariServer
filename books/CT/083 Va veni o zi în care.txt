@@ -1,5 +1,7 @@
 @Title Va veni o zi în care
 @Number 083
+@Author Alexandru Groza
+@Composer Alexandru Groza
 
 Va veni o zi în care toți aleșii Domnului
 Vor cânta un imn de slavă Mielului.

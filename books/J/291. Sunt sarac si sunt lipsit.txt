@@ -1,5 +1,8 @@
 @Title Sunt sărac și sunt lipsit
 @Number 291
+@Author Iacob Brâncovan
+@Composer Iacob Brâncovan
+@References Psalmul 40:17
 
 /: Sunt sărac şi sunt lipsit, 
 Doamne Dumnezeu, 

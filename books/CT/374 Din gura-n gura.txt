@@ -1,5 +1,7 @@
 @Title Din gura-n gura
 @Number 374
+@Author Mircea Ciugudean
+@Composer Mircea Ciugudean
 
 Din gură-n gură salutul „Hristos a înviat”
 Adevărat că Isus a înviat.

@@ -1,5 +1,8 @@
 @Title Domn al domnilor
 @Number 130
+@Author Sophie Conty, Naomi Batya
+@Composer Sophie Conty, Naomi Batya
+@Original_Title King of kings
 
 /:	Domn al domnilor
 	Rege al regilor

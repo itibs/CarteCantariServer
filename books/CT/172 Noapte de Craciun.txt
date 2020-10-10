@@ -1,5 +1,7 @@
 @Title Noapte de Craciun
 @Number 172
+@Author Alexandru Groza
+@Composer Alexandru Groza
 
 Noapte de Crăciun preasfințită ești
 Cu lumini strălucitoare bucurii vestești

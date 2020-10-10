@@ -1,5 +1,6 @@
 @Title Se duce viata ca un vis
 @Number 089
+@Author Dionisie Giuchici
 
 Se duce viața ca un vis
 Și zilele se duc și vin,

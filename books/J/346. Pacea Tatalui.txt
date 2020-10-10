@@ -1,5 +1,8 @@
 @Title Pacea Tatălui
 @Number 346
+@Author Stuart Townend, Keith Getty, adapt. Daniel Suciu, Echipa Jubilate
+@Composer Stuart Townend, Keith Getty
+@Original_Title Benediction (May the Peace)
 
 1. Pacea Tatălui Preasfânt din ceruri,
 harul Fiului cel înviat

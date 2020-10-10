@@ -1,5 +1,7 @@
 @Title Zidurile de la Ierihon
 @Number 224
+@Composer Roger Wagner
+@Original_Title Joshua Fit The Nattle of Jericho
 
 R:	Zidurile-nalte de la Ierihon
 	Ierihon, Ierihon,

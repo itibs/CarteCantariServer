@@ -1,5 +1,7 @@
 @Title Isuse, dintre toti te-aleg mereu
 @Number 055
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 Isuse dintre toți Te-aleg mereu
 În orice zi, în orice clipă

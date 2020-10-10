@@ -1,5 +1,8 @@
 @Title Coboară-n noi belşugul Tău
 @Number 138
+@Author Michael Card, adapt. Iulian Teodorescu
+@Composer Michael Card
+@Original_Title Barocha
 
 1. Coboară-n noi belşugul Tău,
 Privirea-Ţi să ne ardă.

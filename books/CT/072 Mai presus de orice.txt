@@ -1,5 +1,7 @@
 @Title Mai presus de orice
 @Number 072
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 Mai presus de orice,
 De credință, de-avânt,

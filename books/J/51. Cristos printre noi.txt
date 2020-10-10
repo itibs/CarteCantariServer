@@ -1,5 +1,8 @@
 @Title Cristos printre noi
 @Number 51
+@Author Graham Kendrick, adapt. Iulian Teodorescu
+@Composer Graham Kendrick
+@Original_Title For this purpose
 
 1. Printre noi Cristos a venit,
 Nimicind lucrarea Celui rău.

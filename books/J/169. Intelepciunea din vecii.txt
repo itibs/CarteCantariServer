@@ -1,5 +1,8 @@
 @Title Înțelepciunea din vecii
 @Number 169
+@Author Stuart Townend, Keith Getty, adapt. Ruben Mureșan
+@Composer Stuart Townend, Keith Getty
+@Original_Title The Perfect Wisdon of Our God
 
 1. Înţelepciunea din vecii 
 Ce-­Şi lasă­-amprenta-n univers, 

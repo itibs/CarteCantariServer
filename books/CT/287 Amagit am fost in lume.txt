@@ -1,5 +1,7 @@
 @Title Amagit am fost in lume
 @Number 287
+@Author Ovidiu Liteanu
+@Composer Ovidiu Liteanu
 
 	Amăgit am fost în lume
 	Amăgit am fost mereu

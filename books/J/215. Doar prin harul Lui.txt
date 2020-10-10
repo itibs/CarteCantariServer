@@ -1,5 +1,8 @@
 @Title Doar prin harul Lui
 @Number 215
+@Author Scott Wesley Brown, Jeff Nelson, adapt. Daniel Suciu, Echipa Jubilate
+@Composer Scott Wesley Brown, Jeff Nelson
+@Original_Title Grace Alone
 
 1. Orice noi făgăduim, 
 Orice rugă ce rostim,

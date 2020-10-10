@@ -1,5 +1,8 @@
 @Title Îndurare
 @Number 310
+@Author Graham Kendrick, adapt. Ruben Mureșan
+@Composer Graham Kendrick
+@Original_Title Merciful
 
 1. La piciorul crucii Tale
 las orice reproș amar,

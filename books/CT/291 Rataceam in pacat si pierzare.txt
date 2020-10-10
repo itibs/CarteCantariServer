@@ -1,5 +1,8 @@
 @Title Rataceam in pacat si pierzare
 @Number 291
+@Author Alfred Smith, John Peterson
+@Composer Alfred Smith, John Peterson
+@Original_Title Surely goodness and mercy
 
 Rătăceam în păcat și pierzare,
 Eram singur pe lume, străin.

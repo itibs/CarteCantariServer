@@ -1,5 +1,8 @@
 @Title Ce frumos, ce placut
 @Number 006
+@Author Alexandru Groza
+@Composer Alexandru Groza
+
 
 R:	Ce frumos, ce plăcut e să fii creștin
 	Să trăiești prin credință mereu,

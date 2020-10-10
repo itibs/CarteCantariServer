@@ -1,5 +1,7 @@
 @Title Rugăciune de seară
 @Number 181
+@Author Florian Guler
+@Composer Iacob Brâncovan
 
 1. Umil vin, Doamne, cu-­nserarea, 
 Când zilei îi închizi mormântul, 

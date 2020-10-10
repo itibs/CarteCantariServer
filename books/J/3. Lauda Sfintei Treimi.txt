@@ -1,5 +1,7 @@
 @Title Laudă Sfintei Treimi
 @Number 3
+@Author Claudia Morar
+@Composer Claudia Morar
 
 1. Te voi lăuda, Domnul meu,
 Tată Sfânt, Dumnezeu,

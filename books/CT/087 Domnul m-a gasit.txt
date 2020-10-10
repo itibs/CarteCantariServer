@@ -1,5 +1,7 @@
 @Title Domnul m-a gasit
 @Number 087
+@Author Edgar J. Haskins, adap. Valentib Popovici
+@Composer Edgar J. Haskins
 
 Domnul m-a găsit, povara mi-a luat,
 Bucurii, speranță, pace El mi-a dat,

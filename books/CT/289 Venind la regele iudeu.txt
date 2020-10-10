@@ -1,5 +1,6 @@
 @Title Venind la regele iudeu
 @Number 289
+@Author Costache Ioanid
 
 	Venind la regele iudeu,
 	Isaia murmură cu jale

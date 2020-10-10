@@ -1,5 +1,7 @@
 @Title El n-a promis
 @Number 096
+@Author Annie J. Flint, trad. Valentin Popovici
+@Composer Alfred B. Smith
 
 El n-a promis doar cerul senin,
 Nici flori pe cale, fără pelin,

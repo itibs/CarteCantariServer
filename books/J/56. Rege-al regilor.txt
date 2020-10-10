@@ -1,5 +1,8 @@
 @Title Rege-al regilor
 @Number 56
+@Author Sophie Conty, Naomi Batya
+@Composer Sophie Conty, Naomi Batya
+@Original_Title King of kings
 
 1. Rege-al regilor, Domn al domnilor,
 Glorie, Aleluia!

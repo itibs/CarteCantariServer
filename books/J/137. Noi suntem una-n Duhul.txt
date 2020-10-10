@@ -1,5 +1,9 @@
 @Title Noi suntem una-n Duhul
 @Number 137
+@Author Peter Scholtes
+@Composer Peter Scholtes
+@Original_Title They'll know we are Christians
+@References Ioan 13:35
 
 1. Noi suntem una-n Duhul,
 Suntem una prin El.

@@ -1,5 +1,8 @@
 @Title Te iubesc și-Ți cânt
 @Number 31
+@Author Iulian Teodorescu, Carmen Gavril
+@Composer Iulian Teodorescu
+@References Psalmul 18
 
 1. Te iubesc și-Ți cânt din toată inima,
 Doamne, tăria mea,

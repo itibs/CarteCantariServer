@@ -1,5 +1,7 @@
 @Title La crucea de la Golgota
 @Number 057
+@Author Alexandru Groza
+@Composer Alexandru Groza
 
 La crucea de la Golgota
 Doamne, vin să-ngenunchez cu viața mea

@@ -1,5 +1,7 @@
 @Title Azi e zi de sarbatoare
 @Number 384
+@Author Titus C. Adorian
+@Composer Titus C. Adorian
 
 	Azi e zi de sărbătoare
 /:	Cântă toți cu bucurie. :/

@@ -1,5 +1,7 @@
 @Title Binecuvântata-i viata
 @Number 152
+@Author Octavian Luncan
+@Composer Octavian Luncan
 
 Binecuvântată-i viața,
 Împreună cu Isus

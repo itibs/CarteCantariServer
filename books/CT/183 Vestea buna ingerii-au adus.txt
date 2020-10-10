@@ -1,5 +1,7 @@
 @Title Vestea buna ingerii-au adus
 @Number 183
+@Author I. M. Hogan
+@Composer I. M. Hogan
 
 Vestea bună îngerii-au adus
 Vestea bună la noi a ajuns.

@@ -1,6 +1,7 @@
 @Title Sunt strajerul care striga
 @Number 037
 
+
 1. Sunt străjerul care strigă,
 Glasul meu răsună astăzi pentru toți:
 S-aveți candela aprinsă

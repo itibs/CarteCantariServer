@@ -1,5 +1,7 @@
 @Title Nimic nu sunt un strop de tina
 @Number 128
+@Author Costache Ioanid
+@Composer anonim
 
 Nimic nu sunt, un strop de tină
 În care-ai pus un foc divin

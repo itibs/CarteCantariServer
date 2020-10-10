@@ -1,5 +1,7 @@
 @Title Olarul și lutul
 @Number 308
+@Author Victoria Florea
+@Composer Iacob Brâncovan
 
 1. Când vine ispita şi drumul e greu, 
 Atunci când n­-am pace în sufletul meu, 

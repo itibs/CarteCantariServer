@@ -1,5 +1,6 @@
 @Title Cât de bogat si minunat
 @Number 113
+@Author adap. Vasile Al. Talos
 
 Cât de bogat și minunat
 Este acest cuvânt

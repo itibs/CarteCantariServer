@@ -1,5 +1,7 @@
 @Title Voi preamări mereu
 @Number 96
+@Author Claude Fraysse
+@Composer Claude Fraysse
 
 1. Voi preamări mereu pe Cel Preasfânt
 Şi din toată inima voi cânta, 

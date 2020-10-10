@@ -1,5 +1,8 @@
 @Title Dor de tara, te-avânta
 @Number 134
+@Author Giuseppe Verdi
+@Composer Giuseppe Verdi
+@Original_Title Nabucco
 
 (Corul robilor evrei -„Nabucco”-G.Verdi)
 Dor de țară, te-avântă departe!

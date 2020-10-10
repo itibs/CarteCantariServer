@@ -1,5 +1,7 @@
 @Title Eşti pe tron
 @Number 223
+@Author Monica Turtoi
+@Composer Monica Turtoi
 
 1. Chiar şi-n încercare eşti la fel de mare,
 Domnul nostru drag, Isus!

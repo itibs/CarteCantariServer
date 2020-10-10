@@ -1,5 +1,7 @@
 @Title A venit iarna din departari
 @Number 179
+@Author adap. Limba romana anonim
+@Composer Katherine Davis, Henry Onorati, Harry Simeone
 
 A venit iarna din depărtări
 A venit iarna ninsă de sărbători

@@ -1,5 +1,8 @@
 @Title Sfânt cuptor al suferinței
 @Number 300
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
+@References Daniel 3
 
 1. Sfânt cuptor al suferinței, 
 ce mă arzi, fără să pier,

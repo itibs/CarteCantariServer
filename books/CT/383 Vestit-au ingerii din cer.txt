@@ -1,5 +1,7 @@
 @Title Vestit-au ingerii din cer
 @Number 383
+@Author Anonim
+@Composer anonim
 
 Vestit-au îngerii din cer,
 În câmp, jos la păstori:

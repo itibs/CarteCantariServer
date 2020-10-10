@@ -1,5 +1,7 @@
 @Title Rugă pentru miri
 @Number 332
+@Author Monica Turtoi
+@Composer Monica Turtoi
 
 1. Te rugăm, Părinte Sfânt, să-i porţi pe braţe
 şi iubirea lor cu-a Ta s-o împleteşti,

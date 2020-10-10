@@ -1,5 +1,9 @@
 @Title Da, Domnul e Păstorul meu
 @Number 165
+@Author Scottish Psalter, 1650, adapt. Valentin Popovici
+@Composer Melodie tradițională americană
+@Original_Title My Shepherd Will Supply My Need
+@References Psalmul 23
 
 1. Da, Domnul e Păstorul meu, 
 El poartă grija mea,

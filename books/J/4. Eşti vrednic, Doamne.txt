@@ -1,5 +1,8 @@
 @Title Eşti vrednic, Doamne
 @Number 4
+@Author Terry York
+@Composer Mark Blankenship
+@Original_Title Worthy of Worship
 
 1. Eşti vrednic, Doamne, să fii slăvit,
 Vrednic de cinste şi glorie,

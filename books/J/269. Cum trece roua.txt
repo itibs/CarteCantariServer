@@ -1,5 +1,7 @@
 @Title Cum trece roua
 @Number 269
+@Author Costache Ioanid
+@Composer Sabina Tinco
 
 1. Cum trece roua, sorbită-n crin,
 Cum zboară norii și alții vin,

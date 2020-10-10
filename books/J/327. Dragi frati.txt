@@ -1,5 +1,7 @@
 @Title Dragi frați
 @Number 327
+@Author Monica Turtoi
+@Composer Monica Turtoi
 
 1. Dragi frați ce-ați ascultat supuși
 chemarea spre lumină,

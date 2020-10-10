@@ -1,5 +1,7 @@
 @Title Te-am aflat pe Tine
 @Number 91
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Te-am aflat pe Tine, Doamne,
 Și aceasta mi-e de-ajuns,

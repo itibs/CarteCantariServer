@@ -1,5 +1,7 @@
 @Title Doamne, Tu m-ai facut
 @Number 160
+@Author Ionel Pleșa
+@Composer Ionel Pleșa
 
 	Doamne, Tu m-ai făcut din țărână
 	Și-n adânc mi-ai turnat veșnicia,

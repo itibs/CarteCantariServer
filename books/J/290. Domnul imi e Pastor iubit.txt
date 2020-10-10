@@ -1,5 +1,9 @@
 @Title Domnul îmi e Păstor iubit
 @Number 290
+@Author Stuart Townend
+@Composer Stuart Townend
+@Original_Title Psalm 23 (The Lord's My Shepherd)
+@References Psalmul 23
 
 R: Numai în Tine mă încred,
 Numai în Tine mă încred,

@@ -1,5 +1,7 @@
 @Title Tu, Doamne, eşti Dumnezeu
 @Number 15
+@Composer Pete Sanchez
+@Original_Title I exalt Thee
 
 1. Tu, Doamne, eşti Dumnezeu 
 și vei domni în veci.

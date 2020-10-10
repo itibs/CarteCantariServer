@@ -1,5 +1,7 @@
 @Title Primește, Doamne darul
 @Number 317
+@Author Luminița Iuhoș
+@Composer Luminița Iuhoș
 
 1. Primește, Doamne, darul ce Ți-l aduc acum,
 E semnul că de Tine depind pe-acest pământ,

@@ -1,5 +1,7 @@
 @Title Tie-ti cânt Dumnezeul meu
 @Number 061
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 /:	Ție-Ți cânt Dumnezeul meu :/
 	Pentru bunătatea Ta

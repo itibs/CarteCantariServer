@@ -1,5 +1,8 @@
 @Title Cuvântul Tău
 @Number 80
+@Author Lynn DeShazo, adapt. Veaceslav Vulpe, Emanuela Ignuța
+@Composer Lynn DeShazo
+@Original_Title Ancient Words
 
 1. Râu de fragedă lumină
 E Cuvântul Tău, Isuse,

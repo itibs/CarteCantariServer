@@ -1,5 +1,8 @@
 @Title Ce zori slăvite
 @Number 205
+@Author Stuart Townend, Keith Getty, adapt. Echipa Jubilate
+@Composer Stuart Townend, Keith Getty
+@Original_Title Resurrection Hymn (See What a Morning)
 
 1. Ce zori slăvite! Ce străluciri, 
 Când nădejdea răsare-­n Ierusalim! 

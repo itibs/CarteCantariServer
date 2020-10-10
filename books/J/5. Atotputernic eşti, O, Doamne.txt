@@ -1,5 +1,7 @@
 @Title Atotputernic eşti, O, Doamne
 @Number 5
+@Author Petru Popovici
+@Composer D. Bortniansky
 
 1. Atotputernic eşti, o, Doamne,
 Tu, Cel ce toate ai creat.

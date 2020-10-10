@@ -1,5 +1,7 @@
 @Title Inima mea tânjește după curțile Tale
 @Number 175
+@Author Dinu Onea
+@Composer Dinu Onea
 
 Inima mea tânjește după curțile Tale,
 Sufletul meu suspină după-al Tău Locaș,

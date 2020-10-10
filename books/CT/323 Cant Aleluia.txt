@@ -1,5 +1,7 @@
 @Title Cant Aleluia
 @Number 323
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 Cânt Aleluia (x2)
 Ție, Dumnezeului meu slăvit

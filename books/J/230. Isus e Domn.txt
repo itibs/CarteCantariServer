@@ -1,5 +1,8 @@
 @Title Isus e Domn
 @Number 230
+@Author Stuart Townend, Keith Getty, adapt. Daniel Suciu, Echipa Jubilate
+@Composer Stuart Townend, Keith Getty
+@Original_Title Jesus Is Lord
 
 1. „Isus e Domn!” răsună în tot universul, 
 Cuvânt etern și Stâncă tare-avem. 

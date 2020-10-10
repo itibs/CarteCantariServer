@@ -1,5 +1,8 @@
 @Title Al meu Domn, Isuse
 @Number 302
+@Author Darlene Zschech
+@Composer Darlene Zschech
+@Original_Title Shout to the Lord
 
 Isuse, tu ești Domn
 Nimeni ca Tine nu-i

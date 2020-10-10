@@ -1,5 +1,8 @@
 @Title Tu ești iubirea din etern
 @Number 72
+@Author Costache Ioanid
+@Composer Melodie tradițională românească
+
 
 1. Tu ești iubirea din etern,
 Tu, viitorul ce-mi aștern,

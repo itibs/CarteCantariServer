@@ -1,5 +1,8 @@
 @Title Duh al Reglui slăvit
 @Number 270
+@Author Stuart Townend, adapt. Daniel Suciu, Echipa Jubilate
+@Composer Stuart Townend
+@Original_Title Puritan Prayer (Blessed Spirit)
 
 1. Duh al Regelui slăvit, Izvor ești de iubire! 
 Fă-mă om cu duh zdrobit și gata de jertfire. 

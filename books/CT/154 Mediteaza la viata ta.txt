@@ -1,5 +1,7 @@
 @Title Mediteaza la viata ta
 @Number 154
+@Author Alexandru Groza
+@Composer Alexandru Groza
 
 Meditează la viața ta, astăzi, tu omule,
 Scoală-te din păcat, cercetează-ți viața ta.

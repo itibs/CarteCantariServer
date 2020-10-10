@@ -1,5 +1,9 @@
 @Title Cum dorește un cerb
 @Number 29
+@Author Martin Nystrom
+@Composer Martin Nystrom
+@Original_Title As the deer
+@References Psalmul 42:1
 
 1. Cum dorește un cerb 
 Izvor de apă-așa eu Te doresc.

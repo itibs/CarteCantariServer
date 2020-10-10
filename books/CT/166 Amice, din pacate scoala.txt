@@ -1,5 +1,7 @@
 @Title Amice, din pacate scoala
 @Number 166
+@Author I. Aleman
+@Composer I. Aleman
 
 Amice, din păcat te scoală
 Și vino-ngrabă la Isus

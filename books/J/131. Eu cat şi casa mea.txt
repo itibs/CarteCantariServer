@@ -1,5 +1,7 @@
 @Title Eu cât şi casa mea
 @Number 131
+@Composer Anonim
+@Original_Title The gift of love
 
 1. Eu cât şi casa mea dorim,
 O, Doamne-n veci să Te slujim.

@@ -1,5 +1,7 @@
 @Title De dragul Tău
 @Number 338
+@Author Monica Turtoi
+@Composer Monica Turtoi
 
 1. Învaţă-ne, de dragul Tău, 
 Isus, să ne jertfim. 

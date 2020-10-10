@@ -1,5 +1,7 @@
 @Title Tu ești Creatorul
 @Number 153
+@Author Nelu Vlașin
+@Composer Nelu Vlașin
 
 1. Tu ești Creatorul universului întreg,
 Tu ești început și întregire tuturor.

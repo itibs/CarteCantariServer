@@ -1,5 +1,7 @@
 @Title Nădejdea învierii
 @Number 208
+@Author Monica Turtoi
+@Composer Monica Turtoi
 
 1. N-am fi avut nădejde
 Dacă n-ai fi-nvins pe veci

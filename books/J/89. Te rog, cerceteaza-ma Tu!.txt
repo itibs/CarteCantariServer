@@ -1,5 +1,7 @@
 @Title Te rog, cercetează-mă Tu!
 @Number 89
+@Author Anonim
+@Composer Iulian Teodorescu
 
 1. Te rog, cercetează-mă Tu!
 Tu vezi ce e-n inima mea.

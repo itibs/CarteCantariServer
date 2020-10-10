@@ -1,5 +1,8 @@
 @Title O, Betleem, oras micut
 @Number 182
+@Author Phillips Brooks
+@Composer Lewis H. Redner
+@Original_Title O Little Town of Bethlehem
 
 O, Betleem, oraș micuț,
 Cum dormi de liniștit

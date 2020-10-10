@@ -1,5 +1,7 @@
 @Title Doua mâini astazi, Doamne
 @Number 195
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 Două mâini, Doamne, astăzi se unesc
 Pe-acest drum împreună ei pășesc.

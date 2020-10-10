@@ -1,5 +1,7 @@
 @Title Maret esti, Dumnezeu
 @Number 123
+@Author Michael O'Shields
+@Composer Michael O'Shields
 
 Măreț ești, Dumnezeu!
 Cu laude noi Te onorăm.

@@ -1,5 +1,8 @@
 @Title Cristos cel crucificat
 @Number 45
+@Author Charles Wesley, 1739
+@Composer Lyra Dacidica, 1708
+@Original_Title Christ the Lord is risen today
 
 1. Cristos cel crucificat, Aleluia!
 Dintre cei morți a-nviat, Aleluia!

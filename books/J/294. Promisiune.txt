@@ -1,5 +1,7 @@
 @Title Promisiune
 @Number 294
+@Author Alina Bălăceanu
+@Composer Alina Bălăceanu
 
 1. Când eu nu mai pot, mă apasă tot,
 Tu îmi spui să privesc la Tine,

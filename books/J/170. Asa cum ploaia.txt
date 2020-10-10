@@ -1,5 +1,7 @@
 @Title Așa cum ploaia
 @Number 170
+@Author Benoni Catană
+@Composer Andrei Bulzan
 
 1. Aşa cum ploaia-mbelşugată
 Adapă lanul înverzit, 

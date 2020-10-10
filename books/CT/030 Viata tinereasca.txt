@@ -1,5 +1,8 @@
 @Title Viata tinereasca
 @Number 030
+@Author Jean Staneschi
+@Composer Iovan Miclea
+
 
 1. Viață tinerească plină de elan
 Frumusețe, daruri, toate câte am

@@ -1,5 +1,8 @@
 @Title O, noapte sfanta
 @Number 181
+@Author Placide Cappeau (1847)
+@Composer Adolphe Adam (1847)
+@Original_Title Oh Holy night
 
 O, noapte sfântă, binecuvântată
 Isus în iesle umil S-a născut;

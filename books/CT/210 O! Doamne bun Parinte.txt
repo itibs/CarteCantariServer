@@ -1,5 +1,7 @@
 @Title O! Doamne bun Parinte
 @Number 210
+@Author A. Burns
+@Composer A. Burns
 
 O! Doamne bun Părinte
 Aș vrea să-Ți mulțumesc

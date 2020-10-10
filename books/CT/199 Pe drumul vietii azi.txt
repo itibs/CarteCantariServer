@@ -1,5 +1,7 @@
 @Title Pe drumul vietii azi
 @Number 199
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 Pe drumul vieții azi, doi tineri au plecat
 O, Doamne Te rugăm condu-i neîncetat

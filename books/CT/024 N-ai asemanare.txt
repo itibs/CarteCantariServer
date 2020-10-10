@@ -1,5 +1,8 @@
 @Title N-ai asemanare
 @Number 024
+@Author Mircea Ciugudean
+@Composer Mircea Ciugudean
+
 
 1. N-ai asemănare, nici în cer nici pe pământ,
 Nici în măreție, nici în fapte și cuvânt.

@@ -1,5 +1,7 @@
 @Title O, scump Părinte
 @Number 335
+@Author Marian Fedur
+@Composer Marian Fedur
 
 1. O, scump Părinte, din slăvi divine
 Ascultă-mi ruga, primeşte-mi darul!

@@ -1,5 +1,8 @@
 @Title Vino azi
 @Number 202
+@Author Graham Kendrick, adapt. Carmen Gavril
+@Composer Graham Kendrick
+@Original_Title Come and See
 
 1. Vino azi să-L priveşti pe-al iubirii Împărat,
 De soldaţi lovit și-n purpură-mbrăcat,

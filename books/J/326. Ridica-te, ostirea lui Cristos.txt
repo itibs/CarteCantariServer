@@ -1,5 +1,8 @@
 @Title Ridică-te, oștirea lui Cristos
 @Number 326
+@Author Stuart Townend, Keith Getty, adapt. Exhipa Jubilate
+@Composer Stuart Townend, Keith Getty
+@Original_Title O Church Arise
 
 1. Ridică-te, oştirea lui Cristos,
 la chemarea Lui răspunde!

@@ -1,5 +1,8 @@
 @Title Eu Te iubesc
 @Number 116
+@Author Laurie Klein
+@Composer Laurie Klein
+@Original_Title I love You, Lord
 
 Eu Te iubesc, Doamne, Te iubesc,
 ‘Naintea Ta, Doamne drag, mă plec

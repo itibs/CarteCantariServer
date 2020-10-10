@@ -1,5 +1,8 @@
 @Title Schimba-mi inima
 @Number 132
+@Author Eddie Espinosa
+@Composer Eddie Espinosa
+@Original_Title Change my heart, O, God
 
 Schimbă-mi inima,
 Fă-mă mai curat

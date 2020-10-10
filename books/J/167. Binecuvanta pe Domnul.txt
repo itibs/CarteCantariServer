@@ -1,5 +1,9 @@
 @Title Binecuvântă pe Domnul
 @Number 167
+@Author Norbert Kissel, adapt. Daniel Bogățeanu
+@Composer Norbert Kissel
+@Original_Title Lobe den Herrn, meine Seele
+@References Psalmul 103
 
 R: Binecuvântă pe Domnul cu tot ce este în tine,
 Suflet, să nu uiți niciuna din ale Lui binefaceri!

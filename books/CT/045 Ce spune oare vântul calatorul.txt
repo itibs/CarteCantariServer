@@ -1,6 +1,7 @@
 @Title Ce spune oare vântul calatorul
 @Number 045
 
+
 1. 	Ce spune oare vântul călătorul
 	Când se sfâșie printre crengi trudit,
 	Ce spune în durerea sa izvorul

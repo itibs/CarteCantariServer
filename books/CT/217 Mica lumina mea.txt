@@ -1,5 +1,8 @@
 @Title Mica lumina mea
 @Number 217
+@Author Harry Dixon Loes
+@Composer Harry Dixon Loes
+@Original_Title this little light of mine
 
 R:	/:	Mică lumin' a mea
 		Poate-a lumina. :/

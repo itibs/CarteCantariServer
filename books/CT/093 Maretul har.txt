@@ -1,5 +1,8 @@
 @Title Maretul har
 @Number 093
+@Author John Newton
+@Composer William Walker
+@Original_Title Amazing grace
 
 	Mărețul har m-a mântuit
 	Pe mine din păcat,

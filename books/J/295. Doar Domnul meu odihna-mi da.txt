@@ -1,5 +1,8 @@
 @Title Doar Domnul meu odihnă-mi dă
 @Number 295
+@Author Stuart Townend, Aaron Keyes, adapt. Daniel Suciu, Echipa Jubilate
+@Composer Stuart Townend, Aaron Keyes
+@Original_Title Psalm 62 (My Soul Finds Rest in God Alone)
 
 1. Doar Domnul meu odihnă-mi dă,
 mi-e stâncă, mântuire,

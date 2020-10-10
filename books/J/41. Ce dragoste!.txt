@@ -1,5 +1,8 @@
 @Title Ce dragoste!
 @Number 41
+@Author Charles Wesley, adapt. Iulian Teodorescu
+@Composer Bob Kauflin
+@Original_Title And can it be
 
 1. O, Dumnezeule Preasfânt,
 Ai coborât în al meu mormânt,

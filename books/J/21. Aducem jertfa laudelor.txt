@@ -1,5 +1,9 @@
 @Title Aducem jertfa laudelor
 @Number 21
+@Author adapt. Iulian Teodorescu
+@Composer Kirk Dearman
+@Original_Title We bring the sacrifice of praise
+@References Psalmul 22:3, 25
 
 1. Aducem jertfa laudelor
 În Casa Domnului Preasfânt.

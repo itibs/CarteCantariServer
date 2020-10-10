@@ -1,5 +1,6 @@
 @Title Iubire nici nu stiu sa spun
 @Number 325
+@Author Traian Dorz
 
 Iubire, nici nu știu să spun
 Ce bună-ai fost cu mine

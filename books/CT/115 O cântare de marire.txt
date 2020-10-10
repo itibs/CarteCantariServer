@@ -1,5 +1,7 @@
 @Title O cântare de marire
 @Number 115
+@Author John W. Peterson, adap. Valentin Popovici
+@Composer John W. Peterson
 
 O cântare de mărire am în inimă mereu
 De când L-am găsit pe Isus la Calvar

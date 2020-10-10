@@ -1,5 +1,7 @@
 @Title Ai deschis cerul Tau
 @Number 002
+@Author Adi Galiger
+@Composer Adi Galiger
 
 Ai deschis cerul Tău, ai lăsat slava Ta
 Și-ai venit, pentru mine un biet păcătos.

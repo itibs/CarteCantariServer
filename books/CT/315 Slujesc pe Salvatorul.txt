@@ -1,5 +1,8 @@
 @Title Slujesc pe Salvatorul
 @Number 315
+@Author Alfred Ackley
+@Composer Alfred Ackley
+@Original_Title He lives
 
 Slujesc pe salvatorul, pe Cel ce-a înviat.
 Eu știu că El trăiește cu slavă îmbrăcat.

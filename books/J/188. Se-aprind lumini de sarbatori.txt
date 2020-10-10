@@ -1,5 +1,8 @@
 @Title Se-aprind lumini de sărbători
 @Number 188
+@Author Emmy Köhler (1858-1925)
+@Composer Emmy Köhler
+@Original_Title Nu tändas tusen juleljus
 
 1. Se-aprind lumini de sărbători
 Ce licăresc zglobii,

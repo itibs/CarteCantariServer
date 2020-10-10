@@ -1,5 +1,9 @@
 @Title Te-am ales
 @Number 025
+@Author Diane Ball
+@Composer Diane Ball
+@Original_Title In His time
+
 
 1. Te-am ales, Te-am ales
 Dintre mii și mii de mii Te-am ales

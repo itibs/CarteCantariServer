@@ -1,5 +1,8 @@
 @Title Doamne esti mai scump
 @Number 092
+@Author Lynn De Shazo
+@Composer Lynn De Shazo
+@Original_Title More precious than silver
 
 Doamne, ești mai scump ca argintul
 Doamne, ești mai scump ca aurul!

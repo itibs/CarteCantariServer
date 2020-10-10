@@ -1,5 +1,8 @@
 @Title Steaua dimineții
 @Number 236
+@Author Graham Kendrick, adapt. Ruben Mureșan
+@Composer Graham Kendrick
+@Original_Title Morning Star (High Above the Dark Horizon)
 
 1. Peste negre zări răsare sfânta dimineţii Stea,
 Ea promite-o zi senină și-n inima mea.                         

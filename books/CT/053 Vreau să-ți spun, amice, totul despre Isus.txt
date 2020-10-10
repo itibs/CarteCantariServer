@@ -1,5 +1,7 @@
 @Title Vreau sa-ti spun amice
 @Number 053
+@Author Charles F. Weigle
+@Composer Charles F. Weigle
 
 1. Vreau să-ți spun, amice, totul despre Isus
 Cum în El aflat-am prieten minunat.

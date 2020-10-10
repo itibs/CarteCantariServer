@@ -1,5 +1,7 @@
 @Title O, du-mă pe stânca cea ‘naltă
 @Number 277
+@Author Carmen Gavril
+@Composer Iulian Teodorescu
 
 1. O, du-mă pe stânca cea 'naltă
 La care nu pot să ajung.

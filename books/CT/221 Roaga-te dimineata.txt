@@ -1,5 +1,8 @@
 @Title Roaga-te dimineata
 @Number 221
+@Author anonim
+@Composer Melodie traditionala americana
+@Original_Title whisper a prayer
 
 	Roagă-te dimineața,
 	Roagă-te și la prânz,

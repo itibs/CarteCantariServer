@@ -1,5 +1,8 @@
 @Title Natura cântă
 @Number 154
+@Author Stuart Townend, Keith Getty, Kristyn Getty, adapt. Daniel Suciu, Echipa Jubilate
+@Composer Stuart Townend, Keith Getty, Kristyn Getty
+@Original_Title Creation Sings
 
 1. Natura cântă imnul Lui.
 El, Tatăl, spune soarelui 

@@ -1,5 +1,7 @@
 @Title De la iesle pân’ la cruce
 @Number 220
+@Author Costache Ioanid
+@Composer Nicolae Moldoveanu
 
 1. De la iesle pân' la cruce...
 Cât amar, cât suflet frânt!

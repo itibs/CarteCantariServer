@@ -1,5 +1,7 @@
 @Title A venit în lume
 @Number 197
+@Author Nicolae Rusu
+@Composer Nicolae Rusu
 
 1. A venit în lume ca un copilaș,
 La necazul nostru S-a făcut părtaș!

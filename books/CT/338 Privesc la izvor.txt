@@ -1,5 +1,7 @@
 @Title Privesc la izvor
 @Number 338
+@Author Alexandru Groza
+@Composer Alexandru Groza
 
 Privesc la izvor și-l văd cum curge lin voios
 Apă rece cristal răcoritor

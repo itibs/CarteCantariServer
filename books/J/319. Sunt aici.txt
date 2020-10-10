@@ -1,5 +1,8 @@
 @Title Sunt aici
 @Number 319
+@Author Bill Batstone, adapt. Anca Ciora
+@Composer Bill Batstone
+@Original_Title Here I Am
 
 1. Știu că Tu nu vrei nici jertfe și nici daruri,
 Știu că Tu privești doar la inima mea

@@ -1,5 +1,7 @@
 @Title De dorul Tau
 @Number 326
+@Author Traian Dorz
+@Composer Titus C. Adorian
 
 De dorul Tău, Isus iubit
 În dragostea Ta arse

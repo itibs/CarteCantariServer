@@ -1,5 +1,7 @@
 @Title O, ce veste minunata
 @Number 178
+@Author anonim
+@Composer Dumitru Georgescu Kiriak
 
 O ce veste minunată
 În Betleem ni se-arată:

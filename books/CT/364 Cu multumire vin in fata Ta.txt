@@ -1,5 +1,7 @@
 @Title Cu multumire vin in fata Ta
 @Number 364
+@Author Mircea Ciugudean
+@Composer Mircea Ciugudean
 
 Cu mulțumire vin în fața Ta, Isuse
 Și vreau să-Ți cânt c-atâta bine mi-ai făcut

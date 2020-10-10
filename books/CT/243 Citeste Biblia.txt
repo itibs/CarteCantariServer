@@ -1,5 +1,6 @@
 @Title Citeste Biblia
 @Number 243
+@Original_Title Read Your Bible Pray Everyday 
 
 	Citește Biblia, roagă-te mereu,
 /:	Roagă-te mereu. :/

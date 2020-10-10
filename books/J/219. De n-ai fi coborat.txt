@@ -1,5 +1,7 @@
 @Title De n-ai fi coborât
 @Number 219
+@Author Monica Turtoi
+@Composer Monica Turtoi
 
 1. De n-ai fi coborât din slavă 
 Şi nu Te-ai fi-mbrăcat în lut,

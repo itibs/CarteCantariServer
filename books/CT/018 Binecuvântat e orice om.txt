@@ -1,6 +1,7 @@
 @Title Binecuvântat e orice om
 @Number 018
 
+
 1. /:	Binecuvântat e orice om
 	Ce se-ncrede-n Dumnezeu :/
 

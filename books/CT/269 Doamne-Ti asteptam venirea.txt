@@ -1,5 +1,7 @@
 @Title Doamne-Ti asteptam venirea
 @Number 269
+@Author Alexandru Groza
+@Composer Alexandru Groza
 
 Doamne-Ți așteptăm venirea
 La ivirea zorilor

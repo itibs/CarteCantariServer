@@ -1,6 +1,7 @@
 @Title La Tine Doamne îmi inalt sufletul
 @Number 021
-@Ref Ps. 25:1-7
+@References Ps. 25:1-7
+
 
 1. /:	La Tine Doamne îmi înalț sufletul :/
 

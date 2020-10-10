@@ -1,5 +1,7 @@
 @Title Iarta-ma
 @Number 161
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 R:	Iartă-mă, (x3)
 	Dumnezeul meu!

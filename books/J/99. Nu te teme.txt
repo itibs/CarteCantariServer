@@ -1,5 +1,7 @@
 @Title Nu te teme
 @Number 99
+@Author Isaia 41:10
+@Composer Daniel Hossu Longyne
 
 Nu te teme, căci Eu sunt cu tine!
 Nu te uita cu-ngrijorare,

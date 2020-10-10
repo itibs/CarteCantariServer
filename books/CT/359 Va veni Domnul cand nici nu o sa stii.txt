@@ -1,5 +1,7 @@
 @Title Va veni Domnul cand nici nu o sa stii
 @Number 359
+@Author Alexandru Groza
+@Composer Alexandru Groza
 
 Va veni Domnul când nici nu o să știi
 Și vei zbura sus în cer spre veșnicii

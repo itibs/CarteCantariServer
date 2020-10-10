@@ -1,5 +1,8 @@
 @Title Declarăm puterea Ta
 @Number 160
+@Author Malcolm Du Plessis, adapt. Andrei Fedur
+@Composer Malcolm Du Plessis
+@Original_Title We Declare Your Majesty
 
 1. /: Declarăm puterea Ta! 
 Proclamăm: „Al Tău Nume veșnic e ’nălțat!” 

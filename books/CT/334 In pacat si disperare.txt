@@ -1,5 +1,7 @@
 @Title In pacat si disperare
 @Number 334
+@Author Alexandru Groza
+@Composer Alexandru Groza
 
 În păcat și disperare
 Mulți trăiesc pe-acest pământ

@@ -1,5 +1,7 @@
 @Title Faca-mi-se totdeauna
 @Number 249
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 	Facă-mi-se 'ntotdeauna
 	După Sfântul Tău Cuvânt

@@ -1,5 +1,7 @@
 @Title Când zorii se-arata
 @Number 157
+@Author anonim
+@Composer anonim
 
 Când zorii se-arată zâmbind dimineața
 Și încă o zi iar a început

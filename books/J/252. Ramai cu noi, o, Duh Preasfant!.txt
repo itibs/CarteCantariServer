@@ -1,5 +1,7 @@
 @Title Rămâi cu noi, o, Duh Preasfânt!
 @Number 252
+@Author Valentin Popovici
+@Composer Mihai Damian
 
 1. Rămâi cu noi, o, Duh Preasfânt,
 rămâi și ne învață 

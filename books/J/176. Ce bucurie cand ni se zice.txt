@@ -1,5 +1,7 @@
 @Title Ce bucurie când ni se zice
 @Number 176
+@Author Ovidiu Mitrofan
+@Composer Ovidiu Mitrofan
 
 1. Ce bucurie când ni se zice:
 “Veniți cu toți la Casa Domnului!”

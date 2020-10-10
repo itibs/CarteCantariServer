@@ -1,5 +1,8 @@
 @Title Rege și rob smerit
 @Number 58
+@Author Graham Kendrick, adapt. Carmen Gavril, Iulian Teodorescu
+@Composer Graham Kendrick
+@Original_Title Meekness and majesty
 
 1. Rege și Rob smerit, Sfânt Slujitor mărit,
 Din slăvi cerești venind 

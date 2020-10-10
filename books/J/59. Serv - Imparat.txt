@@ -1,5 +1,8 @@
 @Title Serv - Împărat
 @Number 59
+@Author Graham Kendrick, adapt. Iacob Coman
+@Composer Graham Kendrick
+@Original_Title From heaven You came (The Servant King)
 
 1. Venit din cer un Copil,
 Gloria Lui Şi-a dezbrăcat,

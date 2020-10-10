@@ -1,5 +1,7 @@
 @Title Să nu vă-ngrijorați
 @Number 298
+@Author Monica Turtoi
+@Composer Monica Turtoi
 
 1. Să nu vă-ngrijoraţi de viaţa voastră, 
 gândind ce veţi mânca sau ce veţi bea,

@@ -1,5 +1,8 @@
 @Title Preaînalte Dumnezeu
 @Number 262
+@Author Bob Kauflin, adapt. Daniel Suciu
+@Composer Bob Kauflin
+@Original_Title O Great God
 
 1. Preaînalte Dumnezeu, umple-mi sufletul umil.
 Fii suprem, fii Împărat peste orice gând ostil.

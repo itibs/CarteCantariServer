@@ -1,5 +1,7 @@
 @Title Pentru noi s-a ivit mântuirea
 @Number 076
+@Author  Mihai Popescu
+@Composer  Mihai Popescu
 
 Pentru noi s-a ivit mântuirea
 Pentru noi Cel de sus a venit

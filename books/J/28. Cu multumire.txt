@@ -1,5 +1,7 @@
 @Title Cu mulțumire
 @Number 28
+@Author Martin Kapplmuller, adapt. Carmen Gavril
+@Composer Martin Kapplmuller
 
 1. Cu mulțumire să cântați!
 Slăviți popoare pe Domnul!

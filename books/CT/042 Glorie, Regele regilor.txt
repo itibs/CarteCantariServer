@@ -1,5 +1,9 @@
 @Title Glorie, Regele regilor
 @Number 042
+@Author Jack Hayford
+@Composer Jack Hayford
+@Original_Title Majesty
+
 
 Glorie, Regelui regilor
 Și mărire, Isus e Rege și Domn

@@ -1,5 +1,7 @@
 @Title Eu pe Domnul iubesc
 @Number 094
+@Author Alexandru Groza
+@Composer Alexandru Groza
 
 Eu pe Domnul iubesc numele-I preamăresc
 Pentru că m-a creat și lumină mi-a dat

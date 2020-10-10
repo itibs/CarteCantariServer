@@ -1,5 +1,8 @@
 @Title Sa stralucesc ca o raza
 @Number 069
+@Author Nellie Talbot, E. O. Excell
+@Composer Nellie Talbot, E. O. Excell
+@Original_Title I'll be a sunbeam 
 
 Să strălucesc ca o rază
 A soarelui frumos

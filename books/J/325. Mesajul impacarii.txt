@@ -1,5 +1,7 @@
 @Title Mesajul împăcării
 @Number 325
+@Author Monica Turtoi
+@Composer Monica Turtoi
 
 1. Să vină-mpărăția Ta, ne rugăm,
 și voia Ta să fie am dori,

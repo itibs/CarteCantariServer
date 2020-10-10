@@ -1,5 +1,8 @@
 @Title O, Rege Sfânt
 @Number 55
+@Author Michael W. Smith, adapt. Iulian Teodorescu
+@Composer Michael W. Smith
+@Original_Title O Lord, our Lord
 
 1. O, Rege Sfânt, Minunat,
 Măreț e Numele Tău pe pământ!

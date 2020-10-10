@@ -1,5 +1,7 @@
 @Title Cânt Aleluia Domnului
 @Number 139
+@Author Linda Stassen
+@Composer Linda Stassen
 
 Cânt Aleluia Domnului
 (Cânt Aleluia Domnului)

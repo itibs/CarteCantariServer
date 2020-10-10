@@ -1,5 +1,7 @@
 @Title Să Te vezi doar Tu
 @Number 267
+@Author Iacob Brâncovan, Kenneth Tucker, Eduard Grigoriciuc
+@Composer Iacob Brâncovan
 
 1. Când slujesc ‘naintea Ta, 
 Să Te vezi doar Tu.

@@ -1,5 +1,7 @@
 @Title Dumnezeul Creator
 @Number 13
+@Author Carmen Gavril
+@Composer Iulian Teodorescu
 
 1. În slavă-L ridică-aurora
 Şi-L ‘nalţă-amurgu-n cântări!

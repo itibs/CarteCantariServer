@@ -1,5 +1,8 @@
 @Title Vreau, Doamne, vreau să-nvăț
 @Number 257
+@Author Iovan Miclea
+@Composer Kenneth Tucker
+@References Psalmul 119
 
 1. Vreau, Doamne, vreau să-­nvăţ
 Al cerului Cuvânt;

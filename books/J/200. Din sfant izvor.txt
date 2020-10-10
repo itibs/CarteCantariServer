@@ -1,5 +1,8 @@
 @Title Din sfânt izvor
 @Number 200
+@Author William Cowper (1731-1800)
+@Composer Melodie tradițională americană
+@Original_Title There Is a Fountain
 
 1. Din sfânt izvor pe Golgota
 mult sânge s-a vărsat,

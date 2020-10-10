@@ -1,5 +1,7 @@
 @Title Puteri de necrezut
 @Number 098
+@Author Costache Ioanid
+@Composer Nicolae Moldoveanu
 
 Puteri de necrezut,
 Le are-n sine dragostea,

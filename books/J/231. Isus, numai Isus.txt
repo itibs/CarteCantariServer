@@ -1,5 +1,8 @@
 @Title Isus, numai Isus
 @Number 231
+@Author Nathan Nockels, Chris Tomlin, Kristian Stanfill, Matt Redman, Christy Nockels, Tony Wood, adapt. Daniel Suciu, Echipa Jubilate
+@Composer Nathan Nockels, Chris Tomlin, Kristian Stanfill, Matt Redman, Christy Nockels, Tony Wood
+@Original_Title Jesus, only Jesus
 
 1. Pe cei morți cine-i va‑nvia? 
 Păcatele cine le ia? 

@@ -1,5 +1,8 @@
 @Title Iubirea-adâncă-a Tatălui
 @Number 14
+@Author Stuart Townend, adapt. Carmen Gavril
+@Composer Stuart Townend
+@Original_Title How deep the Father's love for us
 
 1. Iubirea-adâncă-a Tatălui
 Nimic nu o măsoară,

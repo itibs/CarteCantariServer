@@ -1,5 +1,8 @@
 @Title Pacea Ta
 @Number 286
+@Author Horatio Spafford (1828-1888), adapt. Măriuca Mihalache-Craig
+@Composer Philip P. Bliss (1838-1876)
+@Original_Title It is Well With My Soul
 
 1. Când linul izvor mă-nsoţeşte la drum,
 Când valuri izbesc barca mea,

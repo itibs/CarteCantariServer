@@ -1,5 +1,8 @@
 @Title Pe un deal departat
 @Number 167
+@Author George Bennard 1913
+@Composer George Bennard 1913
+@Original_Title the old rugged cross
 
 Pe un deal depărtat
 Un crin alb însângerat

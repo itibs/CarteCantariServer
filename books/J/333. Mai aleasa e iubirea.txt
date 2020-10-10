@@ -1,5 +1,7 @@
 @Title Mai aleasă e iubirea
 @Number 333
+@Author Monica Turtoi
+@Composer Monica Turtoi
 
 1. Mai aleasă ca un vis ce-n zori apune,
 Mai curată ca al crinilor veşmânt

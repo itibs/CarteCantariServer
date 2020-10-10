@@ -1,5 +1,8 @@
 @Title Osana
 @Number 301
+@Author Carl Tuttle
+@Composer Carl Tuttle
+@Original_Title Hosanna, hosanna, hosanna in the highest
 
 /:	Osana, Osana
 	Osana Lui Isus în veci! :/
