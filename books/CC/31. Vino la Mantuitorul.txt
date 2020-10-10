@@ -1,5 +1,8 @@
 @Title Vino la Mântuitorul
 @Number 31
+@Author Daniel Whittle, 1883
+@Composer James McGranahan
+@Original_Title There Shall Be Showers of Blessings
 @Tag Chemare la Domnul Isus
 
 1. Vino la Mântuitorul,

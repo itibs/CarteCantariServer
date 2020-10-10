@@ -1,5 +1,7 @@
 @Title Să nu merg după-un străin, Doamne
 @Number 582
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Să nu merg după-un străin, Doamne, niciodată
 /:Chiar de-aş fi silit prin chin ori pe-un drum cu flori de crin

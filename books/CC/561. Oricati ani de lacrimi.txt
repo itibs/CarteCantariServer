@@ -1,5 +1,7 @@
 @Title Oricâți ani de lacrimi
 @Number 561
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 
 1. Oricâţi ani de lacrimi cere-o slujbă mare,
 Oricât frig şi tremur cere-o primăvară,

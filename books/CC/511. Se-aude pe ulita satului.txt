@@ -1,5 +1,7 @@
 @Title Se-aude pe ulița satului
 @Number 511
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Se-aude pe uliţa satului meu 
 Un ropot zorit de copite...

@@ -1,5 +1,8 @@
 @Title Păcătoșii sunt pierduți
 @Number 55
+@Author Erdmann Neumeister
+@Composer James McGranahan
+@Original_Title Jesus nimmt die Sünder an!, Christ Receives the Sinful Men
 @Tag Chemare la Domnul Isus
 
 1. Păcătoşii sunt pierduţi

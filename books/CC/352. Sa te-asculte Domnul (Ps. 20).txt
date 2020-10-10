@@ -1,5 +1,7 @@
 @Title Să te-asculte Domnul (Ps. 20)
 @Number 352
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 @Tag Îmbărbătare - mângâiere
 
 1. Sa te-asculte Domnu-n ziua

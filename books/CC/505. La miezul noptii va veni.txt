@@ -1,5 +1,7 @@
 @Title La miezul nopții va veni
 @Number 505
+@Author anonim
+@Composer melodie englezeasca
 
 1. La miezul nopţii va veni,
 Isus, cu pas domol

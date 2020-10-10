@@ -1,5 +1,8 @@
 @Title Ție Isuse, Ție mă-nchin
 @Number 378
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 4, cant. 270
 @Tag Adorare - Laudă
 
 1. Tie, Isuse, Tie ma-nchin,

@@ -1,5 +1,8 @@
 @Title Sunt un pribeag fără de țară (înmormântare)
 @Number 506
+@Author necunoscut
+@Composer Melodie traditionala americana
+@Original_Title Wayfaring Stranger
 
 1. Sunt un pribeag fără de ţară,
 Rătăcitor prin lung pustiu.

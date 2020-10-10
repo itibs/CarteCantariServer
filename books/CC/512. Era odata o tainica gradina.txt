@@ -1,5 +1,7 @@
 @Title Era odată o tainică grădină
 @Number 512
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 
 1. Era odată-o tainică grădină 
 În care Domnul, Se ruga plângând

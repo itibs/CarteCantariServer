@@ -1,5 +1,7 @@
 @Title Pe dragii noștri tineri
 @Number 450
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 @Tag Împrejurări din viața credinciosului
 
 1. Pe dragii noştri tineri

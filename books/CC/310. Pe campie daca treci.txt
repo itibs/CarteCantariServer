@@ -1,5 +1,7 @@
 @Title Pe câmpie dacă treci
 @Number 310
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 @Tag Natura
 
 1. Pe campie daca treci, (bis)

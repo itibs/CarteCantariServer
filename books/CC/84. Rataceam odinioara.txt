@@ -1,5 +1,8 @@
 @Title Rătăceam odinioară
 @Number 84
+@Author Philip P. Bliss, 1871
+@Composer Philip P. Bliss
+@Original_Title Let the lower lights be burning
 @Tag Mântuirea - roadele ei
 
 1. Rătăceam odinioară

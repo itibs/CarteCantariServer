@@ -1,5 +1,8 @@
 @Title Lângă poarta veșniciei
 @Number 408
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 4, cant. 385
 @Tag Îmbărbătare - mângâiere
 
 1. Lângă poarta veşniciei,

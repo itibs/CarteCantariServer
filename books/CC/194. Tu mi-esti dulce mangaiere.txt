@@ -1,5 +1,7 @@
 @Title Tu mi-ești dulce mângăiere
 @Number 194
+@Author J. Mazeirac
+@Composer Melodie franceza
 @Tag Îmbărbătare - mângâiere
 
 1. Tu mi-eşti dulce mângâiere, 

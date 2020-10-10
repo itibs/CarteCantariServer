@@ -1,5 +1,8 @@
 @Title E ziua bucuriei! E ziua bucuriei!
 @Number 411
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 5, cant. 43
 @Tag Împrejurări din viața credinciosului
 
 1. E ziua bucuriei! (bis)

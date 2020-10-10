@@ -1,5 +1,7 @@
 @Title Pe crucea din dealul iubirii
 @Number 632
+@Author Sara Dehelean
+@Composer Sara Dehelean
 
 1. Pe crucea din dealul iubirii,
 Pe culmea lipsită de flori

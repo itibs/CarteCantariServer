@@ -1,5 +1,7 @@
 @Title O, Doamne, Te rugăm să ne sfințești
 @Number 146
+@Author Nicolas L. Zinzendorf
+@Composer Melodie traditionala moraviana
 @Tag Rugăciune
 
 1. O! Doamne, Te rugăm să ne sfinţeşti Tu

@@ -1,5 +1,8 @@
 @Title Întregul soare joacă-n stropi de rouă
 @Number 472
+@Author Stuart K. Hine 1949, adapt. Vasile V. Moisescu
+@Composer Melodie traditionala suedeza, arr. Stuart K. Hine 1949
+@Original_Title How Great Thou Art
 
 1. Întregul soare joacă-n stropi de rouă
 Şi Tu în inimi poţi să locuieşti.

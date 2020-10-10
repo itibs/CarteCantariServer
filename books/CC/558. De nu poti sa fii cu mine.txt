@@ -1,5 +1,7 @@
 @Title De nu poți să fii cu mine
 @Number 558
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. De nu poţi să fii cu mine
 Isuse,-n orice drum al meu,

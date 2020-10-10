@@ -1,5 +1,7 @@
 @Title La ce-ți folosește spada?
 @Number 548
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. La ce-ţi foloseşte spada, când eşti paznic adormit,
 Când puterea şi dulceaţa somnului te-au copleşit?

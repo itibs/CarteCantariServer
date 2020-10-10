@@ -1,5 +1,8 @@
 @Title Bucuroși mergem pe cale
 @Number 36
+@Author Fanny J. Crosby, adapt. D. Cornilescu
+@Composer Silas J. Vail
+@Original_Title Close to Thee
 @Tag Umblarea (purtarea) credinciosului
 
 1. Bucuroşi mergem pe cale

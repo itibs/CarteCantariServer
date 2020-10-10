@@ -1,5 +1,7 @@
 @Title De ești un fiu al luminii
 @Number 557
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. De eşti un fiu luminii
 Şi rob adevărat, 

@@ -1,5 +1,6 @@
 @Title Ah, cât mă simțesc de bine
 @Number 509
+@Author Traian Dorz
 
 1. Ah! Cât mă simțesc de bine
 Când e Domnul lângă mine, şi cu El trăiesc.

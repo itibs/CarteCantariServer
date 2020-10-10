@@ -1,5 +1,7 @@
 @Title Mă poartă-n carul Tău de biruință
 @Number 342
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 @Tag Biruința creștinului
 
 1. Ma poarta-n carul Tau de biruinta!

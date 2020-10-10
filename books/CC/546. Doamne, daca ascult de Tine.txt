@@ -1,5 +1,7 @@
 @Title Doamne, dacă ascult de Tine
 @Number 546
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Doamne dacă ascult de Tine
 Tu mergi înaintea mea

@@ -1,5 +1,7 @@
 @Title O, de ce tu nu vrei să te-ntorci
 @Number 434
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 @Tag Chemare la Domnul Isus
 
 1. O, de ce tu nu vrei să te-ntorci?

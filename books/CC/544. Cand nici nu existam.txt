@@ -1,5 +1,6 @@
 @Title Când nici nu existam
 @Number 544
+@Composer Puiu Chibici 
 
 1. Când nici nu existam şi nici n-aveam suflare
 Din cer încă de-atuncea mă vegheai.

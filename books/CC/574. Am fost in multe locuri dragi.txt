@@ -1,5 +1,7 @@
 @Title Am fost în multe locuri dragi
 @Number 574
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 
 1. Am fost în multe locuri dragi
 Şi mulţi mi-au zis: ,,Aici ţi-e bine!”

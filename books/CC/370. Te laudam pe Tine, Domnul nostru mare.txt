@@ -1,5 +1,8 @@
 @Title Te lăudăm pe Tine, Domnul nostru mare
 @Number 370
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 3, cant. 1
 @Tag Adorare - Laudă
 
 1. Te laudam pe Tine, Domnul nostru mare,

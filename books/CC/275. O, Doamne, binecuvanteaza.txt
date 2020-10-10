@@ -1,5 +1,7 @@
 @Title O, Doamne, binecuvântează
 @Number 275
+@Author Henri Lutteroth
+@Composer Paul Ami I. D. Bost
 @Tag Cuvântul lui Dumnezeu
 
 1. O, Doamne, binecuvintează

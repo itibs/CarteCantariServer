@@ -1,5 +1,6 @@
 @Title Peste munți și dealuri
 @Number 418
+@Composer Nicolae Moldoveanu
 @Tag Pentru copii și tineret
 
 1. Peste munţi şi dealuri, văd pe Dumnezeu

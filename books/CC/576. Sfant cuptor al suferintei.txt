@@ -1,5 +1,7 @@
 @Title Sfânt cuptor al suferinței
 @Number 576
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Sfânt cuptor al suferinţei
 Ce mă arzi fără să pier,

@@ -1,5 +1,8 @@
 @Title Sfârșitul veacului trăim
 @Number 443
+@Author Thoro Harris (trad. Valentin Popovici)
+@Composer Melodie din Hawai
+@Original_Title He's Coming Soon
 @Tag Venirea Domnului Isus
 
 1. Sfârşitul veacului trăim

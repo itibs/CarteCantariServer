@@ -1,5 +1,7 @@
 @Title O chemare vine din întunecimi
 @Number 615
+@Author Valentin Popovici
+@Composer Chas H. Gabriel
 
 1. O chemare vine din întunecimi:
 Luminaţi! Luminaţi!

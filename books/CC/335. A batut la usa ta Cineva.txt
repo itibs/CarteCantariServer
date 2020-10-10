@@ -1,5 +1,8 @@
 @Title A bătut la ușa ta Cineva
 @Number 335
+@Author Costache Ioanid
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 2, cant. 73
 @Tag Chemare la Domnul Isus
 
 1. /: A batut la usa ta Cineva

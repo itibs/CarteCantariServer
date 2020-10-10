@@ -1,5 +1,8 @@
 @Title Eu Te-aștept pe Tine, Doamne
 @Number 87
+@Author William O. Cushing, adapt. D. Cornilescu
+@Composer George F. Root
+@Original_Title When He Cometh
 @Tag Nădejdea credinciosului
 
 1. Eu te aştept pe Tine, Doamne,

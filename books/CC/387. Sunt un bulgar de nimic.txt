@@ -1,5 +1,8 @@
 @Title Sunt un bulgăr de nimic
 @Number 387
+@Author I. Nicola
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 18, cant. 154
 @Tag Mântuirea - roadele ei
 
 1. Sunt un bulgar de nimic,

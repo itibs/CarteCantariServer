@@ -1,5 +1,8 @@
 @Title Lăudați pe Domnul
 @Number 325
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 2, cant. 1
 @Tag Adorare - Laudă
 
 1. Laudati pe Domnul, voi, cei mantuiti

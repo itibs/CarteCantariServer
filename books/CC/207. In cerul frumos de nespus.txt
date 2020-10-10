@@ -1,5 +1,8 @@
 @Title În cerul frumos de nespus
 @Number 207
+@Author DeWitt C. Huntington
+@Composer Tullius C. O'Kane
+@Original_Title The Home Over There
 @Tag Nădejdea credinciosului
 
 1. În cerul frumos de nespus,

@@ -1,5 +1,7 @@
 @Title Sus, în cer, noi avem o casă
 @Number 33
+@Author E. L. Budry, adapt. D. Cornilescu
+@Composer Ch. C. Case
 @Tag Nădejdea credinciosului
 
 1. Sus, în cer, noi avem o casă,

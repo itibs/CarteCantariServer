@@ -1,5 +1,7 @@
 @Title Har numai har e ființa ta
 @Number 460
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Har, numai har e Fiinţa Ta.
 Slăvit Dumnezeu! (bis) 

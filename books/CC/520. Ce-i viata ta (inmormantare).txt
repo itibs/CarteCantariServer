@@ -1,5 +1,7 @@
 @Title Ce-i viața ta? (înmormântare)
 @Number 520
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Ce-i viaţa ta? E o peniţă
 Cu care scrii mereu pe-un drum

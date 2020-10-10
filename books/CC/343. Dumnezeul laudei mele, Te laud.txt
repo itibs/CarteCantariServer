@@ -1,5 +1,8 @@
 @Title Dumnezeul laudei mele, Te laud
 @Number 343
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 6, cant. 263
 @Tag Adorare - Laudă
 
 1. Dumnezeul laudei mele, Te laud,

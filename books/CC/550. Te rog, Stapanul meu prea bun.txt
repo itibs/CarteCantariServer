@@ -1,5 +1,7 @@
 @Title Te rog, Stăpânul meu prea bun
 @Number 550
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Te rog Stăpânul meu preabun 
 Prin Duhul să mă-nţelepţeşti.

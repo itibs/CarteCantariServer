@@ -1,5 +1,7 @@
 @Title Nu ești învins cât timp ai credința
 @Number 636
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 
 1. Nu eşti învins cât timp credinţa
 Nu ţi-ai schimbat şi nu ţi-ai stins:

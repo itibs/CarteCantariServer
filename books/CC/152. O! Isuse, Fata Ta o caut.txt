@@ -1,5 +1,6 @@
 @Title O! Isuse, Fața Ta o caut
 @Number 152
+@Author adaptare D. Cornilescu
 @Tag Umblarea (purtarea) credinciosului
 
 1. O! Isuse, Faţa Ta o caut

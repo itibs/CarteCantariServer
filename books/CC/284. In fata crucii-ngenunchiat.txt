@@ -1,5 +1,7 @@
 @Title În fața crucii-ngenunchiat
 @Number 284
+@Author Auguste H. Francke
+@Composer Vulpius Melchior
 @Tag Predarea
 
 1. În faţa crucii-ngenuncheat,

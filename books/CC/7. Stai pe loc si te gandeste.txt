@@ -1,5 +1,8 @@
 @Title Stai pe loc și te gândește
 @Number 7
+@Author J. C. Morgan adapt. D. Cornilescu
+@Composer G. C. Stebbins
+@Original_Title Fully Trusting
 @Tag Chemare la Domnul Isus
 
 1. Stai pe loc şi te gândeşte:

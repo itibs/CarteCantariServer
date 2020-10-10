@@ -1,5 +1,7 @@
 @Title N-auzi cum te cheamă Domnul
 @Number 16
+@Author E. L. Budry, adapt. D. Cornilescu
+@Composer William H. Doane
 @Tag Chemare la Domnul Isus
 
 1. N-auzi cum te cheamă Domnul?

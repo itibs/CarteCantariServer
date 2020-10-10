@@ -1,5 +1,7 @@
 @Title Să stric lucrarea celui rău
 @Number 572
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Să stric lucrarea celui rău
 O, Doamne-ntâi în mine

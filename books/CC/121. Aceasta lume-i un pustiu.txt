@@ -1,5 +1,8 @@
 @Title Această lume-i un pustiu
 @Number 121
+@Author James G. Small
+@Composer George C. Stebbins
+@Original_Title I've Found a Friend
 @Tag Nădejdea credinciosului
 
 1. Această lume-i un pustiu;

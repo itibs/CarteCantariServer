@@ -1,5 +1,8 @@
 @Title În fiecare dimineață
 @Number 309
+@Author Costache Ioanid
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 3, cant. 134
 @Tag Umblarea (purtarea) credinciosului
 
 1. In fiecare dimineata (bis)

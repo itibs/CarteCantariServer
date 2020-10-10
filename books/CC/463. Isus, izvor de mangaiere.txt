@@ -1,5 +1,7 @@
 @Title Isus, izvor de mângâiere
 @Number 463
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Isus izvor de mângâiere, 
 La Tine vin încrezător,

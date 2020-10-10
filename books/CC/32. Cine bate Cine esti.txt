@@ -1,5 +1,8 @@
 @Title Cine bate? Cine ești?
 @Number 32
+@Author Harriet B. Stowe
+@Composer George F. Root
+@Original_Title Knocking, Knocking, Who Is There?
 @Tag Chemare la Domnul Isus
 
 1. Cine bate? Cine eşti?

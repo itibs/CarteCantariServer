@@ -1,5 +1,7 @@
 @Title Când vin dureri, Isuse
 @Number 500
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Când vin dureri, Isuse, când trecem prin nevoi,
 Tu eşti pe ţărmul vieţii necunoscut de noi. (bis)

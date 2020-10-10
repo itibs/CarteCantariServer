@@ -1,5 +1,7 @@
 @Title Cum pâinea se dăruie-ntruna
 @Number 568
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Cum pâinea se dăruie întruna
 La toţi flămânziţii din gloată.

@@ -1,5 +1,8 @@
 @Title Prin harTu, Doamne, m-ai zidit
 @Number 383
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 6, cant. 137
 @Tag Mântuirea - roadele ei
 
 1. Prin har, Tu, Doamne, m-ai zidit

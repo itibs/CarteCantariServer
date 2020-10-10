@@ -1,5 +1,7 @@
 @Title Vrăbiuța din câmpie
 @Number 304
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 @Tag Natura
 
 1. /: Vrăbiuța din câmpie

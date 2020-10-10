@@ -1,5 +1,7 @@
 @Title Preaiubitul meu e Unul
 @Number 401
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 @Tag Îmbărbătare - mângâiere
 
 1. Preaiubitul meu e Unul,

@@ -1,5 +1,7 @@
 @Title O, ce zi! O, ce zi!
 @Number 117
+@Author adapt. D. Cornilescu
+@Composer Volgtlander
 @Tag Nădejdea credinciosului
 
 1. O, ce zi! O, ce zi

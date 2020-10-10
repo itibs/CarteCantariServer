@@ -1,5 +1,8 @@
 @Title Ce-ar fi făptura-mi fără Tine
 @Number 306
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 2, cant. 2
 @Tag Mântuirea - roadele ei
 
 1. Ce-ar fi făptura-mi fără Tine,

@@ -1,5 +1,8 @@
 @Title Când furtuna vâjâie năpraznică
 @Number 44
+@Author Johnson Oatman Jr. , adapt. D. Cornilescu
+@Composer Edwin O. Excell
+@Original_Title Count Your Blessings
 @Tag Îmbărbătare - mângâiere
 
 1. Când furtuna vâjâie năpraznică

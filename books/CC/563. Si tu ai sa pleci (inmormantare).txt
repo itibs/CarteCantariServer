@@ -1,5 +1,7 @@
 @Title Și tu ai să pleci (înmormântare)
 @Number 563
+@Author Traian Dorz
+@Composer ???
 
 1. Şi tu ai să pleci odată
 Mult mai grabnic decât crezi.

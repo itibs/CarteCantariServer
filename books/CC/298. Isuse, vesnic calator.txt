@@ -1,5 +1,7 @@
 @Title Isuse, veșnic călător
 @Number 298
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 @Tag Domnul Isus și jertfa Lui
 @Tag Primirea Domnului Isus - Întoarcerea la Dumnezeu
 

@@ -1,5 +1,8 @@
 @Title Pregătește-mi Tu, Isuse
 @Number 351
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 7, cant. 186
 @Tag Predarea
 
 1. Pregateste-mi Tu, Isuse

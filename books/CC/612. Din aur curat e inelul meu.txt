@@ -1,5 +1,6 @@
 @Title Din aur curat e inelul meu
 @Number 612
+@Author Iuliana Leontiuc
 
 R1: Din aur curat e inelul meu,
 Din aur curat comoară-n Cer am eu.

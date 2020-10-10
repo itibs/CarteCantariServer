@@ -1,5 +1,7 @@
 @Title O, Doamne,-al Tău Cuvânt
 @Number 163
+@Author Auguste Rochat
+@Composer Johann M. Haydn
 @Tag Cuvântul lui Dumnezeu
 
 1. O! Doamne,-al Tău Cuvânt

@@ -1,5 +1,8 @@
 @Title Eu voi ocroti cetatea Mea
 @Number 340
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 5, cant. 225
 @Tag Adunarea (Biserica) - Legătura frățească
 
 1. Eu voi ocroti cetatea Mea,

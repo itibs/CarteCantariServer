@@ -1,5 +1,7 @@
 @Title O! Dătătorul vieții
 @Number 52
+@Author M. Perrenoud / D. Cornilescu
+@Composer Jakob M. Beer
 @Tag Mântuirea - roadele ei
 
 1. O! Dătătorul vieţii,

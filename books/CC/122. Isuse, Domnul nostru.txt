@@ -1,5 +1,8 @@
 @Title Isuse, Domnul nostru
 @Number 122
+@Author Annie S. Hawks; Robert Lowry, Refrain
+@Composer Robert Lowry, 1872
+@Original_Title I Need Thee Every Hour
 @Tag Poziția credinciosului
 
 1. Isuse, Domnul nostru,

@@ -1,5 +1,8 @@
 @Title O ușă-n cer, Isuse, s-a deschis
 @Number 333
+@Author Serban Constantinescu
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 6, cant. 326
 @Tag Nădejdea credinciosului
 
 1. O usa-n cer, Isuse, s-a deschis

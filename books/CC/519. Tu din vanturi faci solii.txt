@@ -1,5 +1,6 @@
 @Title Tu din vânturi faci solii
 @Number 519
+@Composer Puiu Chibici
 
 1. Tu din vânturi faci solii,
 Tu ai înălţat munţii,

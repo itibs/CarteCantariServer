@@ -1,5 +1,6 @@
 @Title Gândind la Tine, harul mă inundă
 @Number 480
+@Composer Nicolae Moldoveanu
 
 1. Gândind la Tine, harul mă inundă
 Şi primăvara-n suflet se coboară,

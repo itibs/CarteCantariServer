@@ -1,5 +1,8 @@
 @Title Cânta-voi Domnului mărire
 @Number 419
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 4, cant. 11
 @Tag Adorare - Laudă
 
 1. Cânta-voi Domnului mărire,

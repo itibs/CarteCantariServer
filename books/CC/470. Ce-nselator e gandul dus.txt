@@ -1,5 +1,6 @@
 @Title Ce-nșelător e gândul dus
 @Number 470
+@Author Traian Dorz
 
 1. Ce-nşelător e gândul 
 Dus de către cer, către pământ.

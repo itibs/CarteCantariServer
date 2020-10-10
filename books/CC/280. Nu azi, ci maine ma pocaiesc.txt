@@ -1,5 +1,8 @@
 @Title Nu azi, ci mâine mă pocăiesc
 @Number 280
+@Author Philip P. Bliss, 1871
+@Composer Philip P. Bliss
+@Original_Title Almost Persuaded
 @Tag Chemare la Domnul Isus
 
 1. „Nu azi, ci mâine mă pocăiesc

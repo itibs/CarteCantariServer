@@ -1,5 +1,7 @@
 @Title Cât ai trăit ai strâns și-ai strâns (înmormântare)
 @Number 603
+@Author Costache Ioanid
+@Composer Nicolae Moldoveanu
 
 1. Cât ai trăit ai strâns și-ai strâns
 Cum strânge de pe crengi furtuna,

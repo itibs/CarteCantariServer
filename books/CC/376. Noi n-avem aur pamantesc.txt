@@ -1,5 +1,8 @@
 @Title Noi n-avem aur pământesc
 @Number 376
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 4, cant. 241
 @Tag Umblarea (purtarea) credinciosului
 
 1. Noi n-avem aur pamantesc,

@@ -1,5 +1,6 @@
 @Title Azi când ușa e deschisă te îndemn să vii
 @Number 660
+@Composer Simion Buzduga
 
 1. Azi când ușa e deschisă te îndemn să vii,
 Să primești iertarea sfântă pentru veșnicii.

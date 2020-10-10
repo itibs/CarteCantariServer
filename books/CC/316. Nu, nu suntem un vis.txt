@@ -1,5 +1,8 @@
 @Title Nu, nu suntem un vis
 @Number 316
+@Author Costache Ioanid
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 5, cant. 235
 @Tag Dumnezeu
 
 1. Nu, nu suntem un vis, o intamplare,

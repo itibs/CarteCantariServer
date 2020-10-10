@@ -1,5 +1,7 @@
 @Title Unire, deplină unire
 @Number 360
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 @Tag Adunarea (Biserica) - Legătura frățească
 
 1. Unire, deplina unire

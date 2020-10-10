@@ -1,5 +1,8 @@
 @Title Va fi o zi de cântec
 @Number 361
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 6, cant. 321
 @Tag Venirea Domnului Isus
 
 1. /: Va fi o zi de cantec

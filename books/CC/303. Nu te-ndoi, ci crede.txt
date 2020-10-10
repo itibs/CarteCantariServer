@@ -1,5 +1,8 @@
 @Title Nu te-ndoi, ci crede
 @Number 303
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 2, cant. 13
 @Tag Îmbărbătare - mângâiere
 
 1. Nu te-ndoi, ci crede

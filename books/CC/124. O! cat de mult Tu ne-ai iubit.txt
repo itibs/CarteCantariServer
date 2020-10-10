@@ -1,5 +1,7 @@
 @Title O! cât de mult Tu ne-ai iubit
 @Number 124
+@Author Abel Deschamps
+@Composer Abel Deschamps
 @Tag Mântuirea - roadele ei
 
 1. O! cât de mult Tu ne-ai iubit,

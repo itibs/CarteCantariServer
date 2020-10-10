@@ -1,5 +1,7 @@
 @Title Nici unul n-a pierit, Isuse?
 @Number 464
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Niciunul n-a pierit Isuse, 
 Din câţi la Tine au venit,

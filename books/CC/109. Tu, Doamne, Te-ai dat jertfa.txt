@@ -1,5 +1,8 @@
 @Title Tu, Doamne, Te-ai dat jertfă
 @Number 109
+@Author Samuel J. Stone
+@Composer Samuel S. Wesley
+@Original_Title The Church's One Foundation
 @Tag Mântuirea - roadele ei
 
 1. Tu, Doamne, Te-ai dat jertfă,

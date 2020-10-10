@@ -1,5 +1,7 @@
 @Title Noi plutim tot înainte
 @Number 192
+@Author Cecil F. Alexander
+@Composer Joachim Neander
 @Tag Nădejdea credinciosului
 
 1. Noi plutim tot înainte

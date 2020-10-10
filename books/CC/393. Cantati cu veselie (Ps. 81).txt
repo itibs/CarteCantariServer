@@ -1,5 +1,7 @@
 @Title Cântați cu veselie (Ps. 81)
 @Number 393
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 @Tag Adorare - Laudă
 
 1. Cantati cu veselie,

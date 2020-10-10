@@ -1,5 +1,7 @@
 @Title Lăudați, copii, pe Domnul
 @Number 444
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 @Tag Pentru copii și tineret
 
 1. – Lăudaţi, copii, pe Domnul!

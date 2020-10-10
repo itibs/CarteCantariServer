@@ -1,5 +1,8 @@
 @Title Rămâi cu mine ne`ncetat
 @Number 233
+@Author Henry Vaughan / adapt. Emil Constantinescu
+@Composer Melchior Vulpius
+@Original_Title My Soul, There Is a Country
 @Tag Rugăciune
 
 1. Rămâi cu mine ne'ncetat,

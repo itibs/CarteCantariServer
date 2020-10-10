@@ -1,5 +1,7 @@
 @Title Ce duios răsună!
 @Number 230
+@Author Mile E. Schurer
+@Composer William H. Doane?
 @Tag Chemare la Domnul Isus
 
 1. Ce duios răsună

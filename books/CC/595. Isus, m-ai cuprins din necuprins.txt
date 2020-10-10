@@ -1,5 +1,6 @@
 @Title Isus, m-ai cuprins din necuprins
 @Number 595
+@Composer Tom Coomes
 
 1. Isus, m-ai cuprins din necuprins,
 O! Isus, viața-n mine ai aprins,

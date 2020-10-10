@@ -1,5 +1,7 @@
 @Title Suflet pierdut, vino
 @Number 25
+@Author D. Cornilescu
+@Composer W. H. Doane
 @Tag Chemare la Domnul Isus
 
 1. Suflet pierdut, vino,

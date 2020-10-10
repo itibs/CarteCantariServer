@@ -1,5 +1,8 @@
 @Title O! Isuse, Tu stai azi pe scaunul Tău
 @Number 92
+@Author Amelia M. Hull
+@Composer Edward G. Taylor
+@Original_Title There Is Life for a Look
 @Tag Mântuirea - roadele ei
 
 1. O! Isuse, Tu stai azi

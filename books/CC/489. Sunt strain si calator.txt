@@ -1,5 +1,7 @@
 @Title Sunt străin și călător
 @Number 489
+@Author Costache Ioanid
+@Composer Nicolae Moldoveanu
 
 1. Sunt străin şi călător
 N-am aici palate,

@@ -1,5 +1,7 @@
 @Title Viața-i plină de întristări
 @Number 662
+@Author John M. Moore, adapt. V. Popovici
+@Composer John M. Moore
 
 1. Viaţa-i plină de întristări
 Grijuri vin zi de zi.

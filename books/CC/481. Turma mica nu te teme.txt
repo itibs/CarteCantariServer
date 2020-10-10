@@ -1,5 +1,7 @@
 @Title Turmă mică nu te teme
 @Number 481
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Turmă mică nu te teme,
 Domnul e Păstorul tău.

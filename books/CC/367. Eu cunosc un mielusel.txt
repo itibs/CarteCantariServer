@@ -1,5 +1,8 @@
 @Title Eu cunosc un mielușel
 @Number 367
+@Author Costache Ioanid
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 6, cant. 237
 @Tag Pentru copii și tineret
 
 1. Eu cunosc un mielusel

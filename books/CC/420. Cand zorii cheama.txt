@@ -1,5 +1,8 @@
 @Title Când zorii cheamă
 @Number 420
+@Author Costache Ioanid
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 3, cant. 199
 @Tag Îmbărbătare - mângâiere
 
 1. Când zorii cheamă din somnul greu,

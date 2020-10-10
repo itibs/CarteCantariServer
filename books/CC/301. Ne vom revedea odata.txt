@@ -1,5 +1,6 @@
 @Title Ne vom revedea odată
 @Number 301
+@Author Traian Dorz
 @Tag Nădejdea credinciosului
 
 1. Ne vom revedea odată,

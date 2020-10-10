@@ -1,5 +1,7 @@
 @Title Oricine iubește o floare
 @Number 562
+@Author Costache Ioanid
+@Composer Nicolae Moldoveanu
 
 1. Oricine iubeşte o floare
 E-aproape de-al vieţii mister.

@@ -1,5 +1,7 @@
 @Title Cred și știu Isuse, Doamne
 @Number 555
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Cred şi ştiu Isuse, Doamne
 Prin Cuvântul Tău ştiu bine,

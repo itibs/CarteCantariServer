@@ -1,5 +1,6 @@
 @Title Sfânta Scriptură și azi să-mi vorbească
 @Number 666
+@Composer Cristian Vasile Roske
 
 1. Sfânta Scriptură și azi să-mi vorbească,
 Sfântul Cuvânt de viaţă dătător;

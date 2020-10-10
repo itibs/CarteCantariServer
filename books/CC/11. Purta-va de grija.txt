@@ -1,5 +1,6 @@
 @Title Purta-va de grijă
 @Number 11
+@Author adapt. Dumitru Cornilescu
 @Tag Îmbărbătare - mângâiere
 
 1. Purta-va de grijă

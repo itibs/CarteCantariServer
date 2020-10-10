@@ -1,5 +1,7 @@
 @Title E o minune când soarele apune
 @Number 621
+@Author Cristian Vasile Roske
+@Composer Monica Farcaș
 
 1. E-o minune când soarele apune,
 Minune din veşnicii.

@@ -1,5 +1,8 @@
 @Title Azi noi Te binecuvântăm cu toți
 @Number 106
+@Author James McGranahan, 1878
+@Composer James McGranahan
+@Original_Title Verily, I Say unto You
 @Tag Dumnezeu
 
 1. Azi noi Te binecuvântăm cu toţi,

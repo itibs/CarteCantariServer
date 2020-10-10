@@ -1,5 +1,7 @@
 @Title Tăria mea, tăria mea
 @Number 494
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Tăria mea, Tăria mea, eşti Tu, eşti Tu, Părinte,
 Prin încercarea cea mai grea, cu Tine merg 'nainte.

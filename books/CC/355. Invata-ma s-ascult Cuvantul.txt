@@ -1,5 +1,7 @@
 @Title Învață-mă s-ascult Cuvântul
 @Number 355
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 @Tag Cuvântul lui Dumnezeu
 
 1. Invata-ma sa-ascult Cuvantul,

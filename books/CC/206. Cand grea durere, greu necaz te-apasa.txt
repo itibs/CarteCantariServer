@@ -1,5 +1,7 @@
 @Title Când grea durere, greu necaz te-apasă
 @Number 206
+@Author Charles Rochedieu
+@Composer M. Boissonas
 @Tag Îmbărbătare - mângâiere
 
 1. Când grea durere, greu necaz te-apasă,

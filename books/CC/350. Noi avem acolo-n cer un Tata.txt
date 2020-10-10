@@ -1,5 +1,8 @@
 @Title Noi avem acolo-n cer un Tată
 @Number 350
+@Author Costache Ioanid
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 5, cant. 236
 @Tag Dumnezeu
 
 1. Noi avem acolo-n cer un Tata

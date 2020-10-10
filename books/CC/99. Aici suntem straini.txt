@@ -1,5 +1,6 @@
 @Title Aici suntem străini
 @Number 99
+@Author Mlle A. Pelaz
 @Tag Poziția credinciosului
 
 1. Aici suntem străini:

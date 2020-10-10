@@ -1,5 +1,7 @@
 @Title Da și nu, nu și da
 @Number 486
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Da şi nu, nu şi da,
 Nu se pot înmănunchea.

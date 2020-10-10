@@ -1,5 +1,7 @@
 @Title Aproape că e seară
 @Number 566
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Aproape ca o seară,
 Grăbită ca un ceas,

@@ -1,5 +1,8 @@
 @Title Vin' la Tatăl, El te cheamă
 @Number 39
+@Author Daniel Whittle, 1891.
+@Composer Charles C. Case
+@Original_Title Why Not Now?
 @Tag Chemare la Domnul Isus
 
 1. Vin' la Tatăl! El te cheamă;

@@ -1,5 +1,7 @@
 @Title Ai venit din cer senin, Isuse iubit
 @Number 659
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 
 1. Ai venit din cer senin, Isuse iubit
 Pe pământ de rele plin, Isuse iubit.

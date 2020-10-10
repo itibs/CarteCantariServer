@@ -1,5 +1,7 @@
 @Title Te laud, Doamne, Te laud
 @Number 647
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Te laud, Doamne, Te laud!
 Cu mulțumiri Îți cânt. (bis)

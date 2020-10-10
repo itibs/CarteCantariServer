@@ -1,5 +1,7 @@
 @Title Fecioară înțeleaptă cu candela aprinsă
 @Number 604
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 
 1. Fecioară înțeleaptă cu candela aprinsă
 Ce treaz-aștepți întruna pe Mirele iubit,

@@ -1,5 +1,7 @@
 @Title Fără Isus, fără iertare
 @Number 229
+@Author adaptare Emil Constantinescu
+@Composer Melodie franceza
 @Tag Chemare la Domnul Isus
 
 1. Fără-Isus, fără iertare,

@@ -1,5 +1,7 @@
 @Title Noapte sfântă, minunată
 @Number 469
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Noapte sfântă, minunată, 
 Ceru-ţi este luminos,

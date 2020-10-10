@@ -1,5 +1,8 @@
 @Title Slavă, slavă
 @Number 398
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 4, cant. 1
 @Tag Adorare - Laudă
 
 1. Slava, slava!

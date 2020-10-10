@@ -1,5 +1,8 @@
 @Title Unde-aș mai găsi prin lume?
 @Number 405
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 4, cant. 6
 @Tag Îmbărbătare - mângâiere
 
 1. Unde-aş mai găsi prin lume-atât belşug de har,

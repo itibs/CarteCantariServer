@@ -1,5 +1,8 @@
 @Title Ce bucurie, Doamne
 @Number 123
+@Author Mary D. James
+@Composer Phoebe P. Knapp
+@Original_Title Consecration
 @Tag Adunarea (Biserica) - Legătura frățească
 
 1. Ce bucurie, Doamne,

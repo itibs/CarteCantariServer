@@ -1,5 +1,7 @@
 @Title Iubirea noastră-i mai frumoasă
 @Number 559
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Iubirea noastră-i mai frumoasă
 Ca orice dragoste sub cer,

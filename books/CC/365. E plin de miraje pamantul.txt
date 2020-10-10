@@ -1,5 +1,8 @@
 @Title E plin de miraje pământul
 @Number 365
+@Author Costache Ioanid
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 6, cant. 238
 @Tag Chemare la Domnul Isus
 
 1. E plin de miraje pamantul,

@@ -1,5 +1,7 @@
 @Title Când nu suntem nimica
 @Number 565
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Când nu suntem nimica
 Eşti totul Tu în noi,

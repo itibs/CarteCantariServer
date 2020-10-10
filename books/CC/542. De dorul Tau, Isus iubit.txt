@@ -1,5 +1,7 @@
 @Title De dorul Tău, Isus iubit
 @Number 542
+@Author Traian Dorz
+@Composer Titus C. Adorian
 
 1. De dorul Tău, Isus iubit,
 În dragostea Ta, arse

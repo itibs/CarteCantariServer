@@ -1,5 +1,7 @@
 @Title Te prind fiori, te simți murdar
 @Number 602
+@Author Costache Ioanid
+@Composer Nicolae Moldoveanu
 
 1. Te prind fiori, te simți murdar...
 Te-a prins păcatul la răscruce?

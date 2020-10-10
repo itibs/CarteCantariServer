@@ -1,5 +1,6 @@
 @Title Nu te teme, crede și-ai să fii scăpat
 @Number 473
+@Author Traian Dorz
 
 1. Nu te teme, crede şi-ai să fi scăpat,
 Dumnezeu îţi vede calea ne-ncetat,

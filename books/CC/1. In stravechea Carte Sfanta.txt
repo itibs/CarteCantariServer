@@ -1,5 +1,8 @@
 @Title În străvechea Carte Sfântă
 @Number 1
+@Author Robert Lowry, adapt. Iacob Negruzzi
+@Composer R. Lowry
+@Original_Title Shall We Gather at the River?
 @Tag Cuvântul lui Dumnezeu
 
 1. În străvechea Carte Sfântă,

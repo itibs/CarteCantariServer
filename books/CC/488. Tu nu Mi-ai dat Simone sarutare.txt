@@ -1,5 +1,7 @@
 @Title Tu nu Mi-ai dat Simone sărutare
 @Number 488
+@Author Costache Ioanid
+@Composer Nicolae Moldoveanu
 
 1. Tu nu Mi-ai dat, Simone, sărutare,
 Pe tâmple mir, nu Mi-ai pus.

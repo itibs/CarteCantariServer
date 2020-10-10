@@ -1,5 +1,7 @@
 @Title Nimic nu-i o înșelare mai mare pentru tine
 @Number 560
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Nimic nu-i o înşelare mai mare pentru tine
 Decât c-a lumii slavă având-o veşnic ţine.

@@ -1,5 +1,8 @@
 @Title Nu te pierde-n deznădejde
 @Number 413
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 7, cant. 182
 @Tag Îmbărbătare - mângâiere
 
 1. Nu te pierde-n deznădejde,

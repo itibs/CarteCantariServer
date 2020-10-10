@@ -1,5 +1,7 @@
 @Title Dacă-ntr-o tainică vreme
 @Number 554
+@Author Costache Ioanid
+@Composer Nicolae Moldoveanu
 
 1. Dacă într-o tainică vreme
 Din lut Cineva mă făcu

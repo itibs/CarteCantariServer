@@ -1,5 +1,7 @@
 @Title M-ai găsit pe un drum părăsit
 @Number 607
+@Author Ovidiu Liteanu
+@Composer Ovidiu Liteanu
 
 1. M-ai găsit pe un drum părăsit
 În a lumii noroi prăbușit,

@@ -1,5 +1,7 @@
 @Title Laudă și mulțumire
 @Number 482
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Laudă şi mulţumire
 Îţi aducem ne-ncetat

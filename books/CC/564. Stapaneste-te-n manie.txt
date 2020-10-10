@@ -1,5 +1,7 @@
 @Title Stăpânește-te-n mânie
 @Number 564
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Stăpâneşte-te-n mânie
 Să nu spui nici-un cuvânt,

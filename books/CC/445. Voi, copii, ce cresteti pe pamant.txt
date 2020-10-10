@@ -1,5 +1,8 @@
 @Title Voi, copii, ce creșteți pe pământ
 @Number 445
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 5, cant. 170
 @Tag Pentru copii și tineret
 
 1. Voi, copii ce creşteţi pe pământ,

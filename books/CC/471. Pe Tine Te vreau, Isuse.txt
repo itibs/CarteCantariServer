@@ -1,5 +1,7 @@
 @Title Pe Tine Te vreau, Isuse
 @Number 471
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Pe Tine Te vreau! (bis) 
 Pe Tine Te vreau, Isuse.

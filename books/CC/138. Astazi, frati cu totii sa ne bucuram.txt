@@ -1,5 +1,8 @@
 @Title Astăzi, frați cu toții să ne bucurăm
 @Number 138
+@Author Johannes D. Falk
+@Composer Tattersall's Psalmody, 1794
+@Original_Title O Thou Joyful, O Thou Wonderful
 @Tag Mântuirea - roadele ei
 
 1. Astăzi, fraţi, cu toţii să ne bucurăm

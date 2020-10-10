@@ -1,5 +1,7 @@
 @Title Sunt robul Tău, iubire
 @Number 648
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Sunt robul Tău iubire
 Pe drumul Tău nestins.

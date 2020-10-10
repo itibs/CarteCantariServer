@@ -1,5 +1,7 @@
 @Title Privește pe Isus
 @Number 105
+@Author adapt. D. Cornilescu
+@Composer J. Hoff
 @Tag Domnul Isus și jertfa Lui
 
 1. Priveşte pe Isus

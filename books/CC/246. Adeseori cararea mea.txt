@@ -1,5 +1,6 @@
 @Title Adeseori cărarea mea
 @Number 246
+@Composer James McGranahan
 @Tag Îmbărbătare - mângâiere
 
 1. Adeseori cărarea mea

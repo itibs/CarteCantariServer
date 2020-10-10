@@ -1,5 +1,7 @@
 @Title Iată ce plăcut și dulce e să locuiască
 @Number 665
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 
 1. Iată ce plăcut și dulce e să locuiască
 Frații pururea-mpreună să se veselească, 

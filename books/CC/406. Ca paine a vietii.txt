@@ -1,5 +1,8 @@
 @Title Ca pâine a vieții
 @Number 406
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 2, cant. 106
 @Tag Chemare la Domnul Isus
 
 1. Ca pâine a vieţii,

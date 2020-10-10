@@ -1,5 +1,8 @@
 @Title Auzi corul îngeresc
 @Number 428
+@Author Charles Wesley
+@Composer Felix Mendelssohn; arr. W. H. Cummings
+@Original_Title Hark! The Herald Angels Sing
 @Tag Împrejurări din viața credinciosului
 
 1. Auzi corul îngeresc,

@@ -1,5 +1,7 @@
 @Title Cât de fericit, o, cât de fericit
 @Number 567
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Cât de fericit, o, cât de fericit
 Tu mă faci Isus, prin harul Tău ce mi-ai adus.

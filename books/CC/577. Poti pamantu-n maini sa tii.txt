@@ -1,5 +1,7 @@
 @Title Poți pământu-n mâini să ții
 @Number 577
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Poţi pământu-n mâini să ţii,
 Poţi să mori şi poţi să-nvii,

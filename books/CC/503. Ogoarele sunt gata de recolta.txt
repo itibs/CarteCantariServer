@@ -1,5 +1,8 @@
 @Title Ogoarele sunt gata de recoltă
 @Number 503
+@Author Chris Bowater
+@Composer Chris Bowater
+@Original_Title Here I am
 
 1. Ogoarele sunt gata de recoltă,
 Dar lucrătorii sunt aşa puţini.

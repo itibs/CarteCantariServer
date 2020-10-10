@@ -1,5 +1,8 @@
 @Title Rai luminos, cereasca mea țară
 @Number 262
+@Author Thomas Haweis / adapt. E. Constantinescu
+@Composer Dmitri S. Bortniansky, 1825
+@Original_Title From the Cross
 @Tag Nădejdea credinciosului
 
 1. Rai luminos, cereasca mea ţară,

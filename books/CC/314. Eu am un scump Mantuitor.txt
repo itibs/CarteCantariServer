@@ -1,5 +1,8 @@
 @Title Eu am un scump Mântuitor
 @Number 314
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 4, cant. 396
 @Tag Domnul Isus și jertfa Lui
 
 1. Eu am un scump Mantuitor

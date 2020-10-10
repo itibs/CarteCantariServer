@@ -1,5 +1,7 @@
 @Title Te așteptăm să vii din cer, Isuse
 @Number 255
+@Author Henry A. Cesar Malan
+@Composer Henry A. Cesar Malan
 @Tag Nădejdea credinciosului
 
 1. Te aşteptăm să vii din cer, Isuse!

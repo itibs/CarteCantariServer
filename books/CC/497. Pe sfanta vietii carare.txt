@@ -1,5 +1,7 @@
 @Title Pe sfânta vieții cărare
 @Number 497
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Pe sfânta vieţii cărare, 
 Isuse, prin har alergăm;

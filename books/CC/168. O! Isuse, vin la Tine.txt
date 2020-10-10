@@ -1,5 +1,7 @@
 @Title O! Isuse, vin la Tine
 @Number 168
+@Author Ruben Saillens
+@Composer George C. Stebbins
 @Tag Predarea
 
 1. O! Isuse, vin la Tine

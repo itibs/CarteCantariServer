@@ -1,5 +1,7 @@
 @Title Pe harfa inimii, un singur Nume
 @Number 551
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Pe harfa inimii un singur Nume
 Doresc să-nalţ în cântec maiestos,

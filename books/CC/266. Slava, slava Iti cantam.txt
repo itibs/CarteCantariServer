@@ -1,5 +1,8 @@
 @Title Slavă, slavă Îți cântăm
 @Number 266
+@Author Christian F. Gellert
+@Composer Johann Cruger
+@Original_Title Jesus Lives, and So Shall I
 @Tag Adorare - Laudă
 
 1. „Slavă! Slavă!" Îţi cântăm

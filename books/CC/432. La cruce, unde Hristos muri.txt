@@ -1,5 +1,8 @@
 @Title La cruce, unde Hristos muri
 @Number 432
+@Author Elisha A. Hoffman
+@Composer John H. Stockton
+@Original_Title Down at the Cross
 @Tag Adorare - Laudă
 
 1. La cruce, unde Hristos muri,

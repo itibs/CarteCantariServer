@@ -1,5 +1,7 @@
 @Title Al Tău, Doamne Isuse, sunt
 @Number 165
+@Author adapt. D. Cornilescu
+@Composer Johann M. Haydn
 @Tag Poziția credinciosului
 
 1. Al Tău, Doamne Isuse, sunt,

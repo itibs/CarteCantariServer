@@ -1,5 +1,7 @@
 @Title A trăi după credință
 @Number 573
+@Author Costache Ioanid
+@Composer Nicolae Moldoveanu
 
 1. A trăi după credinţă
 Nu-i uşor dar nici nu-i greu.

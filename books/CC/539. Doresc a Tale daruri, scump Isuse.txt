@@ -1,5 +1,7 @@
 @Title Doresc a Tale daruri, scump Isuse
 @Number 539
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Doresc a Tale daruri scump Isuse, 
 Doresc a harului Tău bucurii.

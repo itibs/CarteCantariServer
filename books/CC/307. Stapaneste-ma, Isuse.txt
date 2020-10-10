@@ -1,5 +1,7 @@
 @Title Stăpânește-mă, Isuse
 @Number 307
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 @Tag Predarea
 
 1. Stapaneste-ma, Isuse,

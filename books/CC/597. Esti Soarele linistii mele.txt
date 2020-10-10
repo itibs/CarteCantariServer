@@ -1,5 +1,7 @@
 @Title Ești Soarele liniștii mele
 @Number 597
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Eşti soarele liniştii mele, Isuse, Isuse!
 Eşti pavăză-n luptele grele,

@@ -1,5 +1,8 @@
 @Title Stelele-au răsărit
 @Number 274
+@Author Frances R. Havergal
+@Composer Ira D. Sankey
+@Original_Title Light After Darkness
 @Tag Rugăciune
 
 1. Stelele-au au răsărit pe-albastrul cer;

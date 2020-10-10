@@ -1,5 +1,7 @@
 @Title O, Adevărule frumos
 @Number 372
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 @Tag Dumnezeu
 
 1. O, Adevarule frumos,

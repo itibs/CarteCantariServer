@@ -1,5 +1,6 @@
 @Title Ce spune oare vântul călătorul?
 @Number 629
+@Author Costache Ioanid
 
 1. Ce spune oare vântul, călătorul,
 Când se sfâșie printre crengi trudit? 

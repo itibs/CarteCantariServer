@@ -1,5 +1,8 @@
 @Title Pe un deal depărtat
 @Number 515
+@Author George Bennard 1913
+@Composer George Bennard 1913
+@Original_Title The old rugged cross
 
 1. Pe un deal depărtat
 Un Crin alb sângerat

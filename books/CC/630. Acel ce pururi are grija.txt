@@ -1,5 +1,7 @@
 @Title Acel ce pururi are grijă
 @Number 630
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Acel ce pururi are grijă 
 De orişicine-i în necaz,

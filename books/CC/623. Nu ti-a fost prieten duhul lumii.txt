@@ -1,5 +1,7 @@
 @Title Nu ți-a fost prieten duhul lumii
 @Number 623
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 
 1. Nu ți-a fost prieten duhul lumii?
 Te-a amăgit de azi pe mâine

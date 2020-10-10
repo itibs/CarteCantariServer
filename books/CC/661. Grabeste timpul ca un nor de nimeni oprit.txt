@@ -1,5 +1,6 @@
 @Title Grăbește timpul ca un nor de nimeni oprit
 @Number 661
+@Composer E. Decker
 
 1. Grăbeşte timpul ca un nor, de nimeni nu-i oprit,
 Şi anii tăi se duc în zbor, se duc în infinit.

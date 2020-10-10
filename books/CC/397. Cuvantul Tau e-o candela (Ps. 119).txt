@@ -1,5 +1,7 @@
 @Title Cuvântul Tău e-o candelă (Ps. 119)
 @Number 397
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 @Tag Cuvântul lui Dumnezeu
 
 1. Cuvantul Tau e-o candela aprinsa

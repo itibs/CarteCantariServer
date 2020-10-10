@@ -1,5 +1,6 @@
 @Title Toți azi veniți la Isus
 @Number 59
+@Author D. Cornilescu
 @Tag Chemare la Domnul Isus
 
 1. Toţi azi veniţi la Isus, căci vă cheamă,

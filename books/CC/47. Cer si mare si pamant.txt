@@ -1,5 +1,7 @@
 @Title Cer și mare și pământ
 @Number 47
+@Author J. Neander, adapt. I. Negruzzi
+@Composer G. C. Strattner / K. W. Tucker
 @Tag Natura
 
 1. Cer şi mare şi pământ

@@ -1,5 +1,8 @@
 @Title Laudă să izvorască
 @Number 323
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 6, cant. 299
 @Tag Adorare - Laudă
 
 1. Lauda sa izvorasca

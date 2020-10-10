@@ -1,5 +1,7 @@
 @Title Cine-ar putea să-ți dea iertare
 @Number 389
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 @Tag Chemare la Domnul Isus
 
 1. Cine-ar putea sa-ti dea iertare

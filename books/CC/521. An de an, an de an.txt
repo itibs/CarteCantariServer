@@ -1,5 +1,7 @@
 @Title An de an, an de an
 @Number 521
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. An de an, an de an, bate vântu-n grâu pe lan.
 Spic pe spic se ţine-n vânt; cine-i singur, cade frânt,

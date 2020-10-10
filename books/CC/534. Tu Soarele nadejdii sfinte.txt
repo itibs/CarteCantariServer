@@ -1,5 +1,7 @@
 @Title Tu Soarele nădejdii sfinte
 @Number 534
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Tu, Soarele nădejdii sfinte, 
 Tu sfânt alin în suferinţi.

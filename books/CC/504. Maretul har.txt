@@ -1,5 +1,8 @@
 @Title Mărețul har
 @Number 504
+@Author John Newton
+@Composer William Walker
+@Original_Title Amazing grace
 
 1. Măreţul har m-a mântuit
 Pe mine din păcat.

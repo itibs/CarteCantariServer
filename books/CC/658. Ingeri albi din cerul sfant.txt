@@ -1,5 +1,7 @@
 @Title Îngeri albi din cerul sfânt
 @Number 658
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Îngeri albi din cerul sfânt
 Se coboară pe pământ

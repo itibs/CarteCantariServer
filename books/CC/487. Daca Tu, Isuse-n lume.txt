@@ -1,5 +1,7 @@
 @Title Dacă Tu, Isuse-n lume
 @Number 487
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
  
 1. Dacă Tu, Isuse,-n lume

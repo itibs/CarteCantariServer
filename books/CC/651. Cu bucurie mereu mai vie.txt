@@ -1,5 +1,7 @@
 @Title Cu bucurie mereu mai vie
 @Number 651
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Cu bucurie mereu mai vie, 
 Ţi-aducem Ţie, Isus iubit,

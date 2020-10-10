@@ -1,5 +1,6 @@
 @Title Dacă nu aș fi decât țărână
 @Number 653
+@Author Costache Ioanid
 
 1. Dacă nu aș fi decât țărână 
 Decât bulgar răscolit de vânt,

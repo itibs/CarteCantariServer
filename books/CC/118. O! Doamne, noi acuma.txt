@@ -1,5 +1,8 @@
 @Title O! Doamne, noi acuma
 @Number 118
+@Author George Duffield Jr.
+@Composer George J. Webb
+@Original_Title Stand Up, Stand Up for Jesus
 @Tag Mântuirea - roadele ei
 
 1. O! Doamne, noi acuma,

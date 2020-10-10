@@ -1,5 +1,7 @@
 @Title Al meu suflet Te dorește
 @Number 145
+@Author adaptare D. Cornilescu
+@Composer Psalmii Reformati (Calvin) nr. 42
 @Tag Nădejdea credinciosului
 
 1. Al meu suflet Te doreşte

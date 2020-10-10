@@ -1,5 +1,7 @@
 @Title Bunătatea lui Isus
 @Number 174
+@Author adapt. D. Cornilescu
+@Composer Melodie germana
 @Tag Domnul Isus și jertfa Lui
 
 1. Bunătatea lui Isus

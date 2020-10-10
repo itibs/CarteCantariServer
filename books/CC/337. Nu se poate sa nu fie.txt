@@ -1,5 +1,8 @@
 @Title Nu se poate să nu fie
 @Number 337
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 4, cant. 389
 @Tag Nădejdea credinciosului
 
 1. Nu se poate sa nu fie

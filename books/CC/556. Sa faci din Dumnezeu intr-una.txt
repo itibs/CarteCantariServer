@@ -1,5 +1,7 @@
 @Title Să faci din Dumnezeu într-una
 @Number 556
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Să faci din Dumnezeu întruna
 La toate lucrurile tale

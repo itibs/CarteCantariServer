@@ -1,5 +1,8 @@
 @Title O, Doamne mare
 @Number 426
+@Author Stuart K. Hine
+@Composer Stuart K. Hine
+@Original_Title How Great Thou Art
 @Tag Adorare - Laudă
 
 1. O, Doamne Mare, când privesc eu lumea,

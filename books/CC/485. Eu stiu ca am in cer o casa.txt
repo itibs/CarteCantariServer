@@ -1,5 +1,7 @@
 @Title Eu știu că am în cer o casă
 @Number 485
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 
 1. Eu ştiu că am în cer o casă
 Pe care nimeni nu mi-o ia

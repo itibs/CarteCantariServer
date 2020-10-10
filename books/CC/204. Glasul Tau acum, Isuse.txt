@@ -1,5 +1,7 @@
 @Title Glasul Tău acum, Isuse
 @Number 204
+@Author Edmond Louis Budry, adapt. Emil Constantinescu
+@Composer Silas Jones Vail
 @Tag Cuvântul lui Dumnezeu
 
 1. Glasul Tău acum, Isuse,

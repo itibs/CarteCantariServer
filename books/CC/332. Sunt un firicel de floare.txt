@@ -1,5 +1,7 @@
 @Title Sunt un firicel de floare
 @Number 332
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 2, cant. 351
 @Tag Poziția credinciosului
 
 1. Sunt un firicel de floare (bis)

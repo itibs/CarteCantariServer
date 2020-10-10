@@ -1,5 +1,8 @@
 @Title Doi sau trei
 @Number 2
+@Author Fanny J. Crosby; adapt. D. Cornilescu
+@Composer William H. Doane
+@Original_Title Pass Me Not
 @Tag Adunarea (Biserica) - Legătura frățească
 
 1. Doi sau trei în scumpu-Ţi Nume

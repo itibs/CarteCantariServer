@@ -1,5 +1,7 @@
 @Title Nu te teme, nu vei fi de-ocară
 @Number 322
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 @Tag Îmbărbătare - mângâiere
 
 1. “Nu te teme, nu vei fi de-ocara,

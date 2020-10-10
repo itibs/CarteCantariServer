@@ -1,5 +1,8 @@
 @Title În Isus Mântuitorul
 @Number 12
+@Author Fanny Crosby
+@Composer R. Lowry
+@Original_Title At the Cross There's Room
 @Tag Chemare la Domnul Isus
 
 1. În Isus Mântuitorul,

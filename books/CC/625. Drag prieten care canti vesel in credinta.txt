@@ -1,5 +1,7 @@
 @Title Drag prieten care cânți vesel în credință
 @Number 625
+@Author Costache Ioanid
+@Composer Nicolae Moldoveanu
 
 1. Drag prieten care cânți vesel în credință,
 Fii prieten cu Isus și la suferință!

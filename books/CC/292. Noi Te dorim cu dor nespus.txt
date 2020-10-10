@@ -1,5 +1,7 @@
 @Title Noi Te dorim cu dor nespus
 @Number 292
+@Author Traian Dorz
+@Composer Emil Constantinescu
 @Tag Nădejdea credinciosului
 
 1. Noi Te dorim cu dor nespus;

@@ -1,5 +1,8 @@
 @Title În lumea aceasta toate-s trecătoare
 @Number 496
+@Author Stuart Hamblen
+@Composer Stuart Hamblen
+@Original_Title Until Then
 
 1. În lumea aceasta toate-s trecătoare:
 Se duc într-una toate vor pieri.

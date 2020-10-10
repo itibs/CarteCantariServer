@@ -1,5 +1,7 @@
 @Title Vorbește Doamne, căci sunt rob
 @Number 535
+@Author Costache Ioanid
+@Composer Nicolae Moldoveanu
 
 1. Vorbeşte, Doamne, căci sunt rob
 Şi robul Tău ascultă.

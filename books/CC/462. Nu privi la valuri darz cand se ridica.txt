@@ -1,5 +1,7 @@
 @Title Nu privi la valuri dârz când se ridică
 @Number 462
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Nu priviţi la valuri dârz când se ridică,
 Nu priviţi pământul larg când se despică,

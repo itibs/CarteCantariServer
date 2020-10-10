@@ -1,5 +1,8 @@
 @Title Eu știu un loc de pace plin
 @Number 289
+@Author Edgar P. Stites
+@Composer John R. Sweney
+@Original_Title Beulah Land
 @Tag Nădejdea credinciosului
 
 1. Eu ştiu un loc de pace plin,

@@ -1,5 +1,8 @@
 @Title O! Ce zi strălucită-i aceea
 @Number 149
+@Author Francis A. Blackmer
+@Composer Francis A. Blackmer
+@Original_Title Numberless as the Sands
 @Tag Nădejdea credinciosului
 
 1. O! ce zi strălucită-i aceea

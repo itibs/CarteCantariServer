@@ -1,5 +1,7 @@
 @Title Mi-ai fost cu prisosință
 @Number 224
+@Author Jane F. Crewdson, 1864
+@Composer Ira D. Sankey
 @Tag Mântuirea - roadele ei
 
 1. Mi-ai fost, cu prisosinţă,

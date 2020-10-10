@@ -1,5 +1,7 @@
 @Title Mai avem puțin de mers
 @Number 655
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Mai avem puţin de mers 
 Pân' la ţinta mult dorită.

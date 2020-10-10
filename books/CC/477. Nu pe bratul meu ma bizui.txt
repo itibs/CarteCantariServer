@@ -1,5 +1,7 @@
 @Title Nu pe brațul meu mă bizui
 @Number 477
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 
 1. Nu pe braţul meu mă bizui: 
 Braţul meu e-aşa de slab,

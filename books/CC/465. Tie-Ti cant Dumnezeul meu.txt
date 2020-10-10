@@ -1,5 +1,7 @@
 @Title Ție-Ți cânt Dumnezeul meu
 @Number 465
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Ţie-Ţi cânt Dumnezeul meu! (bis)
 Pentru bunătatea Ta, pentru harul Tău cel mare!

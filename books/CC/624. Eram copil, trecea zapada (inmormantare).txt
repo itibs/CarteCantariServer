@@ -1,5 +1,7 @@
 @Title Eram copil, trecea zăpada (înmormântare)
 @Number 624
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 
 1. Eram copil, trecea zăpada,
 Eu cu tristețe-o petreceam.

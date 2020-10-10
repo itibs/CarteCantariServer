@@ -1,5 +1,8 @@
 @Title Pe piatra aspră-a vieții
 @Number 311
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 3, cant. 304
 @Tag Umblarea (purtarea) credinciosului
 
 1. Pe piatra aspra-a vietii

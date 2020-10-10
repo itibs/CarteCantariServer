@@ -1,5 +1,8 @@
 @Title Aud glasul Tău
 @Number 169
+@Author L. Hartsough
+@Composer L. Hartsough
+@Original_Title I Hear Thy Welcome Voice
 @Tag Primirea Domnului Isus - Întoarcerea la Dumnezeu
 
 1. Aud glasul Tău,

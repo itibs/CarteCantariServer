@@ -1,5 +1,7 @@
 @Title Apără, iubit Isus
 @Number 449
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 @Tag Pentru copii și tineret
 
 1. Apără, iubit Isus,

@@ -1,5 +1,7 @@
 @Title Mi se bucură inima-n Domnul
 @Number 384
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 @Tag Mântuirea - roadele ei
 
 1. Mi se bucura inima-n Domnul,

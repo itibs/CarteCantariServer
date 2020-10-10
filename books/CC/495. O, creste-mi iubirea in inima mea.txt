@@ -1,5 +1,7 @@
 @Title O, crește-mi iubirea în inima mea
 @Number 495
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 
 1. O! Creşte-mi iubirea în inima mea, 
 Isuse, Isuse mereu Te-oi ruga. 

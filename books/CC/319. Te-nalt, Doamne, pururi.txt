@@ -1,5 +1,7 @@
 @Title Te-nalț, Doamne, pururi
 @Number 319
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 @Tag Adorare - Laudă
 
 1. Te-nalt, Doamne, pururi, caci m-ai ridicat,

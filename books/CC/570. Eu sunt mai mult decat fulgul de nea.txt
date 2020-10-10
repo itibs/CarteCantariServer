@@ -1,5 +1,7 @@
 @Title Eu sunt mai mult decât fulgul de nea
 @Number 570
+@Author Costache Ioanid
+@Composer Nicolae Moldoveanu
 
 1. Eu nu sunt mai mult decât fulgul de nea,
 Un joc de cristale e trecerea mea.

@@ -1,5 +1,7 @@
 @Title Stânca vieții e salvarea
 @Number 359
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 @Tag Chemare la Domnul Isus
 
 1. Stanca Vietii e salvarea

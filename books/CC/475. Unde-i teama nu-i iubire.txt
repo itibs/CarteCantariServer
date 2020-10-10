@@ -1,5 +1,7 @@
 @Title Unde-i teamă nu-i iubire
 @Number 475
+@Author Costache Ioanid
+@Composer Nicolae Moldoveanu
 
 1. Unde-i teamă, nu-i iubire,
 Unde-i lege, nu-i sfinţire.

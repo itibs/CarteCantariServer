@@ -1,5 +1,7 @@
 @Title Cuvinte de miresme pline
 @Number 354
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 @Tag Adorare - Laudă
 
 1. Cuvinte de miresme pline

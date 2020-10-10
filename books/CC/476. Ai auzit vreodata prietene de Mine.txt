@@ -1,5 +1,7 @@
 @Title Ai auzit vreodată prietene de Mine?
 @Number 476
+@Author Costache Ioanid
+@Composer Nicolae Moldoveanu
 
 1. Ai auzit vreodată prietene, de Mine
 Pe când în largul lumii cutreierai semeţ,

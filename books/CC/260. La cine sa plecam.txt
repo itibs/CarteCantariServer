@@ -1,5 +1,7 @@
 @Title La cine să plecăm?
 @Number 260
+@Author Adrien Ladrierre
+@Composer Recital de Francfort, 1817
 @Tag Îmbărbătare - mângâiere
 
 1. La cine să plecăm?

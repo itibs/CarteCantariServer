@@ -1,5 +1,8 @@
 @Title Cine sunt oamenii aceia
 @Number 151
+@Author Tullius C. O'Kane
+@Composer Tullius C. O'Kane
+@Original_Title Tune: [Who, who are these beside the chilly wave]
 @Tag Adunarea (Biserica) - Legătura frățească
 
 1. Cine sunt oare oamenii aceia

@@ -1,5 +1,8 @@
 @Title Tu ne-ai izbăvit, o, Doamne
 @Number 80
+@Author Philip P. Bliss, 1870
+@Composer Philip P. Bliss
+@Original_Title Hold the Fort
 @Tag Mântuirea - roadele ei
 
 1. Tu ne-ai izbăvit, o! Doamne,

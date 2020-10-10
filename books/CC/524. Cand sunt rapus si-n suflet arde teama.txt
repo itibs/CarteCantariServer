@@ -1,5 +1,8 @@
 @Title Când sunt răpus și-n suflet arde teama
 @Number 524
+@Author Brendan Graham & Rolf Lovland
+@Composer Brendan Graham & Rolf Lovland
+@Original_Title You raise me up
 
 1. Când sunt răpus şi-n suflet arde teama,
 Când în probleme sufletul mi-e greu

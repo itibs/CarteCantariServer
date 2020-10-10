@@ -1,5 +1,7 @@
 @Title În afară de Isus
 @Number 18
+@Author Ch. Rochedieu, adapt. D. Cornilescu
+@Composer R. Harkness
 @Tag Chemare la Domnul Isus
 
 1. În afară de Isus,

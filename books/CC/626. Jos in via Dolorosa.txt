@@ -1,5 +1,8 @@
 @Title Jos în via Dolorosa
 @Number 626
+@Author Billy Sprague, Niles Borop
+@Composer Billy Sprague, Niles Borop
+@Original_Title Via Dolorosa
 
 1. Jos pe via Dolorosa, în Ierusalim odat',
 Soldați pe străduțe-nguste Îl păzeau, 

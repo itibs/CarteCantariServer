@@ -1,5 +1,7 @@
 @Title Golgota, Golgota
 @Number 435
+@Author Nicolae Moldoveau
+@Composer Nicolae Moldoveanu
 @Tag Chemare la Domnul Isus
 
 1. Golgota, Golgota, o, loc minunat,

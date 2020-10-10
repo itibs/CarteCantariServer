@@ -1,5 +1,7 @@
 @Title Când vrei să vii
 @Number 392
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 @Tag Chemare la Domnul Isus
 
 1. Cand vrei sa vii, cand vrei sa-ntorci?

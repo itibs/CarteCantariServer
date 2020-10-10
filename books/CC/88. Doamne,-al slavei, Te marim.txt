@@ -1,5 +1,8 @@
 @Title Doamne,-al slavei, Te mărim
 @Number 88
+@Author John Keble
+@Composer Katholisches Gesangbuch, Vienna, 1774
+@Original_Title Sun of My Soul
 @Tag Adorare - Laudă
 
 1. Doamne-al slavei, Te mărim,

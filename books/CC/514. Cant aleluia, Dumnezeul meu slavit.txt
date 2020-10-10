@@ -1,5 +1,7 @@
 @Title Cânt aleluia, Dumnezeul meu slăvit
 @Number 514
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Cânt Aleluia (bis)
 Ţie, Dumnezeul meu slăvit!

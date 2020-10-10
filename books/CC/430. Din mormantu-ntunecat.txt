@@ -1,5 +1,7 @@
 @Title Din mormântu-ntunecat
 @Number 430
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 @Tag Împrejurări din viața credinciosului
 
 1. Din mormântu-ntunecat,

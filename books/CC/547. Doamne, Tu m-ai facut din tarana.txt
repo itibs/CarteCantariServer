@@ -1,5 +1,7 @@
 @Title Doamne, Tu m-ai făcut din țărână
 @Number 547
+@Author Ionel Pleșa
+@Composer Ionel Pleșa
 
 1. Doamne, Tu m-ai făcut din ţărână 
 Și-n adânc mi-ai turnat veşnicia,

@@ -1,5 +1,8 @@
 @Title Noi Te slăvim acuma
 @Number 102
+@Author Samuel J. Stone
+@Composer Samuel S. Wesley
+@Original_Title The Church's One Foundation
 @Tag Frângerea pâinii
 
 1. Noi Te slăvim acuma

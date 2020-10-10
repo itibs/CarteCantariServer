@@ -1,5 +1,8 @@
 @Title Temelia vieții mele
 @Number 395
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 4, cant. 336
 @Tag Mântuirea - roadele ei
 
 1. Temelia vietii mele

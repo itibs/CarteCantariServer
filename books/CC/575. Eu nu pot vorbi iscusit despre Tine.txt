@@ -1,5 +1,7 @@
 @Title Eu nu pot vorbi iscusit despre Tine
 @Number 575
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Eu nu pot vorbi iscusit despre Tine
 Căci limba-i prea slabă să pot să vorbesc,

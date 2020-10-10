@@ -1,5 +1,8 @@
 @Title Cântați, cântați, cu toți cântați
 @Number 94
+@Author Lydia O. Baxter, adapt. D. Cornilescu
+@Composer Silas J. Vail
+@Original_Title The Gate Ajar for Me
 @Tag Adorare - Laudă
 
 1. Cântaţi, cântaţi, cu toţi cântaţi

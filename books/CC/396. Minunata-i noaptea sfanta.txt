@@ -1,5 +1,7 @@
 @Title Minunată-i noaptea sfântă
 @Number 396
+@Author Traian Dorz
+@Composer Nicolae Moldoveanu
 @Tag Mântuirea - roadele ei
 
 1. Minunata-i noaptea sfanta,

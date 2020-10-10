@@ -1,5 +1,7 @@
 @Title La masa iubirii credința ne-a strâns
 @Number 530
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. La masa iubirii credinţa ne-a strâns
 Iar pâinea şi vinul pe Tine Te-arată!

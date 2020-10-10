@@ -1,5 +1,7 @@
 @Title De a cerului mânie
 @Number 198
+@Author Johann Meyer
+@Composer Ernst Gebhardt
 @Tag Mântuirea - roadele ei
 
 1. De a cerului mânie eu am scăpat,

@@ -1,5 +1,8 @@
 @Title Vino și ascultă
 @Number 410
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
+@Original_Title vol. 4, cant. 358
 @Tag Natura
 
 1. Vino şi-ascultă,

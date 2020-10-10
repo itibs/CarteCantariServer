@@ -1,5 +1,7 @@
 @Title Doamne Isuse, ne ascultă ruga
 @Number 254
+@Author De Correvon
+@Composer Henry A. Cesar Malan
 @Tag Rugăciune
 
 1. Doamne Isuse, ne ascultă ruga,

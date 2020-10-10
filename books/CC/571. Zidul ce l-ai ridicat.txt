@@ -1,5 +1,7 @@
 @Title Zidul ce l-ai ridicat
 @Number 571
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Zidul ce l-ai ridicat 
 Strâmb din temelie,

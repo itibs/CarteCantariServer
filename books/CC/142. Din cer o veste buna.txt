@@ -1,5 +1,8 @@
 @Title Din cer o veste bună
 @Number 142
+@Author Andrew Young
+@Composer Melodie traditionala indiana
+@Original_Title There Is a Happy Land
 @Tag Chemare la Domnul Isus
 
 1. Din cer o veste bună se-aude acum:

@@ -1,5 +1,8 @@
 @Title Cetate tare-I Dumnezeu (Ps. 46)
 @Number 424
+@Author Martin Luther
+@Composer Martin Luther
+@Original_Title A Mighty Fortress Is Our God
 @Tag Îmbărbătare - mângâiere
 
 1. Cetate tare-i Dumnezeu;
