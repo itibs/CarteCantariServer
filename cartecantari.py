@@ -6,7 +6,12 @@ from os.path import isfile, join
 import io
 import pdb
 
-BOOKS = ['CC', 'J', 'CT', 'Cor']
+BOOKS = {
+    'CC': 'Cartea de Cantari',
+    'J': 'Jubilate',
+    'Cor': 'Cantari Cor',
+    'CT': 'Cartea de tineret'
+}
 
 app = Flask(__name__, static_url_path='/static')
 
@@ -28,6 +33,13 @@ def get_books():
             {'id': 'Cor', 'name': 'Cantari Cor'},
             {'id': 'CT', 'name': 'Cartea de tineret'}])
 
+@app.route('/CarteCantari/books/v2', methods=['GET'])
+def get_books_with_song_summaries():
+    books = [get_book_json(book_id, get_fname=False, get_summary=True) for book_id in BOOKS]
+    for book in books:
+        book['title'] = BOOKS[book['id']]
+    return jsonify(books)
+
 @app.route('/CarteCantari/books/<string:book_id>', methods=['GET'])
 def get_task(book_id):
     if book_id in BOOKS:
@@ -45,7 +57,7 @@ def strip_lines(lines):
         return lines[i:]
     return []
 
-def get_song_json(song_filename, get_fname=False):
+def get_song_json(song_filename, get_fname=False, get_summary=False):
     with open(song_filename, 'rw') as f:
         lines = f.readlines()
         metalines = [l for l in lines if len(l) > 0 and l[0] == '@']
@@ -68,8 +80,10 @@ def get_song_json(song_filename, get_fname=False):
                 # print 'Unknown metadata song field: ' + key + str((song_filename, val))
                 pass
 
-        text = ''.join(lines)
-        song_json['text'] = text
+        if get_summary == False:
+            text = ''.join(lines)
+            song_json['text'] = text
+
         if get_fname:
             if '/' in song_filename:
                 idx = song_filename.rfind('/')
@@ -77,7 +91,7 @@ def get_song_json(song_filename, get_fname=False):
             song_json['fname'] = song_filename
         return song_json
 
-def get_book_json(book_id, get_fname=False):
+def get_book_json(book_id, get_fname=False, get_summary=False):
     book_path = 'books/' + book_id
     files = [f for f in listdir(book_path) if isfile(join(book_path, f))]
     book_json = {}
@@ -85,7 +99,7 @@ def get_book_json(book_id, get_fname=False):
     book_json['songs'] = []
 
     for fname in files:
-        song_json = get_song_json(join(book_path, fname), get_fname)
+        song_json = get_song_json(join(book_path, fname), get_fname, get_summary)
         book_json['songs'].append(song_json)
 
     return book_json
