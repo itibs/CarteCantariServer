@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #!flask/bin/python
 from flask import Flask, jsonify, abort, make_response
 import json
@@ -7,10 +8,10 @@ import io
 import pdb
 
 BOOKS = {
-    'CC': 'Cartea de Cantari',
+    'CC': 'Cartea de Cântari',
     'J': 'Jubilate',
-    'Cor': 'Cantari Cor',
-    'CT': 'Cartea de tineret'
+    'Cor': 'Cântari Cor',
+    'CT': 'Cartea de Tineret'
 }
 
 app = Flask(__name__, static_url_path='/static')
