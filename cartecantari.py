@@ -39,6 +39,8 @@ def get_books_with_song_summaries():
     books = [get_book_json(book_id, get_fname=False, get_summary=True) for book_id in BOOKS]
     for book in books:
         book['title'] = BOOKS[book['id']]
+        book['song_summaries'] = book['songs']
+        del book['songs']
     return jsonify(books)
 
 @app.route('/CarteCantari/books/<string:book_id>', methods=['GET'])
