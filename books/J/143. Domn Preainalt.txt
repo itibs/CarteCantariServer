@@ -2,6 +2,7 @@
 @Number 143
 @Author Cristian Moșuți, Maria Moșuți
 @Composer Cristian Moșuți, Maria Moșuți
+@Pitch D
 
 1. Tată din cer, Domn Preaînalt,
 Doamne, Te rugăm revarsă

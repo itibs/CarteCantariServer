@@ -2,6 +2,7 @@
 @Number 47
 @Author J. Neander, adapt. I. Negruzzi
 @Composer G. C. Strattner / K. W. Tucker
+@Pitch Bb
 @Tag Natura
 
 1. Cer şi mare şi pământ

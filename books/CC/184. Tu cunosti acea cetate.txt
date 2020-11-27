@@ -1,6 +1,7 @@
 @Title Tu cunoști acea cetate
 @Number 184
 @Composer H P Danks
+@Pitch Eb
 @Tag Nădejdea credinciosului
 
 1. Tu cunoşti acea cetate

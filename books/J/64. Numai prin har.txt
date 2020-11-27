@@ -3,6 +3,7 @@
 @Author Gerrit Gustafson
 @Composer Gerrit Gustafson
 @Original_Title Only by grace
+@Pitch C
 
 1. Numai prin har e intrare,
 Numai prin har ne-nchinăm.

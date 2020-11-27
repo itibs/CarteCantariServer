@@ -2,6 +2,7 @@
 @Number 117
 @Author adapt. D. Cornilescu
 @Composer Volgtlander
+@Pitch C
 @Tag Nădejdea credinciosului
 
 1. O, ce zi! O, ce zi

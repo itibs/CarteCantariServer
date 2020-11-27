@@ -2,6 +2,7 @@
 @Number 114
 @Author Iulian Teodorescu
 @Composer Kenneth Tucker
+@Pitch C
 
 1. Învață-mă mereu, păstrează-mă curat,
 Să merg pe drumul Tău slăvit și-nsângerat.

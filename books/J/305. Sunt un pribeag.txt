@@ -3,6 +3,7 @@
 @Author Anonim
 @Composer Melodie tradițională americană
 @Original_Title Wayfaring Stranger
+@Pitch Cm
 
 1. Sunt un pribeag fără de țară,
 rătăcitor prin lung pustiu,

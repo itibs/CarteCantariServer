@@ -3,6 +3,7 @@
 @Author Traian Dorz
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 5, cant. 43
+@Pitch F
 @Tag Împrejurări din viața credinciosului
 
 1. E ziua bucuriei! (bis)

@@ -2,6 +2,7 @@
 @Number 330
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch F
 @Tag Poziția credinciosului
 
 1. Purtam in suflet dor de vesnicii

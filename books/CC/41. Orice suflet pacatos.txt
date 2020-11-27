@@ -3,6 +3,7 @@
 @Author Ch. Wesley
 @Composer Joseph Parry
 @Original_Title Jesus, Lover of My Soul
+@Pitch C
 @Tag Mântuirea - roadele ei
 
 1. Orice suflet păcătos,

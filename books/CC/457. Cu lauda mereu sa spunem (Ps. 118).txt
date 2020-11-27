@@ -1,5 +1,6 @@
 @Title Cu laudă mereu să spunem (Ps. 118)
 @Number 457
+@Pitch G
 @Tag Frângerea pâinii
 
 1. Cu laude mereu să spunem:

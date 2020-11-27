@@ -3,6 +3,7 @@
 @Author Lynn DeShazo, Gary Sadler, adapt. Daniel Suciu, Echipa Jubilate
 @Composer Lynn DeShazo, Gary Sadler
 @Original_Title Be Unto Your Name
+@Pitch C
 
 1. Noi suntem clipa, Tu ești Eternul, 
 Domn peste veacuri din veșnicii, 

@@ -2,6 +2,7 @@
 @Number 397
 @Author Traian Dorz
 @Composer Nicolae Moldoveanu
+@Pitch D
 @Tag Cuvântul lui Dumnezeu
 
 1. Cuvantul Tau e-o candela aprinsa

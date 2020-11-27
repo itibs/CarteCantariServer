@@ -2,6 +2,7 @@
 @Number 446
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch Dm
 @Tag Adorare - Laudă
 
 1. Slavă, slavă, slavă, slavă Ţie,

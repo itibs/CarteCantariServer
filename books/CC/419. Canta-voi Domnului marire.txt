@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 4, cant. 11
+@Pitch G
 @Tag Adorare - Laudă
 
 1. Cânta-voi Domnului mărire,

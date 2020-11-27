@@ -15,6 +15,7 @@ from os import listdir
 from os.path import isfile, join
 
 MAX_NR_FIELDS = 6
+BOOKS = ['Cor', 'CC', 'J', 'CT']
 
 # If modifying these scopes, delete the file token.pickle.
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
@@ -46,11 +47,11 @@ def main():
     service = build('sheets', 'v4', credentials=creds)
     sheet = service.spreadsheets()
 
-    for book_id in ['Cor']:
+    for book_id in BOOKS:
         parse_book(sheet, book_id)
 
 def parse_book(sheet, book_id):
-    range_name = book_id + "!A2:G"
+    range_name = book_id + "!A2:H"
 
     result = sheet.values().get(spreadsheetId=SAMPLE_SPREADSHEET_ID,
                                 range=range_name).execute()
@@ -64,7 +65,7 @@ def parse_book(sheet, book_id):
         else:
             song_dict[int(song['number'])] = song
 
-    print ('\n'.join(sorted([x for x in song_dict])))
+    # print ('\n'.join(sorted([str(x) for x in song_dict])))
 
     if not values:
         print('No data found.')
@@ -86,6 +87,7 @@ def parse_song(book_id, row, song_dict):
     original_title = row[4]
     year = row[5]
     references = row[6]
+    pitch = row[7]
 
     if book_id == 'Cor' or song_nr in song_dict:
         song_json = song_dict[song_nr]
@@ -93,6 +95,7 @@ def parse_song(book_id, row, song_dict):
         song_json['composer'] = composer
         song_json['original_title'] = original_title
         song_json['references'] = references
+        song_json['pitch'] = pitch
 
         if book_id == 'Cor':
             song_fname = song_json['fname']
@@ -101,7 +104,7 @@ def parse_song(book_id, row, song_dict):
             song_fname = get_song_fname(book_id, song_nr)
         save_song_json('./temp/{}/{}'.format(book_id, song_fname), song_json)
     else:
-        print ('Song {} in {} not found\n', (song_nr, book_id))
+        print ('Song {} in {} not found\n'.format(song_nr, book_id))
 
 def get_song_fname(book_id, song_nr):
     book_path = 'books/' + book_id

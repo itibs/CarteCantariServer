@@ -1,6 +1,7 @@
 @Title Când ești în strâmtorare
 @Number 17
 @Author Dumitru Cornilescu
+@Pitch F
 @Tag Îmbărbătare - mângâiere
 
 1. Când eşti în strâmtorare,

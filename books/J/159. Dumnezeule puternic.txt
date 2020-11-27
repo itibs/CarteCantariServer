@@ -2,6 +2,7 @@
 @Number 159
 @Author Simion Cure
 @Composer Raul Apăscăriței
+@Pitch D
 
 1. Dumnezeule puternic, proslăvit cu osanale, Multe, mari și minunate-s toate lucrurile Tale!
 Despre slava Ta ne spune 

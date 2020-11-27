@@ -3,6 +3,7 @@
 @Author Mary D. James
 @Composer Phoebe P. Knapp
 @Original_Title Consecration
+@Pitch D
 @Tag Mântuirea - roadele ei
 
 1. Când ne gândim adesea

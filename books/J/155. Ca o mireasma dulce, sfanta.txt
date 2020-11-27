@@ -3,6 +3,7 @@
 @Author Linda Whitmer-Bell, adapt. Anca Ciora
 @Composer Linda Whitmer-Bell
 @Original_Title Let Our Voices Rise Like Incense
+@Pitch Dm
 
 Ca o miresmă dulce, sfântă, 
 voci curate să ‘nălțăm. 

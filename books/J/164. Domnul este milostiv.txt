@@ -2,6 +2,7 @@
 @Number 164
 @Composer Kenneth Tucker
 @References Psalmul 145
+@Pitch D
 
 R: Domnul este milostiv, 
 Plin de îndurare,

@@ -3,6 +3,7 @@
 @Author Anonim, adapt. Carmen Gavril, Iulian Teodorescu
 @Composer Melodie tradițională americană
 @Original_Title What Wondrous Love is This
+@Pitch Dm
 
 1. O, Doamne, cât de mult m-ai iubit,
 M-ai iubit!

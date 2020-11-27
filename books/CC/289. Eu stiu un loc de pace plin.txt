@@ -3,6 +3,7 @@
 @Author Edgar P. Stites
 @Composer John R. Sweney
 @Original_Title Beulah Land
+@Pitch F
 @Tag Nădejdea credinciosului
 
 1. Eu ştiu un loc de pace plin,

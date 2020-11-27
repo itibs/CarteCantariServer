@@ -2,6 +2,7 @@
 @Number 76
 @Author A. Rische, adapt. D. Cornilescu
 @Composer Melodie traditionala germana
+@Pitch E
 @Tag Mântuirea - roadele ei
 
 1. Domnul iubeşte pe orice suflet

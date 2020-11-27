@@ -1,5 +1,6 @@
 @Title Când privesc a Ta zidire
 @Number 265
+@Pitch Bb
 @Tag Natura
 
 1. Când privesc a Ta zidire,

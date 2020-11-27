@@ -3,6 +3,7 @@
 @Author Dale Garrat, adapt. Iulian Teodorescu
 @Composer Dale Garrat
 @Original_Title Hallelujah, our God reigns
+@Pitch F
 
 1. Aleluia! Domnul Dumnezeu împărăţeşte!
 Aleluia! Domnul Dumnezeu împărăţeşte!

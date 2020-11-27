@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 4, cant. 94
+@Pitch F
 @Tag Domnul Isus și jertfa Lui
 
 1. In nimeni nu e mantuire,

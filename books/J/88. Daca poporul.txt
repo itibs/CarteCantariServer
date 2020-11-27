@@ -3,6 +3,7 @@
 @Composer Jimmy Owens
 @Original_Title If My people will pray
 @References 2 Cronici 7:14
+@Pitch Bb
 
 1. Dacă poporul care-Mi poartă Numele
 Se va ruga, se va smeri mereu;

@@ -3,6 +3,7 @@
 @Author Edwin Hatch, adapt. Iulian Teodorescu
 @Composer Robert Jackson
 @Original_Title Breathe on me, breath of God
+@Pitch Eb
 
 
 1. Duh Sfânt, de viață plin, 

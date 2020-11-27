@@ -3,6 +3,7 @@
 @Author Bernadette Farrell, adapt. Iulian Teodorescu
 @Composer Bernadette Farrell
 @Original_Title Eastertide Gospel acclamation
+@Pitch F
 
 1. Aleluia, Aleluia, 
 Domnul slavei a-nviat.

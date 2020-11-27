@@ -2,6 +2,7 @@
 @Number 284
 @Author Auguste H. Francke
 @Composer Vulpius Melchior
+@Pitch G
 @Tag Predarea
 
 1. În faţa crucii-ngenuncheat,

@@ -4,6 +4,7 @@
 @Composer Philip Lawson Johnston
 @Original_Title May the Lord Answer You
 @References Psalmul 20
+@Pitch Dm
 
 1. Domnul să te-asculte-n ziua grea și-n necaz,
 Să te ocrotească Numele Lui,

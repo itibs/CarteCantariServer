@@ -3,6 +3,7 @@
 @Author Lydia O. Baxter, adapt. D. Cornilescu
 @Composer Silas J. Vail
 @Original_Title The Gate Ajar for Me
+@Pitch Bb
 @Tag Adorare - Laudă
 
 1. Cântaţi, cântaţi, cu toţi cântaţi

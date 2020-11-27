@@ -3,6 +3,7 @@
 @Author Costache Ioanid
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 6, cant. 238
+@Pitch d
 @Tag Chemare la Domnul Isus
 
 1. E plin de miraje pamantul,

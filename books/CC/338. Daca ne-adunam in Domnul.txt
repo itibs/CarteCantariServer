@@ -3,6 +3,7 @@
 @Author Traian Dorz
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 5, cant. 84
+@Pitch G
 @Tag Adunarea (Biserica) - Legătura frățească
 
 1. Daca ne-adunam in Domnul,

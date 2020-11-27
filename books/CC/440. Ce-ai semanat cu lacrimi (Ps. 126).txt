@@ -2,6 +2,7 @@
 @Number 440
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 2, cant. 176
+@Pitch Dm
 @Tag Îmbărbătare - mângâiere
 
 1. Ce-ai semănat cu lacrimi

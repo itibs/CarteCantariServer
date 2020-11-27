@@ -3,6 +3,7 @@
 @Author Anna L. Coghill
 @Composer Lowell Mason
 @Original_Title Work, for the Night Is Coming
+@Pitch F
 @Tag Lucrul Domnului
 
 1. Haideţi la lucru-acuma,

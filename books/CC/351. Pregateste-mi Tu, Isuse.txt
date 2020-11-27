@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 7, cant. 186
+@Pitch Bm
 @Tag Predarea
 
 1. Pregateste-mi Tu, Isuse

@@ -2,6 +2,7 @@
 @Number 148
 @Author Henri L. Empeytaz
 @Composer Ferdinand S. Laur
+@Pitch A
 @Tag Adorare - Laudă
 
 1. S-aducem slavă acum lui Isus!

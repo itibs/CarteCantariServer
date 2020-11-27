@@ -2,6 +2,7 @@
 @Number 197
 @Author Nicolae Rusu
 @Composer Nicolae Rusu
+@Pitch Dm
 
 1. A venit în lume ca un copilaș,
 La necazul nostru S-a făcut părtaș!

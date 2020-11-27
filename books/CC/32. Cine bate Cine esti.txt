@@ -3,6 +3,7 @@
 @Author Harriet B. Stowe
 @Composer George F. Root
 @Original_Title Knocking, Knocking, Who Is There?
+@Pitch G
 @Tag Chemare la Domnul Isus
 
 1. Cine bate? Cine eşti?

@@ -2,6 +2,7 @@
 @Number 198
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch Em
 
 1. Înger alb din cerul sfânt 
 se coboară pe pământ,

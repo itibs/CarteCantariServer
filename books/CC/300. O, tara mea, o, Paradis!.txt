@@ -2,6 +2,7 @@
 @Number 300
 @Author Text traditional romanesc, 1930
 @Composer John R. Sweney
+@Pitch C
 @Tag Nădejdea credinciosului
 
 1. O, ţara mea! O, Paradis,

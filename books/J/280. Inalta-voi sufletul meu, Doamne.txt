@@ -3,6 +3,7 @@
 @Author Sabina Micaela Cuculea
 @Composer Sabina Micaela Cuculea
 @References Psalmul 25
+@Pitch Bm
 
 1. Înălța-voi sufletul meu, Doamne,
 La Tine, Dumnezeule,

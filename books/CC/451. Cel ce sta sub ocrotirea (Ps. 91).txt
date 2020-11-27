@@ -1,5 +1,6 @@
 @Title Cel ce stă sub ocrotirea (Ps. 91)
 @Number 451
+@Pitch Cm
 @Tag Chemare la Domnul Isus
 
 1. Cel ce stă sub ocrotirea

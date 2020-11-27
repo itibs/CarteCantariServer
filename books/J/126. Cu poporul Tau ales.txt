@@ -4,6 +4,7 @@
 @Composer Brent Chambers
 @Original_Title The celebration song (In the presence of Your people)
 @References Psalmul 22:3,22, 145:7
+@Pitch Dm
 
 Cu poporul Tău ales Te voi lăuda!
 Tu, Dumnezeu Preasfânt, 

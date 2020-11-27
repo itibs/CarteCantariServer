@@ -2,6 +2,7 @@
 @Number 388
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch F
 @Tag Predarea
 
 1. Sa faci, o, Isuse, din inima mea

@@ -3,6 +3,7 @@
 @Author Iulian Teodorescu, Carmen Gavril
 @Composer Iulian Teodorescu
 @References Psalmul 18
+@Pitch Eb
 
 1. Te iubesc și-Ți cânt din toată inima,
 Doamne, tăria mea,

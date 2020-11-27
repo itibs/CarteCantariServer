@@ -2,6 +2,7 @@
 @Number 362
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch C
 @Tag Mântuirea - roadele ei
 
 1. Ce bogat, ce bogat este harul!

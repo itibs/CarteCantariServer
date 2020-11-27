@@ -3,6 +3,7 @@
 @Author Philip P. Bliss, 1871
 @Composer Philip P. Bliss
 @Original_Title Let the Lower Lights be Burning
+@Pitch A
 @Tag Mântuirea - roadele ei
 
 1. Ca un far pe malul mării,

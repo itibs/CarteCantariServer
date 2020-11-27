@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu?
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 2, cant. 78
+@Pitch C#m
 @Tag Domnul Isus și jertfa Lui
 
 1. Cu cata liniste si pace,

@@ -3,6 +3,7 @@
 @Author Fanny J. Crosby; adapt. D. Cornilescu
 @Composer William H. Doane
 @Original_Title Pass Me Not
+@Pitch G
 @Tag Adunarea (Biserica) - Legătura frățească
 
 1. Doi sau trei în scumpu-Ţi Nume

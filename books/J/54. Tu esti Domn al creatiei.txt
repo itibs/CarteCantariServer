@@ -3,6 +3,7 @@
 @Author Twila Paris, adapt. Iulian Teodorescu
 @Composer Twila Paris
 @Original_Title We bow down
+@Pitch C
 
 Tu ești Domn al creației, Domn din vecii,
 Domn mai presus de 'nălțimi,

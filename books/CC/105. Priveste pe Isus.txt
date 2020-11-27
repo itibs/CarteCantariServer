@@ -2,6 +2,7 @@
 @Number 105
 @Author adapt. D. Cornilescu
 @Composer J. Hoff
+@Pitch Ab
 @Tag Domnul Isus și jertfa Lui
 
 1. Priveşte pe Isus

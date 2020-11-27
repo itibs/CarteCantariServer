@@ -3,6 +3,7 @@
 @Author Micahel Card
 @Composer Michael Card
 @Original_Title I Will Bring You Home
+@Pitch Eb
 
 1. Chiar de ești singur, fără-adăpost,
 Eu sunt casa ta.

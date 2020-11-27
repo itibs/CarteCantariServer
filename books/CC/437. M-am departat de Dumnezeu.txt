@@ -3,6 +3,7 @@
 @Author William J. Kirkpatrick
 @Composer William J. Kirkpatrick
 @Original_Title Lord, I'm Coming Home
+@Pitch G
 @Tag Chemare la Domnul Isus
 
 1. M-am depărtat de Dumnezeu;

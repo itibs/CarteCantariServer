@@ -2,6 +2,7 @@
 @Number 251
 @Author Monica Turtoi
 @Composer Monica Turtoi
+@Pitch C
 
 1. Mângâiere în durere
 oferă brațul Tău,

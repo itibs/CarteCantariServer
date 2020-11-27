@@ -2,6 +2,7 @@
 @Number 49
 @Author F. G. Wetzel, adapt. D. Cornilescu
 @Composer Melodie traditionala germana
+@Pitch Eb
 @Tag Adunarea (Biserica) - Legătura frățească
 
 1. Ce bine e, când fraţii

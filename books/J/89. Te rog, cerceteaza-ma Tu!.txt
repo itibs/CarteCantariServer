@@ -2,6 +2,7 @@
 @Number 89
 @Author Anonim
 @Composer Iulian Teodorescu
+@Pitch D
 
 1. Te rog, cercetează-mă Tu!
 Tu vezi ce e-n inima mea.

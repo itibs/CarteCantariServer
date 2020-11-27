@@ -1,6 +1,7 @@
 @Title Nu mai sunt al meu
 @Number 117
 @Composer Rowland Prichard
+@Pitch F
 
 1. Nu mai sunt al meu de-acuma,
 Isus e Stăpânul meu.

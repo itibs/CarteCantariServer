@@ -2,6 +2,7 @@
 @Number 30
 @Composer Rachael Boskey
 @Original_Title Hal''lu et Adonai
+@Pitch Cm
 
 1. Alelu et-Adonai kol goim, 
 Șabehuhu kol haumim, 

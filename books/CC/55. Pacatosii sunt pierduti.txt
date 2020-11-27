@@ -3,6 +3,7 @@
 @Author Erdmann Neumeister
 @Composer James McGranahan
 @Original_Title Jesus nimmt die Sünder an!, Christ Receives the Sinful Men
+@Pitch C
 @Tag Chemare la Domnul Isus
 
 1. Păcătoşii sunt pierduţi

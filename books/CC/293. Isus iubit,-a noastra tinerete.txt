@@ -2,6 +2,7 @@
 @Number 293
 @Author Traian Dorz
 @Composer T. C. Adorian
+@Pitch F
 @Tag Pentru copii și tineret
 
 1. Isus iubit, a noastră tinereţe,

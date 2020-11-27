@@ -1,5 +1,6 @@
 @Title O! Doamne, morții Tu Te-ai dat
 @Number 23
+@Pitch D
 @Tag Mântuirea - roadele ei
 
 1. O! Doamne, morţii Tu Te-ai dat,

@@ -2,6 +2,7 @@
 @Number 266
 @Author Traian Dorz
 @Composer Cătălin Lup, Ramona Lup
+@Pitch F
 
 1. E mult prea scumpă viața asta 
 Ca s-o petreci nepăsător;

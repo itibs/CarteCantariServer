@@ -1,6 +1,7 @@
 @Title Acelui ce ne-a mântuit
 @Number 144
 @Composer Psalmii Reformati (Calvin) nr. 62
+@Pitch G
 @Tag Adorare - Laudă
 
 1. Acelui ce ne-a mântuit

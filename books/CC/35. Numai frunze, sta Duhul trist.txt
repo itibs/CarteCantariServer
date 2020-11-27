@@ -3,6 +3,7 @@
 @Author Lucy E. Ackerman
 @Composer Silas J. Vail
 @Original_Title Nothing but Leaves
+@Pitch Eb
 @Tag Mustrare
 
 1. Numai frunze! Stă Duhul trist,

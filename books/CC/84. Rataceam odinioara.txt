@@ -3,6 +3,7 @@
 @Author Philip P. Bliss, 1871
 @Composer Philip P. Bliss
 @Original_Title Let the lower lights be burning
+@Pitch A
 @Tag Mântuirea - roadele ei
 
 1. Rătăceam odinioară

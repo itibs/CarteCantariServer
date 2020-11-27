@@ -3,6 +3,7 @@
 @Author Sam Hargreaves, adapt. Ruben Mureșan, Kenneth Tucker
 @Composer Sam Hargreaves
 @Original_Title Christ Was Raised
+@Pitch E
 
 1. Domnu-i viu!
 Moartea n-a putut să-L țină!

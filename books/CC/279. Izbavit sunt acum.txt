@@ -1,5 +1,6 @@
 @Title Izbăvit sunt acum
 @Number 279
+@Pitch Eb
 @Tag Mântuirea - roadele ei
 
 1. Izbăvit sunt acum

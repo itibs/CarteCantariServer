@@ -1,6 +1,7 @@
 @Title Vino la Isus acuma
 @Number 19
 @Composer John Fawcett
+@Pitch G
 @Tag Chemare la Domnul Isus
 
 1. Vino la Isus acuma!

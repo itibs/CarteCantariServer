@@ -1,5 +1,6 @@
 @Title Lucrători credincioși
 @Number 203
+@Pitch F
 @Tag Lucrul Domnului
 
 1. Lucrători credincioşi,

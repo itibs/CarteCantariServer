@@ -2,6 +2,7 @@
 @Number 275
 @Author Henri Lutteroth
 @Composer Paul Ami I. D. Bost
+@Pitch C
 @Tag Cuvântul lui Dumnezeu
 
 1. O, Doamne, binecuvintează

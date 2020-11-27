@@ -3,6 +3,7 @@
 @Author Charles Rochedieu
 @Composer Phoebe P. Knapp
 @Original_Title Behold Me Standing at the Door
+@Pitch G
 @Tag Mântuirea - roadele ei
 
 1. Mai ’nainte de veşnicii,

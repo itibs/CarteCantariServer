@@ -3,6 +3,7 @@
 @Author Cecil F. Alexander
 @Composer Joachim Neander, 1680
 @Original_Title He Is Risen
+@Pitch Bb
 @Tag Nădejdea credinciosului
 
 1. Noi plutim cu pânza-ntinsă

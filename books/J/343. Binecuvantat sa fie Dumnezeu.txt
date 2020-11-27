@@ -2,6 +2,7 @@
 @Number 343
 @Composer Marcel Tirian
 @References Efeseni 1:3
+@Pitch F
 
 1. Binecuvântat să fie Dumnezeu,
 Tatăl Domnului nostru Isus Cristos,

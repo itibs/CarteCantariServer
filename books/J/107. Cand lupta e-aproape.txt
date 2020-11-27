@@ -3,6 +3,7 @@
 @Author James Owen Collins, adapt. Flaviu Mitar, Iulian Teodorescu
 @Composer James Owen Collins
 @Original_Title The battle belongs to the Lord
+@Pitch Gm
 
 1. Când lupta e-aproape 
 Să nu uiți nicicând:

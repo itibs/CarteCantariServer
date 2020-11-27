@@ -3,6 +3,7 @@
 @Author Traian Dorz
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 4, cant. 45
+@Pitch F
 @Tag Îmbărbătare - mângâiere
 
 1. Slăvit Izvor al vieţii din care odrăslim,

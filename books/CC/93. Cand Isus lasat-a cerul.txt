@@ -3,6 +3,7 @@
 @Author Thomas Kelly
 @Composer melodie traditionala germana
 @Original_Title Praise the Savior
+@Pitch D
 @Tag Pentru copii și tineret
 
 1. Când Isus lăsat-a cerul

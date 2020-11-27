@@ -2,6 +2,7 @@
 @Number 254
 @Author De Correvon
 @Composer Henry A. Cesar Malan
+@Pitch C
 @Tag Rugăciune
 
 1. Doamne Isuse, ne ascultă ruga,

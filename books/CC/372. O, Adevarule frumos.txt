@@ -2,6 +2,7 @@
 @Number 372
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch Bb
 @Tag Dumnezeu
 
 1. O, Adevarule frumos,

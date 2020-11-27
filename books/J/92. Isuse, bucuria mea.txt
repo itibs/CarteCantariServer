@@ -2,6 +2,7 @@
 @Number 92
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch Eb
 
 1. Tu mi-ai fost, Isuse, toată bucuria mea,
 Niciodată, niciodată n-am să pot uita.

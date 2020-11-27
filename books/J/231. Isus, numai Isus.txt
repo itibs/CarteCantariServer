@@ -3,6 +3,7 @@
 @Author Nathan Nockels, Chris Tomlin, Kristian Stanfill, Matt Redman, Christy Nockels, Tony Wood, adapt. Daniel Suciu, Echipa Jubilate
 @Composer Nathan Nockels, Chris Tomlin, Kristian Stanfill, Matt Redman, Christy Nockels, Tony Wood
 @Original_Title Jesus, only Jesus
+@Pitch Bb
 
 1. Pe cei morți cine-i va‑nvia? 
 Păcatele cine le ia? 

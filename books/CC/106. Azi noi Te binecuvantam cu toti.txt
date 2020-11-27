@@ -3,6 +3,7 @@
 @Author James McGranahan, 1878
 @Composer James McGranahan
 @Original_Title Verily, I Say unto You
+@Pitch F
 @Tag Dumnezeu
 
 1. Azi noi Te binecuvântăm cu toţi,

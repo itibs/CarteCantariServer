@@ -2,6 +2,7 @@
 @Number 318
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch A
 @Tag Adorare - Laudă
 
 1. Te adoram, iubit Isus,

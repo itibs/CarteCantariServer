@@ -2,6 +2,7 @@
 @Number 15
 @Composer Pete Sanchez
 @Original_Title I exalt Thee
+@Pitch F
 
 1. Tu, Doamne, eşti Dumnezeu 
 și vei domni în veci.

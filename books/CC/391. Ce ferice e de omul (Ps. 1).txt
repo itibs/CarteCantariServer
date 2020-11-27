@@ -1,5 +1,6 @@
 @Title Ce ferice e de omul (Ps. 1)
 @Number 391
+@Pitch F
 @Tag Mântuirea - roadele ei
 
 1. Ce ferice e de omul

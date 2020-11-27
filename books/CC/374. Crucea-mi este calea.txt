@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 6, cant. 196
+@Pitch Cm
 @Tag Umblarea (purtarea) credinciosului
 
 1. Crucea-mi este calea astazi pe pamant

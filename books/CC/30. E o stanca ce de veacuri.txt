@@ -3,6 +3,7 @@
 @Author L. Hartsough, adapt. D. Cornilescu
 @Composer L. Hartsough
 @Original_Title The Higher Rock
+@Pitch Bb
 @Tag Biruința creștinului
 
 1. E o Stâncă ce de veacuri

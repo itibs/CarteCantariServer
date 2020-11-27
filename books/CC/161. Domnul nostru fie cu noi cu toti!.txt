@@ -3,6 +3,7 @@
 @Author Jeremiah E. Rankin, 1880
 @Composer William G. Tomer, 1882
 @Original_Title God Be with You Till We Meet Again
+@Pitch C
 @Tag Nădejdea credinciosului
 
 1. Domnul nostru fie cu noi toţi!

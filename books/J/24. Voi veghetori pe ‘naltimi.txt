@@ -2,6 +2,7 @@
 @Number 24
 @Author Athelstan Riley, adapt. Benone Burtescu
 @Original_Title Geistliche Kirchengesänge
+@Pitch Eb
 
 1. Voi veghetori pe ‘nălțimi,
 Voi heruvimi și serafimi,

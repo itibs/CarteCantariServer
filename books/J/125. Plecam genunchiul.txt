@@ -3,6 +3,7 @@
 @Author Don Wyrtzen, adapt. Benone Burtescu
 @Composer Don Wyrtzen
 @Original_Title Our sacrifice of praise
+@Pitch Eb
 
 1. Plecăm genunchiul Doamne-n faţa Ta,
 Primeşte-al nostru sfânt prinos.

@@ -1,6 +1,7 @@
 @Title Către cer, către cer
 @Number 116
 @Composer Volgtlander
+@Pitch Bb
 @Tag Nădejdea credinciosului
 
 1. Către cer, către cer,

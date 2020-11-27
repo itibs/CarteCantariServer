@@ -2,6 +2,7 @@
 @Number 209
 @Author Emil Constantinescu
 @Composer Emil Constantinescu
+@Pitch A
 @Tag Mântuirea - roadele ei
 
 1. Prin Isus eu am iertare,

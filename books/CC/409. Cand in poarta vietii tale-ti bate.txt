@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 2, cant. 100
+@Pitch F
 @Tag Îmbărbătare - mângâiere
 
 1. Când în poarta vieţii tale-ţi bate

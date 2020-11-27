@@ -2,6 +2,7 @@
 @Number 269
 @Author Costache Ioanid
 @Composer Sabina Tinco
+@Pitch C
 
 1. Cum trece roua, sorbită-n crin,
 Cum zboară norii și alții vin,

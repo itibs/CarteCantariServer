@@ -2,6 +2,7 @@
 @Number 449
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch Dm
 @Tag Pentru copii și tineret
 
 1. Apără, iubit Isus,

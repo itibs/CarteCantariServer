@@ -2,6 +2,7 @@
 @Number 189
 @Author Mme H. Megroz Cornaz
 @Composer William B. Bradbury
+@Pitch A
 @Tag Îmbărbătare - mângâiere
 
 1. O corabie pluteşte

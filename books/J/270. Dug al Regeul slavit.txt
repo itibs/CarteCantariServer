@@ -3,6 +3,7 @@
 @Author Stuart Townend, adapt. Daniel Suciu, Echipa Jubilate
 @Composer Stuart Townend
 @Original_Title Puritan Prayer (Blessed Spirit)
+@Pitch D
 
 1. Duh al Regelui slăvit, Izvor ești de iubire! 
 Fă-mă om cu duh zdrobit și gata de jertfire. 

@@ -3,6 +3,7 @@
 @Author Reginald Heber, 1826
 @Composer John B. Dykes
 @Original_Title Holy, Holy, Holy
+@Pitch G
 @Tag Adorare - Laudă
 
 1. Sfânt eşti, Sfânt eşti, Sfânt eşti!

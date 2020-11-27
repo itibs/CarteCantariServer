@@ -1,5 +1,6 @@
 @Title O! Tu ce de-atâta vreme
 @Number 60
+@Pitch Ab
 @Tag Chemare la Domnul Isus
 
 1. O, tu, ce de-atâta vreme

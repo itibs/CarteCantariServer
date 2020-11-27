@@ -1,5 +1,6 @@
 @Title Iubesc pe Domnul căci spre mine s-a-ntors
 @Number 456
+@Pitch F
 @Tag Adorare - Laudă
 
 1. Iubesc pe Domnul, căci spre min' s-a-ntors.

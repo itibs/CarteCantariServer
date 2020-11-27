@@ -3,6 +3,7 @@
 @Author Jonas Myrin, Matt Redman, adapt. Echipa Jubilate
 @Composer Jonas Myrin, Matt Redman
 @Original_Title Ten Thousand Reasons
+@Pitch Eb
 
 R: Cântă-I, suflete-al meu, suflete, 
 Înalţă-I Numele! 

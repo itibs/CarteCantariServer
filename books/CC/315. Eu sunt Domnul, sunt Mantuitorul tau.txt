@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 5, cant. 243
+@Pitch F
 @Tag Îmbărbătare - mângâiere
 
 1. Eu sunt Domnul, sunt Mantuitorul tau,

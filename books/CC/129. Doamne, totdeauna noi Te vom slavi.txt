@@ -3,6 +3,7 @@
 @Author Mary J. Walker
 @Composer Ira D. Sankey
 @Original_Title Jesus, I Will Trust Thee
+@Pitch G
 @Tag Adorare - Laudă
 
 1. Doamne, todeauna, noi Te vom slăvi

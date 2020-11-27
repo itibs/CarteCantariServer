@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 3, cant. 304
+@Pitch D
 @Tag Umblarea (purtarea) credinciosului
 
 1. Pe piatra aspra-a vietii

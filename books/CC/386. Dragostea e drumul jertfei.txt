@@ -2,6 +2,7 @@
 @Number 386
 @Author Traian Dorz
 @Composer Nicolae Moldoveanu
+@Pitch F
 @Tag Mântuirea - roadele ei
 
 1. Dragostea e drumul jertfei

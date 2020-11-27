@@ -3,6 +3,7 @@
 @Author Ada Habershon (1861-1918) - str. 1, 2, Matthew Merker - str. 3, adapt. Daniel Suciu, Echipa Jubilate
 @Composer Matthew Merker
 @Original_Title He Will Hold Me Fast
+@Pitch Bb
 
 1. Când credința-mi s-ar clinti,
 Sprijin mi-e Cristos,

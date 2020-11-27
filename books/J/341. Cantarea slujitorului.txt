@@ -3,6 +3,7 @@
 @Author Richard Gilliard, adapt. Sabina Cuculea, Daria Barna, Echipa Jubilate
 @Composer Richard Gilliard
 @Original_Title The Servant Song
+@Pitch D
 
 1. Frate drag, primește-mi darul! 
 Ca Isus vreau să-ți slujesc.

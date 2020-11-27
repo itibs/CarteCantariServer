@@ -1,5 +1,6 @@
 @Title Cu Isus sunt pretutindeni
 @Number 120
+@Pitch Bb
 @Tag Mântuirea - roadele ei
 
 1. Cu Isus sunt pretutindeni, 

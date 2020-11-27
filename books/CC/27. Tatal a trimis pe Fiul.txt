@@ -1,6 +1,7 @@
 @Title Tatăl a trimis pe Fiul
 @Number 27
 @Author adapt. D. Cornilescu
+@Pitch F
 @Tag Chemare la Domnul Isus
 
 1. Tatăl a trimis pe Fiul

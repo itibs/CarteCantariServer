@@ -2,6 +2,7 @@
 @Number 292
 @Author Traian Dorz
 @Composer Emil Constantinescu
+@Pitch G
 @Tag Nădejdea credinciosului
 
 1. Noi Te dorim cu dor nespus;

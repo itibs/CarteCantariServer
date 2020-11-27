@@ -3,6 +3,7 @@
 @Author Daniel Whittle, 1883.
 @Composer James McGranahan
 @Original_Title I'll Stand By Until the Morning
+@Pitch D
 @Tag Chemare la Domnul Isus
 
 1. Tu, ce zaci în patimi grele

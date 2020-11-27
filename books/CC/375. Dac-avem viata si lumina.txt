@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 6, cant. 227
+@Pitch C
 @Tag Domnul Isus și jertfa Lui
 
 1. Dac-avem viata si lumina,

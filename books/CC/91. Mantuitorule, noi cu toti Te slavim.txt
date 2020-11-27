@@ -3,6 +3,7 @@
 @Author John H. Sammis
 @Composer Daniel B. Towner, 1887
 @Original_Title Trust and Obey
+@Pitch F
 @Tag Adorare - Laudă
 
 1. Mântuitorule,

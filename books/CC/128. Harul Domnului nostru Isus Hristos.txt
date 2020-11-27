@@ -1,5 +1,6 @@
 @Title Harul Domnului nostru Isus Hristos
 @Number 128
+@Pitch D
 @Tag Rugăciune
 
 1. Harul Domnului nostru Isus Hristos

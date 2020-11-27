@@ -2,6 +2,7 @@
 @Number 170
 @Author Benoni Catană
 @Composer Andrei Bulzan
+@Pitch D
 
 1. Aşa cum ploaia-mbelşugată
 Adapă lanul înverzit, 

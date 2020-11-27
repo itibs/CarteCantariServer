@@ -3,6 +3,7 @@
 @Author Dennis Jernigan, adapt. Carmen Gavril
 @Composer Dennis Jernigan
 @Original_Title You are my all in all
+@Pitch F
 
 1. Tu-mi ești tărie-n slăbiciuni,
 Tu îmi ești bunul cel mai bun,

@@ -2,6 +2,7 @@
 @Number 173
 @Author Mme W. Monos
 @Composer Melodie traditionala americana
+@Pitch G
 @Tag Nădejdea credinciosului
 
 1. Noi 'naintam bucuroși, fericiţi

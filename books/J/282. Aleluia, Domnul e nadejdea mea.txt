@@ -2,6 +2,7 @@
 @Number 282
 @Author Mariana Gherasim - str. 1, 2, Doru Hnatiuc - str. 3, 4
 @Composer Michael Franck, 1632
+@Pitch Fm
 
 R: Aleluia, Aleluia, 
 Domnul e nădejdea mea!

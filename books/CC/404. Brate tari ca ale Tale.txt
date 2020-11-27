@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 2, cant. 170
+@Pitch D
 @Tag Adorare - Laudă
 
 1. Braţe tari ca ale Tale,

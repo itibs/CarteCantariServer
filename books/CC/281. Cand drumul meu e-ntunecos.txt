@@ -2,6 +2,7 @@
 @Number 281
 @Author Mlle E. Schurer, adapt. Emil Constantinescu
 @Composer Ross. H. Philips
+@Pitch G
 @Tag Îmbărbătare - mângâiere
 
 1. Când drumul meu e-ntunecos,

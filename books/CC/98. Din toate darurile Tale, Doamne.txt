@@ -3,6 +3,7 @@
 @Author Charles H. Gabriel
 @Composer Charles H. Gabriel
 @Original_Title O That Will Be Glory
+@Pitch F
 @Tag Adorare - Laudă
 
 1. Din toate darurile Tale, Doamne,

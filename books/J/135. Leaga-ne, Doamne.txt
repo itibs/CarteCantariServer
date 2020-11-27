@@ -3,6 +3,7 @@
 @Author Bob Gillman
 @Composer Bob Gillman
 @Original_Title Bind us together
+@Pitch F
 
 1. Leagă-ne, Doamne, pe toţi împreună, 
 Cu lanţuri ce nu pot fi rupte!

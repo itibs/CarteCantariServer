@@ -3,6 +3,7 @@
 @Author Johnson Oatman, Jr.
 @Composer Geroge C. Hugg
 @Original_Title No, Not One!
+@Pitch F
 @Tag Domnul Isus și jertfa Lui
 
 1. Nici un prieten nu-i bun ca Isus:

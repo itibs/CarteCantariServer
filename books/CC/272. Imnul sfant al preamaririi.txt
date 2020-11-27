@@ -3,6 +3,7 @@
 @Author Edmond L. Budry
 @Composer Melodie traditionala englezeasca
 @Original_Title Angry Words
+@Pitch D
 @Tag Adorare - Laudă
 
 1. Imnul sfânt al preamăririi,

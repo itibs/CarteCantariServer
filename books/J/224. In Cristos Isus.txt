@@ -2,6 +2,7 @@
 @Number 224
 @Author Sabina Tinco
 @Composer Sabina Tinco
+@Pitch C
 
 1. În Cristos Isus 
 Nicio osândire nu-i,

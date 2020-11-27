@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 3, cant. 1
+@Pitch A
 @Tag Adorare - Laudă
 
 1. Te laudam pe Tine, Domnul nostru mare,

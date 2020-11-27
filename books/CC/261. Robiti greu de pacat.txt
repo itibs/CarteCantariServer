@@ -2,6 +2,7 @@
 @Number 261
 @Author R. Roechrich
 @Composer Recital de Francfort, 1817
+@Pitch D
 @Tag Mântuirea - roadele ei
 
 1. Robiţi greu de păcat,

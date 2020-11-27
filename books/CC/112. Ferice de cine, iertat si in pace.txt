@@ -3,6 +3,7 @@
 @Author Horatio G. Spafford, 1873
 @Composer Philip P. Bliss
 @Original_Title It Is Well with My Soul
+@Pitch C
 @Tag Împrejurări din viața credinciosului
 
 1. Ferice de cine, iertat şi în pace,

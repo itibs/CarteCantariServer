@@ -3,6 +3,7 @@
 @Author Jeremiah E. Rankin
 @Composer Edmund S. Lorenz
 @Original_Title Tell It to Jesus
+@Pitch A
 @Tag Îmbărbătare - mângâiere
 
 1. Eşti trudit şi plin de întristare?

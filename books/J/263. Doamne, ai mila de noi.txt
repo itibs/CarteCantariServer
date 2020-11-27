@@ -2,6 +2,7 @@
 @Number 263
 @Composer Anca Ciora
 @References Isaia 33:2
+@Pitch D
 
 1. Doamne, ai milă de noi!
 Noi nădăjduim în Tine.

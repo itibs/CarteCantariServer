@@ -3,6 +3,7 @@
 @Author Charles Wesley / Williwm O. Cushing
 @Composer George J. Elvey / George F. Root
 @Original_Title Ring the Bells of Heaven
+@Pitch Ab
 @Tag Adorare - Laudă
 
 1. Dumnezeu pe Însuşi Fiul Său L-a dat,

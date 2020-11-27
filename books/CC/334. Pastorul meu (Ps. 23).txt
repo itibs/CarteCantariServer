@@ -2,6 +2,7 @@
 @Number 334
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch Em
 @Tag Umblarea (purtarea) credinciosului
 
 1. Pastorul meu (bis) Pastorule divin,

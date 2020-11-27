@@ -1,6 +1,7 @@
 @Title Te gândește ce durere grea
 @Number 282
 @Original_Title O, Christ, What Burdens Bowed Thy Head
+@Pitch Eb
 @Tag Chemare la Domnul Isus
 
 1. Te gândeşte ce durere grea,

@@ -1,6 +1,7 @@
 @Title În familie-i ferice
 @Number 42
 @Author D. Cornilescu
+@Pitch Eb
 @Tag Împrejurări din viața credinciosului
 
 1. În familie-i ferice,

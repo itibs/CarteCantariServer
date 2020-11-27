@@ -2,6 +2,7 @@
 @Number 276
 @Author Auguste Glardon
 @Composer Rev. Wright
+@Pitch F
 @Tag Domnul Isus și jertfa Lui
 
 1. Adânca Ta iubire,

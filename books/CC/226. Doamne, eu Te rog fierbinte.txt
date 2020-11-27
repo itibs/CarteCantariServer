@@ -3,6 +3,7 @@
 @Author Emma F. Bevan
 @Composer Old Ballad Melody
 @Original_Title God in Heaven Hath a Treasure
+@Pitch Eb
 @Tag Rugăciune
 
 1. Doamne, eu Te rog fierbinte

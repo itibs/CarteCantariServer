@@ -3,6 +3,7 @@
 @Author Mary A. Bachelor, aprox. 1871
 @Composer Philip P. Bliss
 @Original_Title Burry Thy Sorrow
+@Pitch Bb
 @Tag Chemare la Domnul Isus
 
 1. Suflet plin de jale, vino la Isus!

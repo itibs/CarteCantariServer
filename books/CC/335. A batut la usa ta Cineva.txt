@@ -3,6 +3,7 @@
 @Author Costache Ioanid
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 2, cant. 73
+@Pitch Dm
 @Tag Chemare la Domnul Isus
 
 1. /: A batut la usa ta Cineva

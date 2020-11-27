@@ -2,6 +2,7 @@
 @Number 339
 @Author Mihai Damian
 @Composer Mihai Damian
+@Pitch Eb
 
 1. Noi suntem frați! Ce mare bucurie 
 Să ai în lume frați asemeni ție,

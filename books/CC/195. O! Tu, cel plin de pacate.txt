@@ -1,5 +1,6 @@
 @Title O! Tu, cel plin de păcate
 @Number 195
+@Pitch F
 @Tag Chemare la Domnul Isus
 
 1. O! tu cel plin de păcate,

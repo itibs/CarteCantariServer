@@ -1,5 +1,6 @@
 @Title Isuse, eu vreau să-Ți urmez
 @Number 232
+@Pitch F
 @Tag Predarea
 
 1. Isuse, eu vreau să-Ţi urmez,

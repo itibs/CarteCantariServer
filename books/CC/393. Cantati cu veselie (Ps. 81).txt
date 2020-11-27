@@ -2,6 +2,7 @@
 @Number 393
 @Author Traian Dorz
 @Composer Nicolae Moldoveanu
+@Pitch Bb
 @Tag Adorare - Laudă
 
 1. Cantati cu veselie,

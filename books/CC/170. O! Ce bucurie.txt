@@ -2,6 +2,7 @@
 @Number 170
 @Author Henry A. Cesar Malan
 @Composer Henry A. Cesar Malan
+@Pitch D
 @Tag Domnul Isus și jertfa Lui
 
 1. O! ce bucurie simt, când Te privesc

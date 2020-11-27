@@ -3,6 +3,7 @@
 @Author Cliff Barrows, adapt. C. Moisa
 @Composer Cliff Barrows
 @Original_Title Benediction
+@Pitch F
 
 1. Domnul păcii să fie cu tine
 În furtună sau zile senine!

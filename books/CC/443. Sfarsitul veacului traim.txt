@@ -3,6 +3,7 @@
 @Author Thoro Harris (trad. Valentin Popovici)
 @Composer Melodie din Hawai
 @Original_Title He's Coming Soon
+@Pitch Ab
 @Tag Venirea Domnului Isus
 
 1. Sfârşitul veacului trăim

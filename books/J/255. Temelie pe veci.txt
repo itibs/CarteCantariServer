@@ -3,6 +3,7 @@
 @Author "K" din Rippon's Selection, 1787, adapt. Daniel Suciu, Echipa Jubilate
 @Composer Melodie tradițională americană
 @Original_Title How Firm a Foundation
+@Pitch Ab
 
 1. Temelie pe veci ați găsit în Scripturi
 Pentru-a voastră credință, voi, toți sfinții Lui.

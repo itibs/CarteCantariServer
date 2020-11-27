@@ -2,6 +2,7 @@
 @Number 250
 @Author C. Urban
 @Composer C. Urban
+@Pitch F
 @Tag Îmbărbătare - mângâiere
 
 1. Pentru ce să te temi, când vine suferinţa?

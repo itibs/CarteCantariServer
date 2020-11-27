@@ -16,7 +16,7 @@ BOOKS = {
 
 app = Flask(__name__, static_url_path='/static')
 
-META_FIELDS = [u'title', u'number', u'author', u'composer', u'original_title', u'references', u'tag']
+META_FIELDS = [u'title', u'number', u'author', u'composer', u'original_title', u'references', u'tag', u'pitch']
 
 @app.errorhandler(404)
 def not_found(error):

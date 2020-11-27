@@ -3,6 +3,7 @@
 @Author Lynn DeShazo
 @Composer Lynn DeShazo
 @Original_Title More precious than silver
+@Pitch F
 
 /: Doamne, eşti mai scump ca argintul,
 Doamne eşti mai scump ca aurul,

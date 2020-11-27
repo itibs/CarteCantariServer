@@ -4,6 +4,7 @@
 @Composer John Thompson, Michael Card
 @Original_Title El Shaddai
 @References Geneza 17:1, 22:13, Psalmul 7:17
+@Pitch Dm
 
 R: El Şadai, El Şadai, Înălţate Adonai,
 Neschimbat din veşnicii,

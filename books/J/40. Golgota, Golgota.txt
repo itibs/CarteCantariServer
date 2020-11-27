@@ -2,6 +2,7 @@
 @Number 40
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch C#m
 
 1. Golgota, Golgota, o loc minunat,
 Mai ‘nalt decât munții, 

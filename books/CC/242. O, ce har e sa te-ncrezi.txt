@@ -1,6 +1,7 @@
 @Title O, ce har e să te-ncrezi
 @Number 242
 @Author adaptare Emil Constantinescu
+@Pitch G
 @Tag Mântuirea - roadele ei
 
 1. O, ce har e să te-ncrezi

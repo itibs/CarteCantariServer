@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 6, cant. 189
+@Pitch Em
 @Tag Umblarea (purtarea) credinciosului
 
 1. Fii simplu in credinta!

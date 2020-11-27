@@ -3,6 +3,7 @@
 @Author Shlomo Berger, adapt. Carmen Gavril, Iulian Teodorescu
 @Composer Shlomo Berger
 @Original_Title Se haElohim
+@Pitch Em
 
 
 Miel de Dumnezeu 

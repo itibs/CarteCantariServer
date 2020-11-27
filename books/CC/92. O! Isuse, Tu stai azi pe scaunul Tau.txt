@@ -3,6 +3,7 @@
 @Author Amelia M. Hull
 @Composer Edward G. Taylor
 @Original_Title There Is Life for a Look
+@Pitch F
 @Tag Mântuirea - roadele ei
 
 1. O! Isuse, Tu stai azi

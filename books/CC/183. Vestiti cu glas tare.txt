@@ -3,6 +3,7 @@
 @Author Philip P. Bliss
 @Composer Philip P. Bliss
 @Original_Title Whosoever Will
+@Pitch C
 @Tag Chemare la Domnul Isus
 
 1. Vestiţi cu glas tare Vestea cea Bună:

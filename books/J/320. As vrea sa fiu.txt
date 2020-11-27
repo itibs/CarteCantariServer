@@ -2,6 +2,7 @@
 @Number 320
 @Author Petrnu Dugulescu
 @Composer Simon Ghiurău
+@Pitch Eb
 
 1. Aș vrea să fiu ce azi n-am fost
 În ziua mea pierdută;

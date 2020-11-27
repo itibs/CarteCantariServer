@@ -3,6 +3,7 @@
 @Author Johannes D. Falk
 @Composer Tattersall's Psalmody, 1794
 @Original_Title O Thou Joyful, O Thou Wonderful
+@Pitch Bb
 @Tag Mântuirea - roadele ei
 
 1. Astăzi, fraţi, cu toţii să ne bucurăm

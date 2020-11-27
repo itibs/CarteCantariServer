@@ -1,6 +1,7 @@
 @Title O, Isuse, noi ne strângem
 @Number 103
 @Author adapt. D. Cornilescu
+@Pitch Eb
 @Tag Frângerea pâinii
 
 1. O! Isuse, noi ne strângem,

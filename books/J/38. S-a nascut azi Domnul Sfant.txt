@@ -3,6 +3,7 @@
 @Author A. L. Skoog, adapt. Eugenia Posa
 @Composer Lloyd Larson
 @Original_Title The holy Christmas night
+@Pitch Em
 
 1. Frumoasă zi de bucurii 
 La noi iar a sosit,

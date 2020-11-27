@@ -2,6 +2,7 @@
 @Number 286
 @Author din Chants de la Victoire
 @Composer din Chants de la Victoire
+@Pitch A
 @Tag Nădejdea credinciosului
 
 1. Să-naintăm voioşi întotdeauna,

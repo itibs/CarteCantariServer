@@ -3,6 +3,7 @@
 @Author Malcolm Du Plessis, adapt. Andrei Fedur
 @Composer Malcolm Du Plessis
 @Original_Title We Declare Your Majesty
+@Pitch F
 
 1. /: Declarăm puterea Ta! 
 Proclamăm: „Al Tău Nume veșnic e ’nălțat!” 

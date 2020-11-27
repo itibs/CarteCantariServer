@@ -3,6 +3,7 @@
 @Author Charles Wesley / S. B. Marsh, adapt. D. Cornilescu
 @Composer Joseph Parry / S. B. Marsh
 @Original_Title Jesus Lover of My Soul / Mary to the Savior's Tomb
+@Pitch F
 @Tag Îmbărbătare - mângâiere
 
 1. O! Mântuitorule,

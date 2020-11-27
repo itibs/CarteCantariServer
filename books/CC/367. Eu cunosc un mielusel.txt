@@ -3,6 +3,7 @@
 @Author Costache Ioanid
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 6, cant. 237
+@Pitch D
 @Tag Pentru copii și tineret
 
 1. Eu cunosc un mielusel

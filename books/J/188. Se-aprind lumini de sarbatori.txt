@@ -3,6 +3,7 @@
 @Author Emmy Köhler (1858-1925)
 @Composer Emmy Köhler
 @Original_Title Nu tändas tusen juleljus
+@Pitch G
 
 1. Se-aprind lumini de sărbători
 Ce licăresc zglobii,

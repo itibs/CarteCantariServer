@@ -2,6 +2,7 @@
 @Number 450
 @Author Traian Dorz
 @Composer Nicolae Moldoveanu
+@Pitch F
 @Tag Împrejurări din viața credinciosului
 
 1. Pe dragii noştri tineri

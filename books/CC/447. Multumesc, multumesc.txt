@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 6, cant. 304
+@Pitch F
 @Tag Adorare - Laudă
 
 1. Mulţumesc, mulţumesc,

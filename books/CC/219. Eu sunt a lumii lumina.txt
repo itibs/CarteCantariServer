@@ -3,6 +3,7 @@
 @Author Susan B. Warner
 @Composer Edwin O. Excell
 @Original_Title Jesus Bids Us Shine
+@Pitch G
 @Tag Umblarea (purtarea) credinciosului
 
 1. „Eu sunt a lumii lumină - a spus Isus

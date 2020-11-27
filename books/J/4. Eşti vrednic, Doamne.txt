@@ -3,6 +3,7 @@
 @Author Terry York
 @Composer Mark Blankenship
 @Original_Title Worthy of Worship
+@Pitch F
 
 1. Eşti vrednic, Doamne, să fii slăvit,
 Vrednic de cinste şi glorie,

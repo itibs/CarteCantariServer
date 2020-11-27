@@ -3,6 +3,7 @@
 @Author Sabina Micaela Cuculea
 @Composer Sabina Micaela Cuculea
 @References Psalmul 25:10,14
+@Pitch Eb
 
 1. Toate cărările Domnului, 
 toate cărările Lui sunt îndurare,

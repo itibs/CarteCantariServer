@@ -3,6 +3,7 @@
 @Author Samuel J. Stone
 @Composer Samuel S. Wesley
 @Original_Title The Church's One Foundation
+@Pitch D
 @Tag Frângerea pâinii
 
 1. Noi Te slăvim acuma

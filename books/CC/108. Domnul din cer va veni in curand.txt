@@ -3,6 +3,7 @@
 @Author Lelia N. Morris
 @Composer Lelia N. Morris
 @Original_Title What If It Were Today?
+@Pitch Bb
 @Tag Venirea Domnului Isus
 
 1. Domnul din cer va veni în curând

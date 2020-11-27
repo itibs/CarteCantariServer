@@ -3,6 +3,7 @@
 @Author Isaac Watts
 @Composer K. P. E. Bach / Ed. Miller
 @Original_Title Eternal Power, Whose High Abode
+@Pitch D
 @Tag Frângerea pâinii
 
 1. Iubirea noi ades' uităm

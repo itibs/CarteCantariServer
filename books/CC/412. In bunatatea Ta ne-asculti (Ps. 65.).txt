@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 7, cant. 181
+@Pitch D
 @Tag Îmbărbătare - mângâiere
 
 1. În bunătatea Ta, ne-asculţi

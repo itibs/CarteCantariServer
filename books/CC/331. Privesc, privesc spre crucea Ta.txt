@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 5, cant. 160
+@Pitch Dm
 @Tag Adorare - Laudă
 
 1. Privesc, privesc spre crucea Ta,

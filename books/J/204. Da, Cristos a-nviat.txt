@@ -3,6 +3,7 @@
 @Author Iacob Coman, Carmen Gavril
 @Composer Martha Puckett
 @Original_Title Carols Sing
+@Pitch F
 
 1. Da, Cristos a-nviat ca un veșnic Soare,
 Slavă Lui, El e viu, El ne dă salvare!

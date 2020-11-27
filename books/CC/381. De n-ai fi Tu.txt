@@ -3,6 +3,7 @@
 @Author Traian Dorz si Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 5, cant. 107
+@Pitch D
 @Tag Domnul Isus și jertfa Lui
 
 1. De n-ai fi Tu, n-ar fi nici ziua

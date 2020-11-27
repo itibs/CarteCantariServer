@@ -3,6 +3,7 @@
 @Author Kenneth Tucker
 @Composer Kenneth Tucker
 @References Psalmul 103:1-12
+@Pitch D
 
 R: Suflete, binecuvintează-L pe Domnul,
 Inima mea, Numele Lui cel sfânt!

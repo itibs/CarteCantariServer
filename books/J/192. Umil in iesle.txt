@@ -2,6 +2,7 @@
 @Number 192
 @Author Voicu Mureșan
 @Composer Voicu Mureșan
+@Pitch D
 
 1. Umil în iesle Te-ai născut, 
 Isus, iubite Domn,

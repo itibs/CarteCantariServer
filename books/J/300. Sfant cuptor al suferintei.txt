@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @References Daniel 3
+@Pitch Cm
 
 1. Sfânt cuptor al suferinței, 
 ce mă arzi, fără să pier,

@@ -3,6 +3,7 @@
 @Author Tullius C. O'Kane
 @Composer Tullius C. O'Kane
 @Original_Title Tune: [Who, who are these beside the chilly wave]
+@Pitch D
 @Tag Adunarea (Biserica) - Legătura frățească
 
 1. Cine sunt oare oamenii aceia

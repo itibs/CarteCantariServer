@@ -1,5 +1,6 @@
 @Title Spune frate: ce ești trist?
 @Number 294
+@Pitch C
 @Tag Îmbărbătare - mângâiere
 
 1. Spune, frate: ce eşti trist?

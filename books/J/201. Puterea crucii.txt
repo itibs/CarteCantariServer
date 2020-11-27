@@ -3,6 +3,7 @@
 @Author Stuart Townend, Keith Getty, adapt. Anca Ciora, Echipa Jubilate
 @Composer Stuart Townend, Keith Getty
 @Original_Title The Power of the Cross
+@Pitch Am
 
 1. O, de-aş fi văzut cea mai neagră zi: 
 Domnul păşeşte spre Calvar.

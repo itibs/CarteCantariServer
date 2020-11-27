@@ -3,6 +3,7 @@
 @Author Timothy Dudley-Smith, adapt. Carmen Gavril
 @Composer Walter Greatorex (1877-1949)
 @References Luca 1:46-55
+@Pitch D
 
 1. Vesti-voi azi mărirea Domnului,
 Prin El cânta-voi îndurarea Lui.

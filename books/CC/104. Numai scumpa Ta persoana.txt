@@ -1,6 +1,7 @@
 @Title Numai scumpa Ta persoană
 @Number 104
 @Author adapt. D. Cornilescu
+@Pitch Eb
 @Tag Frângerea pâinii
 
 1. Numai scumpa Ta Persoană

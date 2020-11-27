@@ -2,6 +2,7 @@
 @Number 166
 @Author Adele Pelaz
 @Composer Johannes Brahms
+@Pitch C
 @Tag Primirea Domnului Isus - Întoarcerea la Dumnezeu
 
 1. - Miel Sfânt, 'junghiat,

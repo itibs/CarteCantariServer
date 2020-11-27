@@ -3,6 +3,7 @@
 @Author Darlene Zschech, adapt. Tabăra Peniel
 @Composer Darlene Zschech
 @Original_Title Shout to the Lord
+@Pitch Eb
 
 1. Nu-i nimeni ca Tine, Isus, iubit Salvator!
 Cu viaţa mea Te preamăresc 

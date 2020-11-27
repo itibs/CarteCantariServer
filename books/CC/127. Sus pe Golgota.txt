@@ -3,6 +3,7 @@
 @Author Edmund L. Budry
 @Composer George F. Handel
 @Original_Title Thine Is the Glory
+@Pitch D
 @Tag Domnul Isus și jertfa Lui
 
 1. Sus pe Golgota, când totul era

@@ -3,6 +3,7 @@
 @Author Dora Greenwell
 @Composer Lowell Mason, 1850
 @Original_Title And Art Thou Come with Us to Dwell?
+@Pitch Bb
 @Tag Domnul Isus și jertfa Lui
 
 1. Izvor de pace şi de iertare,

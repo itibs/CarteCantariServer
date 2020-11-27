@@ -3,6 +3,7 @@
 @Author Philip Doddridge
 @Composer Edward F. Rimbault
 @Original_Title O Happy Day!
+@Pitch F
 @Tag Primirea Domnului Isus - Întoarcerea la Dumnezeu
 
 1. Ferice zi când pe Isus

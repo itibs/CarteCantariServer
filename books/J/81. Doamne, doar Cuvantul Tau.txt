@@ -4,6 +4,7 @@
 @Composer Michael W. Smith
 @Original_Title Thy Word
 @References Psalmul 119:105
+@Pitch F
 
 R: Doamne, doar Cuvântul Tău cel sfânt
 Mi-e lumină pe pământ.

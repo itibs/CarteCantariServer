@@ -2,6 +2,7 @@
 @Number 198
 @Author Johann Meyer
 @Composer Ernst Gebhardt
+@Pitch Ab
 @Tag Mântuirea - roadele ei
 
 1. De a cerului mânie eu am scăpat,

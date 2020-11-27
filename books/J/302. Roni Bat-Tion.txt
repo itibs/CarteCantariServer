@@ -4,6 +4,7 @@
 @Composer David Loden
 @Original_Title Roni Bat Zion
 @References Țefania 3:14-17
+@Pitch Gm
 
 R: Roni, roni, Bat-Țion! 
 Hari‘u, Israel! 

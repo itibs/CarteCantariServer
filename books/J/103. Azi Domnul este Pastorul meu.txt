@@ -1,5 +1,6 @@
 @Title Azi Domnul este Păstorul meu
 @Number 103
+@Pitch Fm
 
 1. Azi, Domnul este Păstorul meu,
 Eu lipsă n-am să duc.

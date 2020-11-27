@@ -3,6 +3,7 @@
 @Author Fanny J. Crosby, adapt. Iulian Teodorescu
 @Composer Aubrey L. Butler
 @Original_Title Redeemed
+@Pitch Eb
 
 1. Salvat! Ce frumoasă cântare!
 Salvat prin sfânt sângele Său,

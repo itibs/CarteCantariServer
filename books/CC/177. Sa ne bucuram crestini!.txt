@@ -3,6 +3,7 @@
 @Author Henry F. Lyte
 @Composer Benevento, arr. Samuel Webbe, Sr.
 @Original_Title Pleasant Are Thy Courts Above
+@Pitch Eb
 @Tag Nădejdea credinciosului
 
 1. Să ne bucurăm creştini!

@@ -3,6 +3,7 @@
 @Author Elisha A. Hoffman
 @Composer John H. Stockton
 @Original_Title Down at the Cross
+@Pitch G
 @Tag Adorare - Laudă
 
 1. La cruce, unde Hristos muri,

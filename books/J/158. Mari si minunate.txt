@@ -2,6 +2,7 @@
 @Number 158
 @Composer David Hudson
 @References Apocalipsa 15:3-4
+@Pitch F
 
 1. Mari și minunate-s lucrările Tale,
 Doamne Dumnezeule Atotputernice!

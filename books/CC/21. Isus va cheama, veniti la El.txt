@@ -3,6 +3,7 @@
 @Author George F. Root, adapt. D. Cornilescu
 @Composer George F. Root
 @Original_Title Come to the Savior
+@Pitch Bb
 @Tag Chemare la Domnul Isus
 
 1. Isus vă cheamă: veniţi la El,

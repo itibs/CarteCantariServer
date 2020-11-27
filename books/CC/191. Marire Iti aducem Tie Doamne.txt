@@ -2,6 +2,7 @@
 @Number 191
 @Author Adrien Ladrierre si Louis P. Bolens
 @Composer Melodie traditionala morava
+@Pitch F
 @Tag Adorare - Laudă
 
 1. Mărire îţi aducem Ţie, Doamne,

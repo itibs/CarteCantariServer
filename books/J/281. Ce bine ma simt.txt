@@ -2,6 +2,7 @@
 @Number 281
 @Author Costache Ioanid
 @Composer Olivia Melcescu
+@Pitch Bb
 
 1. Ce bine mă simt când în clipa cea grea,
 aud glasul Tău cum mă cheamă.

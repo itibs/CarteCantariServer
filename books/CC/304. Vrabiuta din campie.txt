@@ -2,6 +2,7 @@
 @Number 304
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch F
 @Tag Natura
 
 1. /: Vrăbiuța din câmpie

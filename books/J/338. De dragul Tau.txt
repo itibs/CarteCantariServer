@@ -2,6 +2,7 @@
 @Number 338
 @Author Monica Turtoi
 @Composer Monica Turtoi
+@Pitch D
 
 1. Învaţă-ne, de dragul Tău, 
 Isus, să ne jertfim. 

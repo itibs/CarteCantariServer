@@ -2,6 +2,7 @@
 @Number 175
 @Author Dinu Onea
 @Composer Dinu Onea
+@Pitch D
 
 Inima mea tânjește după curțile Tale,
 Sufletul meu suspină după-al Tău Locaș,

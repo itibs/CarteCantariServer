@@ -3,6 +3,7 @@
 @Author Michael Ledner
 @Composer Michael Ledner
 @Original_Title You are my hiding place
+@Pitch Am
 
 1. Tu ești cetatea mea,
 Tu ești scăparea mea,

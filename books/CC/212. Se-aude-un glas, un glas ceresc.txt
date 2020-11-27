@@ -1,6 +1,7 @@
 @Title Se-aude-un glas, un glas ceresc
 @Number 212
 @Author adapt. Emil Constantinescu
+@Pitch F
 @Tag Chemare la Domnul Isus
 
 1. Se-aude-un glas, un glas ceresc,

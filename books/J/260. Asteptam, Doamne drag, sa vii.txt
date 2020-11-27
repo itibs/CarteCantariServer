@@ -3,6 +3,7 @@
 @Author Stuart Townend, Keith Getty, adapt. Anca Ciora
 @Composer Stuart Townend, Keith Getty
 @Original_Title Speak, O Lord
+@Pitch C
 
 1. Aşteptăm, Doamne drag, să vii 
 Să aşterni în noi gândul Tău divin, 

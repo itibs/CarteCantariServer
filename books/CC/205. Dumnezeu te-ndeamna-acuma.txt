@@ -2,6 +2,7 @@
 @Number 205
 @Author F. Gaudibert
 @Composer Melodie franceza
+@Pitch F
 @Tag Chemare la Domnul Isus
 
 1. Dumnezeu te-ndeamnă-acuma

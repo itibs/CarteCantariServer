@@ -3,6 +3,7 @@
 @Author adapt. Carmen Gavril
 @Composer Imn tradițional irlandez
 @Original_Title Be Thou my vision
+@Pitch Eb
 
 1. Fii a mea lumină, Părinte ceresc,
 Prin Tine, blând şi curat să trăiesc! 

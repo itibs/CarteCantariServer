@@ -3,6 +3,7 @@
 @Author Frances R. Havergal
 @Composer Ira D. Sankey
 @Original_Title Light After Darkness
+@Pitch D
 @Tag Umblarea (purtarea) credinciosului
 
 1. Isuse, bun Păstor, Tu m-ai păzit;

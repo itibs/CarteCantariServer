@@ -3,6 +3,7 @@
 @Author Bryan Jeffery Leech, adapt. Iulian Teodorescu
 @Composer Bryan Jeffery Leech
 @Original_Title Come share the Lord
+@Pitch F
 
 1. Un Nume scump ne-a adunat,
 Isus Cristos, măreţul Miel glorificat,

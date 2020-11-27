@@ -3,6 +3,7 @@
 @Author Bill Batstone, adapt. Anca Ciora
 @Composer Bill Batstone
 @Original_Title Here I Am
+@Pitch Bb
 
 1. Știu că Tu nu vrei nici jertfe și nici daruri,
 Știu că Tu privești doar la inima mea

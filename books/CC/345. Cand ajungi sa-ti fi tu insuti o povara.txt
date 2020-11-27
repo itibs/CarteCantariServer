@@ -3,6 +3,7 @@
 @Author Costache Ioanid
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 2, cant. 171
+@Pitch C#m
 @Tag Chemare la Domnul Isus
 
 1. Cand ajungi sa-ti fii tu insuti o povara,

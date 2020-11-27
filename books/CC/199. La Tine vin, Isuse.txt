@@ -1,5 +1,6 @@
 @Title La Tine vin, Isuse
 @Number 199
+@Pitch F
 @Tag Predarea
 
 1. La Tine vin, Isuse;

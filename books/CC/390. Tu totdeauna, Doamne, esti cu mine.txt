@@ -3,6 +3,7 @@
 @Author Traian Dorz
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 2, cant. 10
+@Pitch Bm
 @Tag Umblarea (purtarea) credinciosului
 
 1. Tu, totdeauna, Doamne, esti cu mine

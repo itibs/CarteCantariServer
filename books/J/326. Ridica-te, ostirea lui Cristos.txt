@@ -3,6 +3,7 @@
 @Author Stuart Townend, Keith Getty, adapt. Exhipa Jubilate
 @Composer Stuart Townend, Keith Getty
 @Original_Title O Church Arise
+@Pitch Eb
 
 1. Ridică-te, oştirea lui Cristos,
 la chemarea Lui răspunde!

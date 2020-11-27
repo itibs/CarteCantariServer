@@ -2,6 +2,7 @@
 @Number 379
 @Author Daniel Constantinescu
 @Composer Emil Constantinescu
+@Pitch Eb
 @Tag Nădejdea credinciosului
 
 1. In cer eu am o casa

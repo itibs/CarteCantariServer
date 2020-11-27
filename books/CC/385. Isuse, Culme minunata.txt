@@ -2,6 +2,7 @@
 @Number 385
 @Author Traian Dorz
 @Composer Titus C. Adorian
+@Pitch B
 @Tag Domnul Isus și jertfa Lui
 
 1. Isuse, Culme minunata,

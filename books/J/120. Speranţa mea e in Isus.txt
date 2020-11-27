@@ -1,5 +1,9 @@
 @Title Speranţa mea e în Isus
 @Number 120
+@Author Stuart Townend, adapt. Eugenia Posa
+@Composer Keith Getty
+@Original_Title In Christ alone
+@Pitch Eb
 
 1. Speranţa mea e în Isus, 
 far luminos pe calea mea,

@@ -2,6 +2,7 @@
 @Number 50
 @Composer Melody Green
 @Original_Title There is a Redeemer
+@Pitch D
 
 1. Răscumpărătorul, Cel venit de sus,
 Prețiosul Miel, Mesia, 

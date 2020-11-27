@@ -3,6 +3,7 @@
 @Author E. Fred Morris, adapt. Daniel Ciotlăuș
 @Composer E. Fred Morris
 @Original_Title The Lord Bless You
+@Pitch F
 
 1. Domnul vieții vă fie sprijin,
 brațul Lui să vă fie tăria,

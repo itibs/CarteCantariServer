@@ -3,6 +3,7 @@
 @Author Stuart Townend, Keith Getty, adapt. Daniel Suciu, Echipa Jubilate
 @Composer Stuart Townend, Keith Getty
 @Original_Title Benediction (May the Peace)
+@Pitch Bb
 
 1. Pacea Tatălui Preasfânt din ceruri,
 harul Fiului cel înviat

@@ -3,6 +3,7 @@
 @Author Reuben Morgan, adapt. Anonim
 @Composer Reuben Morgan
 @Original_Title Still
+@Pitch C
 
 1. Ține-mă în mâna Ta,
 Să m-ascunzi, întinde-Ți aripa!

@@ -3,6 +3,7 @@
 @Author Florian Guler
 @Composer Iacob Brâncovan
 @References Deuteronom 15:17, Psalmul 40:6a
+@Pitch F
 
 1. Să răstigneşti urechea mea 
 Pe lemnul uşii Tale,

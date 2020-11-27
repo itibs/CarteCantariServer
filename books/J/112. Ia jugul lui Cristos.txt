@@ -2,6 +2,7 @@
 @Number 112
 @Author Traian Dorz
 @Composer Nicolae Moldoveanu
+@Pitch F
 
 1. Ia jugul lui Cristos pe umăr, 
 Și trage lângă El arând, 

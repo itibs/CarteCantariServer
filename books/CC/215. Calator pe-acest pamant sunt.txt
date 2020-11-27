@@ -3,6 +3,7 @@
 @Author Mrs. Maxwell
 @Composer George F. Root
 @Original_Title I'm a Pilgrim
+@Pitch Bb
 @Tag Umblarea (purtarea) credinciosului
 
 1. Călător pe-acest pământ sunt,

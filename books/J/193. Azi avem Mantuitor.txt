@@ -3,6 +3,7 @@
 @Author Anonim
 @Composer Colind tradițional francez
 @Original_Title Il est né, le divin Enfant
+@Pitch F
 
 R: Azi avem Mântuitor, 
 bucurați-vă, popoare!

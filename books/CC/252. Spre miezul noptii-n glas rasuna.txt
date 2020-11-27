@@ -2,6 +2,7 @@
 @Number 252
 @Author Trebollier
 @Composer Johann L. Heinlin
+@Pitch F
 @Tag Venirea Domnului Isus
 
 1. Spre miezul nopţii-un glas răsună viu:

@@ -2,6 +2,7 @@
 @Number 240
 @Author Adi Galiger
 @Composer Adi Galiger
+@Pitch Bb
 
 1. Ai deschis cerul Tău,
 Ai lăsat slava Ta și-ai venit 

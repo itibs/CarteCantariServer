@@ -2,6 +2,7 @@
 @Number 307
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch F
 @Tag Predarea
 
 1. Stapaneste-ma, Isuse,

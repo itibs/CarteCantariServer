@@ -2,6 +2,7 @@
 @Number 185
 @Author latin, sec. al XII-lea, adapt. Valentin Popovici
 @Composer Veni Emanuel, sec. al XV-lea
+@Pitch Em
 
 1. O, vino azi, Emanuel, 
 Răscumpără pe Israel,

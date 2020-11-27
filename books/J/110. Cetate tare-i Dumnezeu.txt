@@ -2,6 +2,7 @@
 @Number 110
 @Author Martin Luther (1483-1546), adapt. Carmen Gavril, Daniel Moțocan, Iulian Teodorescu
 @Composer Martin Luther
+@Pitch C
 
 1. Cetate tare-i Dumnezeu, 
 Puternic Zid de neclintit.

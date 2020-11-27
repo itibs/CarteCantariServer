@@ -3,6 +3,7 @@
 @Author Fred Pratt Green, adapt. Ruben Mureșan, Kenneth Tucker
 @Composer Charles V. Stanford (1852-1924)
 @Original_Title When In Our Music God Is Glorified
+@Pitch G
 
 1. Când Domnul e ‘nălțat de-al nostru cânt
 Și adorarea-alungă-al falei gând,

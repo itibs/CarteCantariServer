@@ -3,6 +3,7 @@
 @Author Philip P. Bliss,
 @Composer Ira D. Sankey / Philip P. Bliss
 @Original_Title The Holy Spirit
+@Pitch C
 @Tag Adorare - Laudă
 
 1. Cerescule Tată, al Tău Nume Sfânt

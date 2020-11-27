@@ -1,6 +1,7 @@
 @Title O, Isuse, Tu, singur, Tu ești vrednic
 @Number 67
 @Author G. F. Godlibert, adapt. D. Cornilescu
+@Pitch A
 @Tag Adorare - Laudă
 
 1. O! Isuse, Tu, Singur Tu eşti vrednic

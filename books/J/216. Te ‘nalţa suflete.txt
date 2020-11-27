@@ -3,6 +3,7 @@
 @Author Charles Wesley (1707-1788), adapt. Iulian Teodorescu
 @Composer Bob Kauflin
 @Original_Title Arise, My Soul, Arise
+@Pitch Bb
 
 1. Te ‘nalţă, suflete, din teamă şi păcat,
 Căci Fiul sfânt pe-altar în locul meu S-a dat.

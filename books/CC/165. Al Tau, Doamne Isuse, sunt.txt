@@ -2,6 +2,7 @@
 @Number 165
 @Author adapt. D. Cornilescu
 @Composer Johann M. Haydn
+@Pitch G
 @Tag Poziția credinciosului
 
 1. Al Tău, Doamne Isuse, sunt,

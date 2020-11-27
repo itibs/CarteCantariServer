@@ -3,6 +3,7 @@
 @Author Alina Bălăceanu
 @Composer Alina Bălăceanu
 @References Apocalipsa 4:2,8,11, 5:9-10,12, 7:10, 11:18, 14:12, 19:7-9, 22:17-20
+@Pitch Em
 
 R: În ceruri e un tron de slavă, har și judecată,
 Acolo închinarea e ca jertfa necurmată.

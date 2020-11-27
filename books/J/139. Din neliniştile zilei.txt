@@ -2,6 +2,7 @@
 @Number 139
 @Author Anonim, adapt. Martha Teodorescu
 @Composer Anonim
+@Pitch F
 
 1. Din neliniştile zilei vin la Tine-acum,
 Doamne, Te rog, dă-mi pacea Ta.

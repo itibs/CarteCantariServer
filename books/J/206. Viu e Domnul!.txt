@@ -3,6 +3,7 @@
 @Author Graham Kendrick, adapt. Daniel Suciu, Echipa Jubilate
 @Composer Graham Kendrick
 @Original_Title In the Tomb So Cold (Christ is Risen)
+@Pitch C
 
 1. În mormântul ca de gheață,
 Moartea L-a culcat,

@@ -2,6 +2,7 @@
 @Number 321
 @Author Traian Dorz
 @Composer Nicolae Moldoveanu
+@Pitch C
 @Tag Pentru copii și tineret
 
 1. Cum va tinea cel tanar

@@ -4,6 +4,7 @@
 @Composer Norbert Kissel
 @Original_Title Lobe den Herrn, meine Seele
 @References Psalmul 103
+@Pitch F
 
 R: Binecuvântă pe Domnul cu tot ce este în tine,
 Suflet, să nu uiți niciuna din ale Lui binefaceri!

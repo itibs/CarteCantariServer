@@ -2,6 +2,7 @@
 @Number 423
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch F
 @Tag Îmbărbătare - mângâiere
 
 1. O, Doamne, doar în Faţa Ta

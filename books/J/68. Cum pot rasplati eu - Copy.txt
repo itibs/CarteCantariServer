@@ -3,6 +3,7 @@
 @Author adapt. Dorin Hnatiuc
 @Composer Anonim
 @Original_Title Con que pagaremos
+@Pitch F
 
 
 1. Cum pot răsplăti eu 

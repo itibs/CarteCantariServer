@@ -3,6 +3,7 @@
 @Author Anna Shipton
 @Composer Ira D. Sankey
 @Original_Title Call Them In
+@Pitch Eb
 @Tag Mântuirea - roadele ei
 
 1. Rătăcit-am multă vreme

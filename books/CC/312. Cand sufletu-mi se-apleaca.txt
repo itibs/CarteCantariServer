@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 3, cant. 338
+@Pitch Em
 @Tag Îmbărbătare - mângâiere
 
 1. Cand sufletu-mi se-apleaca

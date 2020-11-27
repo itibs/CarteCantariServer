@@ -2,6 +2,7 @@
 @Number 297
 @Author Traian Dorz
 @Composer Nicolae Moldoveanu
+@Pitch F
 @Tag Umblarea (purtarea) credinciosului
 
 1. Isuse-al meu Prieten scump,

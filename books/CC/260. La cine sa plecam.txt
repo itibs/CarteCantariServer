@@ -2,6 +2,7 @@
 @Number 260
 @Author Adrien Ladrierre
 @Composer Recital de Francfort, 1817
+@Pitch D
 @Tag Îmbărbătare - mângâiere
 
 1. La cine să plecăm?

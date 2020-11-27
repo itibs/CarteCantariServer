@@ -3,6 +3,7 @@
 @Author Doris Akers, adapt. Iulian Teodorescu
 @Composer Doris Akers
 @Original_Title Sweet, sweet Spirit
+@Pitch F
 
 
 Ce plăcut, ce tainic trup slăvit,

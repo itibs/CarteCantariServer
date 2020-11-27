@@ -2,6 +2,7 @@
 @Number 146
 @Author Nicolas L. Zinzendorf
 @Composer Melodie traditionala moraviana
+@Pitch C
 @Tag Rugăciune
 
 1. O! Doamne, Te rugăm să ne sfinţeşti Tu

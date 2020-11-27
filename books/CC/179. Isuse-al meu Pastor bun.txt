@@ -3,6 +3,7 @@
 @Author Julie Hausmann
 @Composer Philipp F. Slicher
 @Original_Title O, Take My Hand, Dear Father
+@Pitch Eb
 @Tag Mântuirea - roadele ei
 
 1. Isuse-al meu Păstor bun, la Tine vin,

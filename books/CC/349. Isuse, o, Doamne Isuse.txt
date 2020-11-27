@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 6, cant. 155
+@Pitch F#m
 @Tag Mântuirea - roadele ei
 
 1. Isuse, o, Doamne Isuse

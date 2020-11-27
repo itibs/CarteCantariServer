@@ -2,6 +2,7 @@
 @Number 3
 @Author Claudia Morar
 @Composer Claudia Morar
+@Pitch Dm
 
 1. Te voi lăuda, Domnul meu,
 Tată Sfânt, Dumnezeu,

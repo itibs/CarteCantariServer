@@ -3,6 +3,7 @@
 @Author DeWitt C. Huntington
 @Composer Tullius C. O'Kane
 @Original_Title The Home Over There
+@Pitch G
 @Tag Nădejdea credinciosului
 
 1. În cerul frumos de nespus,

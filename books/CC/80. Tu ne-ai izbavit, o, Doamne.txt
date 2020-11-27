@@ -3,6 +3,7 @@
 @Author Philip P. Bliss, 1870
 @Composer Philip P. Bliss
 @Original_Title Hold the Fort
+@Pitch C
 @Tag Mântuirea - roadele ei
 
 1. Tu ne-ai izbăvit, o! Doamne,

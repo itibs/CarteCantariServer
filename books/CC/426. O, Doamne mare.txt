@@ -3,6 +3,7 @@
 @Author Stuart K. Hine
 @Composer Stuart K. Hine
 @Original_Title How Great Thou Art
+@Pitch A
 @Tag Adorare - Laudă
 
 1. O, Doamne Mare, când privesc eu lumea,

@@ -1,5 +1,6 @@
 @Title Tu-mi ești comoară-n cerul sfânt
 @Number 140
+@Pitch D
 @Tag Mântuirea - roadele ei
 
 1. Tu mi-eşti comoară-n cerul sfânt

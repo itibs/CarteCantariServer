@@ -3,6 +3,7 @@
 @Author Charles F. Brown, adapt. Carmen Gavril
 @Composer Charles Gabriel
 @Original_Title To be God's people
+@Pitch Eb
 
 1. Preabun Părinte, ne dă lumină!
 Fă-ne Tu o punte către cei pierduţi!

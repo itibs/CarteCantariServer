@@ -1,5 +1,6 @@
 @Title Cin' pe cerul cel albastru?
 @Number 134
+@Pitch F
 @Tag Natura
 
 1. Cin’ pe cerul cel albastru

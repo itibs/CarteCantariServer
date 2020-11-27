@@ -2,6 +2,7 @@
 @Number 42
 @Composer B. B. McKinney
 @Original_Title For me
+@Pitch Gm
 
 1. Singur, îndurerat,
 Purtând blestemul greu,

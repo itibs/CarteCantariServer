@@ -1,5 +1,6 @@
 @Title Cu Domnul meu nu-mi va fi greu
 @Number 357
+@Pitch F
 @Tag Îmbărbătare - mângâiere
 
 1. Cu Domnul meu nu-mi va fi greu

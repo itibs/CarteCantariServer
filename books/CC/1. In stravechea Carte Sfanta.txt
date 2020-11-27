@@ -3,6 +3,7 @@
 @Author Robert Lowry, adapt. Iacob Negruzzi
 @Composer R. Lowry
 @Original_Title Shall We Gather at the River?
+@Pitch D
 @Tag Cuvântul lui Dumnezeu
 
 1. În străvechea Carte Sfântă,

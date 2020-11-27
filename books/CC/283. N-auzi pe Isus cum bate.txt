@@ -1,5 +1,6 @@
 @Title N-auzi pe Isus cum bate
 @Number 283
+@Pitch B
 @Tag Chemare la Domnul Isus
 
 1. N-auzi pe Isus cum bate?

@@ -3,6 +3,7 @@
 @Author Sophie Conty, Naomi Batya
 @Composer Sophie Conty, Naomi Batya
 @Original_Title King of kings
+@Pitch Em
 
 1. Rege-al regilor, Domn al domnilor,
 Glorie, Aleluia!

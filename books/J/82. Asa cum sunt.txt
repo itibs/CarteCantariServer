@@ -3,6 +3,7 @@
 @Author Charlotte Elliott, 1834, adapt. Carmen Gavril
 @Composer Bob Kauflin
 @Original_Title Just as I am
+@Pitch C
 
 1. Așa cum sunt plin de păcat,
 Cu suflet frânt și-nsingurat,

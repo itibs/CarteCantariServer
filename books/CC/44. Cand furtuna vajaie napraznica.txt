@@ -3,6 +3,7 @@
 @Author Johnson Oatman Jr. , adapt. D. Cornilescu
 @Composer Edwin O. Excell
 @Original_Title Count Your Blessings
+@Pitch D
 @Tag Îmbărbătare - mângâiere
 
 1. Când furtuna vâjâie năpraznică

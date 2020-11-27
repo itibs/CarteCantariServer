@@ -3,6 +3,7 @@
 @Author Stuart Townend, Keith Getty, adapt. Eugenia Posa, Onisim Mladin
 @Composer Stuart Townend, Keith Getty
 @Original_Title Joy Has Dawned
+@Pitch F
 
 1. Mare bucurie azi din înalt coboară, 
 Vine­-al mântuirii dar, inimii comoară!

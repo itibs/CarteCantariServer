@@ -3,6 +3,7 @@
 @Author Graham Kendrick, adapt. Anonim
 @Composer Graham Kendrick
 @Original_Title Knowing You
+@Pitch C
 
 1. Tot ce-aveam mai bun pe acest pământ,
 doar un fum era, purtat de vânt.

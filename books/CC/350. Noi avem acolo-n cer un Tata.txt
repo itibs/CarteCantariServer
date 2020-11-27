@@ -3,6 +3,7 @@
 @Author Costache Ioanid
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 5, cant. 236
+@Pitch D
 @Tag Dumnezeu
 
 1. Noi avem acolo-n cer un Tata

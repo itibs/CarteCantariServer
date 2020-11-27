@@ -3,6 +3,7 @@
 @Author Eliza H. Hamilton, adapt. D. Cornilescu
 @Composer Ira D. Sankey
 @Original_Title Take Me as I Am
+@Pitch D
 @Tag Predarea
 
 1. Isuse, n-am ce să-Ţi aduc

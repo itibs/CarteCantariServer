@@ -3,6 +3,7 @@
 @Author Ed Cash, Chris Tomlin, Jessee Reves, adapt. Anonim
 @Composer Ed Cash, Chris Tomlin, Jessee Reves
 @Original_Title How Great Is Our God
+@Pitch A
 
 1. Splendoare de-mpărat, în slavă îmbrăcat, 
 Pământul va cânta, pământul va cânta, 

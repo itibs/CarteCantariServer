@@ -3,6 +3,7 @@
 @Author Chris Pearse, adapt. Ruben Mureșan
 @Composer Chris Pearse
 @Original_Title Hallelujah, Christ is Risen
+@Pitch G
 
 Vocea 1
 /: Aleluia! Domnu-i Rege!

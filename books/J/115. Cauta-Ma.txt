@@ -2,6 +2,7 @@
 @Number 115
 @Author Augustin Roșian
 @Composer Anonim
+@Pitch C
 
 1. “Caută-Mă, caută-Mă,
 Caută-Mă” zice azi Dumnezeu.

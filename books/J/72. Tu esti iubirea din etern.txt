@@ -2,6 +2,7 @@
 @Number 72
 @Author Costache Ioanid
 @Composer Melodie tradițională românească
+@Pitch D
 
 
 1. Tu ești iubirea din etern,

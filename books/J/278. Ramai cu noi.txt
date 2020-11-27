@@ -3,6 +3,7 @@
 @Author Sabina Micaela Cuculea
 @Composer Sabina Micaela Cuculea
 @References Luca 24:29-32
+@Pitch C
 
 /: Rămâi cu noi, căci este spre seară
 Și ziua aproape a trecut.

@@ -3,6 +3,7 @@
 @Author W. Hunter
 @Composer J. H. Stockton
 @Original_Title The Great Physician
+@Pitch D
 @Tag Venirea Domnului Isus
 
 1. Se-apropie Isus acum,

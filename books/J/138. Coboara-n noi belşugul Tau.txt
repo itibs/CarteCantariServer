@@ -3,6 +3,7 @@
 @Author Michael Card, adapt. Iulian Teodorescu
 @Composer Michael Card
 @Original_Title Barocha
+@Pitch Eb
 
 1. Coboară-n noi belşugul Tău,
 Privirea-Ţi să ne ardă.

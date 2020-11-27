@@ -2,6 +2,7 @@
 @Number 126
 @Author adapt. D. Cornilescu
 @Composer Charles Chatelanat
+@Pitch D
 @Tag Nădejdea credinciosului
 
 1. O Doamne, cu Tine, Tu vrei să ne ai

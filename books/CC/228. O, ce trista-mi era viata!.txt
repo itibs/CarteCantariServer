@@ -1,5 +1,6 @@
 @Title O, ce tristă-mi era viața!
 @Number 228
+@Pitch D
 @Tag Mântuirea - roadele ei
 
 1. O, ce tristă mi-era viaţa Fără Dumnezeu!

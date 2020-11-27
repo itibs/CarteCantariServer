@@ -4,6 +4,7 @@
 @Composer Anonim
 @Original_Title Create in me a clean heart
 @References Psalmul 51:10-12
+@Pitch F
 
 1. Zidește în mine o inimă curată,
 Dumnezeule,

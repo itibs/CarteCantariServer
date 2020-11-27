@@ -3,6 +3,7 @@
 @Author Tim Chester, Bob Kauflin, adapt. Daniel Suciu, Echipa Jubilate
 @Composer Tim Chester, Bob Kauflin
 @Original_Title Come Praise and Glorify
+@Pitch Bb
 
 1. Glorificați pe Dumnezeu, 
 Pe Tatăl lui Isus!

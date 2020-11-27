@@ -4,6 +4,7 @@
 @Composer Elisheva Shomron
 @Original_Title Kadosh (Holy)
 @References Apocalipsa 4:8
+@Pitch Am
 
 1. /: Kadoș! Kadoș, Kadoș!
 Kadoș! Kadoș, Kadoș!

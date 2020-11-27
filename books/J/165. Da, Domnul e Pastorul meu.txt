@@ -4,6 +4,7 @@
 @Composer Melodie tradițională americană
 @Original_Title My Shepherd Will Supply My Need
 @References Psalmul 23
+@Pitch C
 
 1. Da, Domnul e Păstorul meu, 
 El poartă grija mea,

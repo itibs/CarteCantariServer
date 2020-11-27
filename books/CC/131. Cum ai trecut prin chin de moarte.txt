@@ -2,6 +2,7 @@
 @Number 131
 @Author Berthelemy Bastie
 @Composer Recital de Freylinghausen, 1700
+@Pitch G
 @Tag Frângerea pâinii
 
 1. Cum ai trecut prin chin de moarte,

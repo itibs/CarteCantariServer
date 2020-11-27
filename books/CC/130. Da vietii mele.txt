@@ -3,6 +3,7 @@
 @Author Philip P. Bliss, 1873
 @Composer Philip P. Bliss
 @Original_Title More Holiness Give Me
+@Pitch D
 @Tag Rugăciune
 
 1. Dă vieţii mele mai multă sfinţire!

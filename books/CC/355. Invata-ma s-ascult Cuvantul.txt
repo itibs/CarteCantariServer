@@ -2,6 +2,7 @@
 @Number 355
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch D
 @Tag Cuvântul lui Dumnezeu
 
 1. Invata-ma sa-ascult Cuvantul,

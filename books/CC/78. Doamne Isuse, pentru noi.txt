@@ -3,6 +3,7 @@
 @Author Philip P. Bliss, 1874
 @Composer Philip P. Bliss
 @Original_Title Wonderful Words of Life
+@Pitch F
 @Tag Adorare - Laudă
 
 1. Doamne Isuse, pentru noi

@@ -3,6 +3,7 @@
 @Author Wayne Perrin, Cathy Perrin, adapt. Carmen Gavril
 @Composer Wayne Perrin, Cathy Perrin
 @Original_Title When I look into your holiness
+@Pitch C
 
 
 1. Când spre Tine îmi întorc privirea

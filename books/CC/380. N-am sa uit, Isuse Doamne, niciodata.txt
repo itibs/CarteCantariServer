@@ -2,6 +2,7 @@
 @Number 380
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch D
 @Tag Umblarea (purtarea) credinciosului
 
 1. N-am sa uit, Isuse Doamne, niciodata

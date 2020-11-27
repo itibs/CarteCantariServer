@@ -3,6 +3,7 @@
 @Author Traian Dorz
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 4, cant. 389
+@Pitch Bb
 @Tag Nădejdea credinciosului
 
 1. Nu se poate sa nu fie

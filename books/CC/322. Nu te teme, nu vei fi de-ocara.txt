@@ -2,6 +2,7 @@
 @Number 322
 @Author Traian Dorz
 @Composer Nicolae Moldoveanu
+@Pitch D
 @Tag Îmbărbătare - mângâiere
 
 1. “Nu te teme, nu vei fi de-ocara,

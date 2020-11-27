@@ -3,6 +3,7 @@
 @Author Alfred Ackley
 @Composer Alfred Ackley
 @Original_Title He lives
+@Pitch Ab
 
 1. Slujesc pe Salvatorul, 
 Pe Cel ce-a înviat.

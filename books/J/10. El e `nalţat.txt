@@ -3,6 +3,7 @@
 @Author Twila Paris
 @Composer Twila Paris
 @Original_Title He is exalted
+@Pitch F
 
 1. El e `nălţat, Împăratul divin e `nălţat, 
 Îl voi lăuda!

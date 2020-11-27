@@ -3,6 +3,7 @@
 @Author Stuart Townend, adapt. Carmen Gavril
 @Composer Stuart Townend
 @Original_Title How deep the Father's love for us
+@Pitch F
 
 1. Iubirea-adâncă-a Tatălui
 Nimic nu o măsoară,

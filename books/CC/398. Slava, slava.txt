@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 4, cant. 1
+@Pitch F
 @Tag Adorare - Laudă
 
 1. Slava, slava!

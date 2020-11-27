@@ -3,6 +3,7 @@
 @Author William Himes, adapt. Echipa Jubilate
 @Composer William Himes
 @Original_Title All That I am
+@Pitch G
 
 R: Ia tot ce sunt și ce pot fi,
 Ia tot ce am și ce voi deveni,

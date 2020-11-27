@@ -1,6 +1,7 @@
 @Title Făr' Isus nu pot trăi eu
 @Number 40
 @Author D. Cornilescu
+@Pitch G
 @Tag Mântuirea - roadele ei
 
 1. Făr-lsus nu pot trăi eu,

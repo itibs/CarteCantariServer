@@ -3,6 +3,7 @@
 @Author Isaac Watts
 @Composer English Melody
 @Original_Title Happy Is He That Fears the Lord ?
+@Pitch F
 @Tag Umblarea (purtarea) credinciosului
 
 1. Fraţi, să luăm seama, să nu fim numai

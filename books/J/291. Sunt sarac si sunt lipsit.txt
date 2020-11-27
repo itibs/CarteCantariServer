@@ -3,6 +3,7 @@
 @Author Iacob Brâncovan
 @Composer Iacob Brâncovan
 @References Psalmul 40:17
+@Pitch Dm
 
 /: Sunt sărac şi sunt lipsit, 
 Doamne Dumnezeu, 

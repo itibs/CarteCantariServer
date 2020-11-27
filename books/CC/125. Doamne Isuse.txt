@@ -3,6 +3,7 @@
 @Author Imn german anonim, Munster Gesangbuch, 1677
 @Composer Schlesische Volkslieder, 1842 / arr. R. S. Willis
 @Original_Title Fairest Lord Jesus
+@Pitch D
 @Tag Domnul Isus și jertfa Lui
 
 1. Doamne Isuse,

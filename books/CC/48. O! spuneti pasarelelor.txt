@@ -1,5 +1,6 @@
 @Title O! spuneți păsărelelor
 @Number 48
+@Pitch F
 @Tag Natura
 
 1. O! spuneţi păsărelelor,

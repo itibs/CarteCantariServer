@@ -3,6 +3,7 @@
 @Author I. Nicola
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 18, cant. 154
+@Pitch D
 @Tag Mântuirea - roadele ei
 
 1. Sunt un bulgar de nimic,

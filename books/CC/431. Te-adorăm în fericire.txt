@@ -3,6 +3,7 @@
 @Author Henry van Dyke
 @Composer Ludwig van Beethoven
 @Original_Title Joyful, Joyful, We Adore Thee
+@Pitch G
 
 1. Te-adorăm în fericire,
 Domn al gloriei cereşti,

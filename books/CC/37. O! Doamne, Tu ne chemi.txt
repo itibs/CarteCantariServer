@@ -1,5 +1,6 @@
 @Title O! Doamne, Tu ne chemi
 @Number 37
+@Pitch G
 @Tag Lucrul Domnului
 
 1. O! Doamne, Tu ne chemi

@@ -2,6 +2,7 @@
 @Number 396
 @Author Traian Dorz
 @Composer Nicolae Moldoveanu
+@Pitch E
 @Tag Mântuirea - roadele ei
 
 1. Minunata-i noaptea sfanta,

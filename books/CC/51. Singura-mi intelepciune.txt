@@ -2,6 +2,7 @@
 @Number 51
 @Author Ch. Wesley, adapt. D. Cornilescu
 @Composer E. Gebhardt / Ethelbert W. Bullinger
+@Pitch G
 @Tag Poziția credinciosului
 
 1. Singura-mi înţelepciune

@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 6, cant. 263
+@Pitch F
 @Tag Adorare - Laudă
 
 1. Dumnezeul laudei mele, Te laud,

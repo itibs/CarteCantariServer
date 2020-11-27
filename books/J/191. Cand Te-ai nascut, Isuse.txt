@@ -3,6 +3,7 @@
 @Author Traian Dorz
 @Composer Samuel S. Wesley (1810-1876)
 @Original_Title The Church's One Foundation
+@Pitch D
 
 1. Când Te-ai născut, Isuse, și îngerii de Sus
 cântarea minunată a Păcii ne-au adus,

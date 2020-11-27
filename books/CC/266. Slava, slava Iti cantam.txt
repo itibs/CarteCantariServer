@@ -3,6 +3,7 @@
 @Author Christian F. Gellert
 @Composer Johann Cruger
 @Original_Title Jesus Lives, and So Shall I
+@Pitch B
 @Tag Adorare - Laudă
 
 1. „Slavă! Slavă!" Îţi cântăm

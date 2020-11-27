@@ -2,6 +2,7 @@
 @Number 352
 @Author Traian Dorz
 @Composer Nicolae Moldoveanu
+@Pitch F
 @Tag Îmbărbătare - mângâiere
 
 1. Sa te-asculte Domnu-n ziua

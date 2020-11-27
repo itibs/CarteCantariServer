@@ -1,5 +1,6 @@
 @Title Isus, pe cruce, răstignit e
 @Number 429
+@Pitch Cm
 @Tag Chemare la Domnul Isus
 
 1. Isus, pe cruce, atârnat e,

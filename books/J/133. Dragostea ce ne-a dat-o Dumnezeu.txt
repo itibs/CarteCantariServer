@@ -3,6 +3,7 @@
 @Author James M. Gilbert
 @Composer James M. Gilbert
 @Original_Title I love you with the love of the Lord
+@Pitch E
 
 1. /: Dragostea ce ne-a dat-o Dumnezeu
    Se arată prin tine, dragul meu,

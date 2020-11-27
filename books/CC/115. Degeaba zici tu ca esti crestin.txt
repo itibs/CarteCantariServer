@@ -1,5 +1,6 @@
 @Title Degeaba zici tu că ești creștin
 @Number 115
+@Pitch F
 @Tag Mustrare
 
 1. Degeaba zici tu că

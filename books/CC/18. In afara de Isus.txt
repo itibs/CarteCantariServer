@@ -2,6 +2,7 @@
 @Number 18
 @Author Ch. Rochedieu, adapt. D. Cornilescu
 @Composer R. Harkness
+@Pitch D
 @Tag Chemare la Domnul Isus
 
 1. În afară de Isus,

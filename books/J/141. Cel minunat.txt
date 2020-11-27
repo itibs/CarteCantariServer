@@ -3,6 +3,7 @@
 @Author Dawn Rodgers, Eric Wyse, adapt. Carmen Gavril
 @Composer Dawn Rodgers, Eric Wyse
 @Original_Title Wonderful, Merciful Savior
+@Pitch C
 
 1. Cel minunat, Salvatorul, 
 sfântul Prieten şi Domn,

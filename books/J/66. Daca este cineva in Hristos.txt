@@ -2,6 +2,7 @@
 @Number 66
 @Composer Daniel Hossu Longyne
 @References 2 Corinteni 5:17
+@Pitch C
 
 
 Dacă este cineva în Hristos,

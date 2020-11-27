@@ -2,6 +2,7 @@
 @Number 257
 @Author Charles F. Recordon
 @Composer Henry A. Cesar Malan
+@Pitch D
 @Tag Adorare - Laudă
 
 1. Fraţi, să cântăm voioşi,

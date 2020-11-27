@@ -3,6 +3,7 @@
 @Author Philip P. Bliss (1838-1876), adapt. Daniel Filipaș
 @Composer Aaron Coffey
 @Original_Title I Will Sing of My Redeemer
+@Pitch C
 
 1. Voi cânta un imn de slavă,
 Domnul m-a răscumpărat!

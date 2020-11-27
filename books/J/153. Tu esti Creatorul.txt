@@ -2,6 +2,7 @@
 @Number 153
 @Author Nelu Vlașin
 @Composer Nelu Vlașin
+@Pitch F
 
 1. Tu ești Creatorul universului întreg,
 Tu ești început și întregire tuturor.

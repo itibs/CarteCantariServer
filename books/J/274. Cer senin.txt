@@ -2,6 +2,7 @@
 @Number 274
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch D
 
 1. Cer senin, cer senin,
 plin ești de lumină, plin,

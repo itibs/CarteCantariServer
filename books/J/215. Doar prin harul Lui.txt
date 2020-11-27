@@ -3,6 +3,7 @@
 @Author Scott Wesley Brown, Jeff Nelson, adapt. Daniel Suciu, Echipa Jubilate
 @Composer Scott Wesley Brown, Jeff Nelson
 @Original_Title Grace Alone
+@Pitch C
 
 1. Orice noi făgăduim, 
 Orice rugă ce rostim,

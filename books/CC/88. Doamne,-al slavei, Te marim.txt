@@ -3,6 +3,7 @@
 @Author John Keble
 @Composer Katholisches Gesangbuch, Vienna, 1774
 @Original_Title Sun of My Soul
+@Pitch F
 @Tag Adorare - Laudă
 
 1. Doamne-al slavei, Te mărim,

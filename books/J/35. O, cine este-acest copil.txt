@@ -3,6 +3,7 @@
 @Author William C. Dix, 1837-1898, adapt. Teodor Caciora
 @Composer Melodie tradițională englezească
 @Original_Title Greensleves / What Child is this?
+@Pitch Em
 
 1. O, cine este-acest copil
 Culcat pe paie-n iesle,

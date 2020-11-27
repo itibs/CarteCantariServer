@@ -3,6 +3,7 @@
 @Author V. A. White
 @Composer J. C. H. si V. A. White
 @Original_Title Never Alone (White)
+@Pitch Bb
 @Tag Îmbărbătare - mângâiere
 
 1. „De nimic nu te teme!

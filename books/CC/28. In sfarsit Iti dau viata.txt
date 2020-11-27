@@ -3,6 +3,7 @@
 @Author Adèle Pélaz, adapt. D. Cornilescu
 @Composer Adèle Pélaz
 @Original_Title Ma vie enfin je te donne
+@Pitch A
 @Tag Primirea Domnului Isus - Întoarcerea la Dumnezeu
 
 1. În sfârşit, Îţi dau viaţa

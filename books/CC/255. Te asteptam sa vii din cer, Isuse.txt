@@ -2,6 +2,7 @@
 @Number 255
 @Author Henry A. Cesar Malan
 @Composer Henry A. Cesar Malan
+@Pitch C
 @Tag Nădejdea credinciosului
 
 1. Te aşteptăm să vii din cer, Isuse!

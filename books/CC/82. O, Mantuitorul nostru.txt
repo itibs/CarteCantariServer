@@ -2,6 +2,7 @@
 @Number 82
 @Author Mlle A. Humbert, adapt. D. Cornilescu
 @Composer M. Russel
+@Pitch Eb
 @Tag Adorare - Laudă
 
 1. O! Mântuitorul nostru,

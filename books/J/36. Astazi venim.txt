@@ -3,6 +3,7 @@
 @Author Imn latin atribuit lui John Francis Wade, adapt. Ovidiu Niculaș
 @Composer John Francis Wade
 @Original_Title Adeste Fideles
+@Pitch G
 
 1. Astăzi venim toți, cu bucurie,
 La Betleem să ne închinăm.

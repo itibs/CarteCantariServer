@@ -3,6 +3,7 @@
 @Author E. R. Latta
 @Composer H. S. Perkins
 @Original_Title Blessed Be the Fountain
+@Pitch C
 @Tag Mântuirea - roadele ei
 
 1. Domnul a-nviat şi, prin El,

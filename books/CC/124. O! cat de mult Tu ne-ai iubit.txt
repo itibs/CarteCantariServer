@@ -2,6 +2,7 @@
 @Number 124
 @Author Abel Deschamps
 @Composer Abel Deschamps
+@Pitch G
 @Tag Mântuirea - roadele ei
 
 1. O! cât de mult Tu ne-ai iubit,

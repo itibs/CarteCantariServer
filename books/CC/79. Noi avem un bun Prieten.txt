@@ -3,6 +3,7 @@
 @Author Marianne Nunn, adapt. D. Cornilescu
 @Composer Richard W. Beaty
 @Original_Title Text:One There Is Above All Others, O, How He Loves
+@Pitch D
 @Tag Mântuirea - roadele ei
 
 1. Noi avem un bun Prieten

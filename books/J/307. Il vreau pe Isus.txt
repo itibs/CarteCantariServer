@@ -3,6 +3,7 @@
 @Author Anonim, adapt. Abenone Burtescu
 @Composer Melodie tradițională afro-americană
 @Original_Title Give Me Jesus
+@Pitch Bb
 
 1. După noaptea ce-a trecut, 
 la al zilei început,

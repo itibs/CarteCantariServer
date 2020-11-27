@@ -3,6 +3,7 @@
 @Author Graham Kendrick, adapt. Carmen Gavril, Iulian Teodorescu
 @Composer Graham Kendrick
 @Original_Title Meekness and majesty
+@Pitch C
 
 1. Rege și Rob smerit, Sfânt Slujitor mărit,
 Din slăvi cerești venind 

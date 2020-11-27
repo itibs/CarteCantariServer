@@ -2,6 +2,7 @@
 @Number 219
 @Author Monica Turtoi
 @Composer Monica Turtoi
+@Pitch D
 
 1. De n-ai fi coborât din slavă 
 Şi nu Te-ai fi-mbrăcat în lut,

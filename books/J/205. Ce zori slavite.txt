@@ -3,6 +3,7 @@
 @Author Stuart Townend, Keith Getty, adapt. Echipa Jubilate
 @Composer Stuart Townend, Keith Getty
 @Original_Title Resurrection Hymn (See What a Morning)
+@Pitch D
 
 1. Ce zori slăvite! Ce străluciri, 
 Când nădejdea răsare-­n Ierusalim! 

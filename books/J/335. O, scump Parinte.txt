@@ -2,6 +2,7 @@
 @Number 335
 @Author Marian Fedur
 @Composer Marian Fedur
+@Pitch D
 
 1. O, scump Părinte, din slăvi divine
 Ascultă-mi ruga, primeşte-mi darul!

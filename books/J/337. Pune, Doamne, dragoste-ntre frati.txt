@@ -2,6 +2,7 @@
 @Number 337
 @Author Costache Ioanid
 @Composer Irina Halaida
+@Pitch D
 
 R: Pune, Doamne, dragoste-­ntre fraţi,
 Pune, Doamne, dragoste-­ntre fraţi. 

@@ -2,6 +2,7 @@
 @Number 218
 @Author Valentin Popovici
 @Composer Mihai Damian
+@Pitch F
 
 1. Mă-ntrebi: ce e harul? 
 E-o sfântă minune, 

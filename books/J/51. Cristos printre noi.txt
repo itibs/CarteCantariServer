@@ -3,6 +3,7 @@
 @Author Graham Kendrick, adapt. Iulian Teodorescu
 @Composer Graham Kendrick
 @Original_Title For this purpose
+@Pitch D
 
 1. Printre noi Cristos a venit,
 Nimicind lucrarea Celui rău.

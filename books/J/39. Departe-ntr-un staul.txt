@@ -2,6 +2,7 @@
 @Number 39
 @Author adapt. Benone Burtescu
 @Composer William Kirkpatrick, 1895
+@Pitch G
 
 1. Departe-ntr-un staul de nimeni știut
 La vremea-mplinită, Isus S-a născut,

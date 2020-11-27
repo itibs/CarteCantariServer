@@ -2,6 +2,7 @@
 @Number 294
 @Author Alina Bălăceanu
 @Composer Alina Bălăceanu
+@Pitch F
 
 1. Când eu nu mai pot, mă apasă tot,
 Tu îmi spui să privesc la Tine,

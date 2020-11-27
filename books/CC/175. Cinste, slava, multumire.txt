@@ -2,6 +2,7 @@
 @Number 175
 @Author Recital in Reveil
 @Composer Jakob M. Beer
+@Pitch D
 @Tag Adorare - Laudă
 
 1. Cinste, slavă, mulţumire,

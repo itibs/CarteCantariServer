@@ -3,6 +3,7 @@
 @Author W. Williams
 @Composer Wm. L. Viner
 @Original_Title Gracious Savior, Gentle Sheperd (cuvinte Jane E. Leeson)
+@Pitch G
 @Tag Mântuirea - roadele ei
 
 1. O! Isuse, altădată

@@ -2,6 +2,7 @@
 @Number 333
 @Author Monica Turtoi
 @Composer Monica Turtoi
+@Pitch A
 
 1. Mai aleasă ca un vis ce-n zori apune,
 Mai curată ca al crinilor veşmânt

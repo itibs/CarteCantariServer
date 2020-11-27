@@ -1,5 +1,6 @@
 @Title Doamne Dumnezeul nostru
 @Number 213
+@Pitch F
 @Tag Dumnezeu
 
 1. Doamne, Dumnezeul nostru,

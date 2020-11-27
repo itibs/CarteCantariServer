@@ -2,6 +2,7 @@
 @Number 61
 @Author Imn anonim german, adapt. Jenny Scheel
 @Composer Schleisiche Volkslieder
+@Pitch Eb
 
 1. Doamne Isuse, toate-Ți sunt supuse,
 Singur Fiu de Dumnezeu,

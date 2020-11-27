@@ -3,6 +3,7 @@
 @Author William Rees (1802-1883) - str. 1, 2, William Williams (1717-1791) - str. 3, 4, adapt. Daniel Suciu, Echipa Jubilate
 @Composer Robert Lowry (1826-1899)
 @Original_Title Here is Love
+@Pitch G
 
 1. Ce oceane de iubire 
 se revarsă ne-ncetat

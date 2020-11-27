@@ -2,6 +2,7 @@
 @Number 285
 @Author Anne Steele
 @Composer Melodie ruseasca, 1875
+@Pitch G
 @Tag Îmbărbătare - mângâiere
 
 1. Atât timp cât trăieşte

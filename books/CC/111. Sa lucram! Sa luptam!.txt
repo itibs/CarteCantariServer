@@ -3,6 +3,7 @@
 @Author Fanny J. Crosby
 @Composer W. Howard Doane
 @Original_Title To the Work
+@Pitch E
 @Tag Lucrul Domnului
 
 1. Să lucrăm! Să luptăm

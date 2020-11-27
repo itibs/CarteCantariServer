@@ -3,6 +3,7 @@
 @Author Valdimar Briem / adapt. Emil Constantinescu
 @Composer Andreas P. Berggreen
 @Original_Title Lord, Let Thy Spirit
+@Pitch D
 @Tag Mântuirea - roadele ei
 
 1. Isuse scump, izvoru-oricărui bine

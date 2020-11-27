@@ -1,6 +1,7 @@
 @Title În cer noi mergem ca acas’
 @Number 34
 @Author adaptare D. Cornilescu
+@Pitch D
 @Tag Chemare la Domnul Isus
 
 1. În cer noi mergem ca acas';

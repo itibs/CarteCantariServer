@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 7, cant. 187
+@Pitch Am
 @Tag Îmbărbătare - mângâiere
 
 1. Noi greşim în multe feluri,

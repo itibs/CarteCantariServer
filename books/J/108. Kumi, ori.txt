@@ -2,6 +2,7 @@
 @Number 108
 @Composer Batya Segal
 @References Isaia 60:1-2
+@Pitch Fm
 
 /: Kumi, ori, ki ba oreh
 Uhvod Adonai alaih zarah. :/

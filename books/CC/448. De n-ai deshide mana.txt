@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 5, cant. 162
+@Pitch F#m
 @Tag Îmbărbătare - mângâiere
 
 1. De n-ai deschide mâna,

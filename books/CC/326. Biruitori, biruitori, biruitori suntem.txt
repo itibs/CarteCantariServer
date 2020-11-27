@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 4, cant. 122
+@Pitch Dm
 @Tag Biruința creștinului
 
 1. Biruitori, biruitori, biruitori suntem

@@ -1,5 +1,6 @@
 @Title Peste Tine-a fost blestemul
 @Number 14
+@Pitch D
 @Tag Domnul Isus și jertfa Lui
 
 1. Peste Tine-a fost blestemul

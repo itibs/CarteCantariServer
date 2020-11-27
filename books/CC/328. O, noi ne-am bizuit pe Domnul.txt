@@ -2,6 +2,7 @@
 @Number 328
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch F
 @Tag Biruința creștinului
 
 1. O, noi ne-am bizuit pe Domnul!

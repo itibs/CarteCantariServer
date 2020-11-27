@@ -3,6 +3,7 @@
 @Author Mike Norman, Mike Little, adapt. Lucian Hord
 @Composer Mike Norman, Mike Little
 @Original_Title Jesus, How I love Your Name
+@Pitch F
 
 1. Isus, vin să mă închin!
 Vreau să-Ți cânt „Slavă!”

@@ -2,6 +2,7 @@
 @Number 267
 @Author Iacob Brâncovan, Kenneth Tucker, Eduard Grigoriciuc
 @Composer Iacob Brâncovan
+@Pitch D
 
 1. Când slujesc ‘naintea Ta, 
 Să Te vezi doar Tu.

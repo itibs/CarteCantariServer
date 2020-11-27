@@ -2,6 +2,7 @@
 @Number 63
 @Author Traian Dorz, adaptată
 @Composer Melodie tradițională americană
+@Pitch Gb
 
 1. Iubirea lui Cristos în noi
 Tot ce e dor și sete-alină.

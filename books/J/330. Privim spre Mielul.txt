@@ -3,6 +3,7 @@
 @Author Keith Getty, Stuart Townend, adapt. Cristian Coțovan, Kenneth Tucker
 @Composer Keith Getty, Stuart Townend
 @Original_Title Behold the Lamb (The Communion Song)
+@Pitch C
 
 1. Privim spre Mielul ce păcatele le-a purtat 
 şi ne-amintim: 

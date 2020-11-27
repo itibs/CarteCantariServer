@@ -3,6 +3,7 @@
 @Author Anna B. Warner, altered
 @Composer William B. Bradbury
 @Original_Title Jesus Loves Me
+@Pitch D
 @Tag Pentru copii și tineret
 
 1. Pe copii Domnul Isus

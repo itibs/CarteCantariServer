@@ -2,6 +2,7 @@
 @Number 436
 @Author Costache Ioanid
 @Composer Nicolae Moldoveanu
+@Pitch E
 @Tag Pentru copii și tineret
 
 1. Tineri dragi, aleşi de Domnul

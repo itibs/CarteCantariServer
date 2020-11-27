@@ -2,6 +2,7 @@
 @Number 272
 @Author David Hudson
 @Composer David Hudson
+@Pitch F
 
 R: Pâine a vieții pogorâtă din cer,
 Dă-ni-Te pe Tine nouă astăzi!

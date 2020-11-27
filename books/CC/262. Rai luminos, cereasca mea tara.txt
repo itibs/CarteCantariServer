@@ -3,6 +3,7 @@
 @Author Thomas Haweis / adapt. E. Constantinescu
 @Composer Dmitri S. Bortniansky, 1825
 @Original_Title From the Cross
+@Pitch B
 @Tag Nădejdea credinciosului
 
 1. Rai luminos, cereasca mea ţară,

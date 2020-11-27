@@ -3,6 +3,7 @@
 @Author Serban Constantinescu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 6, cant. 326
+@Pitch F
 @Tag Nădejdea credinciosului
 
 1. O usa-n cer, Isuse, s-a deschis

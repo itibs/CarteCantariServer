@@ -3,6 +3,7 @@
 @Author h. Ernest Nichol
 @Composer H. Ernest Nichol
 @Original_Title We've a Story to Tell to the Nations
+@Pitch Eb
 @Tag Chemare la Domnul Isus
 
 1. Voi, ce staţi în umbra morţii

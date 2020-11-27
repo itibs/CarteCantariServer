@@ -3,6 +3,7 @@
 @Author Philip P. Bliss, 1871
 @Composer Philip P. Bliss
 @Original_Title Almost Persuaded
+@Pitch G
 @Tag Chemare la Domnul Isus
 
 1. „Nu azi, ci mâine mă pocăiesc

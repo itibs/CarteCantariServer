@@ -1,5 +1,6 @@
 @Title Ești în floarea vieții tale
 @Number 377
+@Pitch d
 @Tag Pentru copii și tineret
 
 1. Esti in floarea vietii tale,

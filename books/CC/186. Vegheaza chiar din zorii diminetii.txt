@@ -1,6 +1,7 @@
 @Title Veghează chiar din zorii dimineții
 @Number 186
 @Composer S. Zuberbuhler; arr. Friedrich Hanssler
+@Pitch C
 @Tag Umblarea (purtarea) credinciosului
 
 1. Veghează chiar din zorii dimineţii,

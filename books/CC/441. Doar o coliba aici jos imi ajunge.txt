@@ -3,6 +3,7 @@
 @Author Ira Stanphill
 @Composer Irra Stanphill
 @Original_Title Mansion (Just) Over the Hilltop
+@Pitch C
 @Tag Îmbărbătare - mângâiere
 
 1. Doar o colibă aici jos îmi ajunge,

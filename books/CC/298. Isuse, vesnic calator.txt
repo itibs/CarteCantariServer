@@ -2,6 +2,7 @@
 @Number 298
 @Author Traian Dorz
 @Composer Nicolae Moldoveanu
+@Pitch D
 @Tag Domnul Isus și jertfa Lui
 @Tag Primirea Domnului Isus - Întoarcerea la Dumnezeu
 

@@ -3,6 +3,7 @@
 @Author Henry F. Lyte, 1834, adapt. Carmen Gavril
 @Composer Mark Andrews, 1930
 @Original_Title Praise, my soul, the King of heaven
+@Pitch D
 
 1. Laudă, o, suflete, pe Domnul
 Și-ofranda buzelor adu-I,

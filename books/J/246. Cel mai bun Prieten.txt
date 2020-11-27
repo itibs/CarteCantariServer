@@ -2,6 +2,7 @@
 @Number 246
 @Author Benoni Catană
 @Composer Ervin Bodizs
+@Pitch D
 
 1. Cel mai bun Prieten, bucuria mea,
 Doamne, lângă Tine-mi cântă inima!

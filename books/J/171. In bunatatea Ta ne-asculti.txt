@@ -2,6 +2,7 @@
 @Number 171
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch C
 
 1. În bunătatea Ta, ne-asculţi  A noastră rugăciune,  Şi inima ne-o uşurezi  De orice-amărăciune. Ne-ntorci privirile mereu  Spre Tine, sfinte Tată,  Şi prin Cuvânt ne întăreşti  De fiecare dată.  
 

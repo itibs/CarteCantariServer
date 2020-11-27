@@ -3,6 +3,7 @@
 @Author Fanny J. Crosby
 @Composer Silas J. Vail
 @Original_Title Close to Thee ? Who, O Lord, with Thee Abiding
+@Pitch G
 @Tag Nădejdea credinciosului
 
 1. Te-aşteptăm cu dor, Isuse,

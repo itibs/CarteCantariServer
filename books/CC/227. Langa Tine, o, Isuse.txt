@@ -3,6 +3,7 @@
 @Author Emma F. Bevan
 @Composer Old Ballad Melody
 @Original_Title God in Heaven Hath a Treasure
+@Pitch Eb
 @Tag Domnul Isus și jertfa Lui
 
 1. Lângă Tine, o, Isuse,

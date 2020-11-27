@@ -3,6 +3,7 @@
 @Author Iovan Miclea
 @Composer Kenneth Tucker
 @References Psalmul 119
+@Pitch F
 
 1. Vreau, Doamne, vreau să-­nvăţ
 Al cerului Cuvânt;

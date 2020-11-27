@@ -3,6 +3,7 @@
 @Author Katharina A. Von Schlegel (1687-1768), adapt. Echipa Jubilate, Anca Ciora
 @Composer Jean Sibelius
 @Original_Title Finlandia op. 26
+@Pitch Eb
 
 1. Stai liniştit, de partea ta e Domnul,
 Suflete-al meu, du-ţi crucea răbdător.

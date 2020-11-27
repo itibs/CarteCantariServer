@@ -2,6 +2,7 @@
 @Number 176
 @Author Ovidiu Mitrofan
 @Composer Ovidiu Mitrofan
+@Pitch D
 
 1. Ce bucurie când ni se zice:
 “Veniți cu toți la Casa Domnului!”

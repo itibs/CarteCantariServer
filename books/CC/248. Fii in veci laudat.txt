@@ -2,6 +2,7 @@
 @Number 248
 @Author adaptare Emil Constantinescu
 @Composer Recital de Freylinghausen
+@Pitch Bb
 @Tag Adorare - Laudă
 
 1. Fii în veci lăudat,

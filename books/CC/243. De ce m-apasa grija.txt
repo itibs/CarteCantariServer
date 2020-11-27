@@ -3,6 +3,7 @@
 @Author Civilla D. Martin, 1905
 @Composer Charles H. Gabriel
 @Original_Title His Eye Is on the Sparrow
+@Pitch C
 @Tag Îmbărbătare - mângâiere
 
 1. De ce m-apasă grija?

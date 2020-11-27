@@ -1,6 +1,7 @@
 @Title O, Doamne, ia-mă-n slujba Ta
 @Number 22
 @Author D. Cornilescu
+@Pitch D
 @Tag Predarea
 
 1. O! Doamne, ia-mă–n slujba Ta

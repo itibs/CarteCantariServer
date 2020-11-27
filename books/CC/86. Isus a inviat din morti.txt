@@ -3,6 +3,7 @@
 @Author Emma Campbell
 @Composer Theodore E. Perkins
 @Original_Title Jesus of Nazareth Passeth By
+@Pitch F
 @Tag Mântuirea - roadele ei
 
 1. Isus a înviat din morţi,

@@ -1,5 +1,6 @@
 @Title Dumnezeule, la Tine
 @Number 452
+@Pitch G
 @Tag Rugăciune
 
 1. Dumnezeule, la Tine

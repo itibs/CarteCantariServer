@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 4, cant. 396
+@Pitch D
 @Tag Domnul Isus și jertfa Lui
 
 1. Eu am un scump Mantuitor

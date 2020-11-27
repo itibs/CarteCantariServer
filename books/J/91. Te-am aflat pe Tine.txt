@@ -2,6 +2,7 @@
 @Number 91
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch C
 
 1. Te-am aflat pe Tine, Doamne,
 Și aceasta mi-e de-ajuns,

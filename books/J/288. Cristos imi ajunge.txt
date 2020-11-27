@@ -3,6 +3,7 @@
 @Author Graham Kendrick, adapt. Daniel Suciu
 @Composer Graham Kendrick
 @Original_Title For This I have Jesus
+@Pitch F
 
 1. Pentru zâmbet și-ntristare, pentru zori și-apus,
 Pentru azi și ce-i în zare, pentru ceasul scurs,

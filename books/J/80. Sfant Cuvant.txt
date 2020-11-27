@@ -3,6 +3,7 @@
 @Author Lynn DeShazo, adapt. Veaceslav Vulpe, Emanuela Ignuța
 @Composer Lynn DeShazo
 @Original_Title Ancient Words
+@Pitch G
 
 1. Sfânt Cuvânt din veșnicii
 Ne conduci, ne susții;

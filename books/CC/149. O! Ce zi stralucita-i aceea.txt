@@ -3,6 +3,7 @@
 @Author Francis A. Blackmer
 @Composer Francis A. Blackmer
 @Original_Title Numberless as the Sands
+@Pitch G
 @Tag Nădejdea credinciosului
 
 1. O! ce zi strălucită-i aceea

@@ -2,6 +2,7 @@
 @Number 331
 @Author Eduard Grigoriciuc
 @Composer Eduard Grigoriciuc
+@Pitch Eb
 
 1. Când la masa Ta mă chemi să privesc la Tine,
 Înţeleg cât ai plătit, Doamne, pentru mine,

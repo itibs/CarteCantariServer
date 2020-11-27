@@ -2,6 +2,7 @@
 @Number 5
 @Author Petru Popovici
 @Composer D. Bortniansky
+@Pitch Bb
 
 1. Atotputernic eşti, o, Doamne,
 Tu, Cel ce toate ai creat.

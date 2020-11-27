@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 4, cant. 358
+@Pitch G
 @Tag Natura
 
 1. Vino şi-ascultă,

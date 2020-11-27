@@ -2,6 +2,7 @@
 @Number 369
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch F
 @Tag Mântuirea - roadele ei
 
 1. Ce har, ce har sa poti sa crezi,

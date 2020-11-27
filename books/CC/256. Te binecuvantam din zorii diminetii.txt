@@ -1,5 +1,6 @@
 @Title Te binecuvântăm din zorii dimineții
 @Number 256
+@Pitch G
 @Tag Adorare - Laudă
 
 1. Te binecuvântăm, din zorii dimineţii;

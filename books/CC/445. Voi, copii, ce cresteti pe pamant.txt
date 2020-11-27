@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 5, cant. 170
+@Pitch C
 @Tag Pentru copii și tineret
 
 1. Voi, copii ce creşteţi pe pământ,

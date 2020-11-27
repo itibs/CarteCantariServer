@@ -3,6 +3,7 @@
 @Author Traian Dorz
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 4, cant. 111
+@Pitch Eb
 @Tag Chemare la Domnul Isus
 
 1. Sarmani alergatori spre moarte,

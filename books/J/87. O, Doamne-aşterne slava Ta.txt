@@ -2,6 +2,7 @@
 @Number 87
 @Author Anca Ciora
 @Composer Anca Ciora
+@Pitch Gm
 
 1. O, Doamne-aşterne slava Ta 
 În templul vieţii mele,

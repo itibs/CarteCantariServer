@@ -3,6 +3,7 @@
 @Author Sarah F. Adams
 @Composer Lowell Mason, 1856
 @Original_Title Nearer, My God, to Thee
+@Pitch F
 @Tag Poziția credinciosului
 
 1. Mai lângă Domnul meu, mai lângă El

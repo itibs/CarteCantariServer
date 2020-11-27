@@ -3,6 +3,7 @@
 @Author Matthew Bridges, 1851
 @Composer George J. Elvey, 1868
 @Original_Title Crown Him with many crowns
+@Pitch D
 
 1. Isus e Mielul Sfânt, 
 Cel demn de-ncoronat,

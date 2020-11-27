@@ -2,6 +2,7 @@
 @Number 253
 @Author Anonim
 @Composer Edward J. Hopkins (1818-1901)
+@Pitch G
 
 1. Cu mine fii, o, Duhule Preasfânt,
 Mă însoțește pe acest pământ,

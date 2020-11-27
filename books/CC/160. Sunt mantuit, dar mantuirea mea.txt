@@ -1,5 +1,6 @@
 @Title Sunt mântuit, dar mântuirea mea
 @Number 160
+@Pitch G
 @Tag Mântuirea - roadele ei
 
 1. Sunt mântuit, dar mântuirea mea

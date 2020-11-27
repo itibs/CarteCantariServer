@@ -2,6 +2,7 @@
 @Number 119
 @Author Carmen Gavril
 @Composer Iulian Teodorescu
+@Pitch Eb
 
 1. De mi-ar plânge tot adâncul,
 Dacă-aș fi uitat și frânt,

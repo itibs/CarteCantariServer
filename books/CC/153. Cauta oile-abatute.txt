@@ -3,6 +3,7 @@
 @Author George Cooper
 @Composer Ira D. Sankey
 @Original_Title There Are Lonely Hearts to Cherish
+@Pitch G
 @Tag Lucrul Domnului
 
 1. Caută oile-abătute,

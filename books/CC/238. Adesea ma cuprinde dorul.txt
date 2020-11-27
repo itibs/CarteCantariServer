@@ -1,6 +1,7 @@
 @Title Adesea mă cuprinde dorul
 @Number 238
 @Author adaptare Emil Constantinescu
+@Pitch C
 @Tag Nădejdea credinciosului
 
 1. Adesea mă cuprinde dorul

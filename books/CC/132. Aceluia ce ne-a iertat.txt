@@ -3,6 +3,7 @@
 @Author Edward Perronet, adapt. D. Cornilescu
 @Composer William Shrubsole,1779
 @Original_Title All Hail the Power of Jesus Name
+@Pitch A
 @Tag Adorare - Laudă
 
 1. Aceluia ce ne-a iertat

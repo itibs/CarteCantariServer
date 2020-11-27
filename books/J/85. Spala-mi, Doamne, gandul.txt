@@ -3,6 +3,7 @@
 @Author Costache Ioanid
 @Composer R. Hudson Pope
 @Original_Title Cleanse me from my sin
+@Pitch G
 
 1. Spală-mi, Doamne, gândul!
 Spală-mi, Doamne, viața!

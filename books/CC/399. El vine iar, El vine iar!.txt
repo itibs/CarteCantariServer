@@ -2,6 +2,7 @@
 @Number 399
 @Author Traian Dorz
 @Composer Nicolae Moldoveanu
+@Pitch F
 @Tag Venirea Domnului Isus
 
 1. El vine iar, El vine iar!

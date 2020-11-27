@@ -3,6 +3,7 @@
 @Author Stuart Townend, Keith Getty, adapt. Echipa Jubilate
 @Composer Stuart Townend, Keith Getty
 @Original_Title Every Promise
+@Pitch E
 
 1. Din ai dimineţii zori, până în al serii prag,
 Neclintit mă-ncred în tot ce ne-ai promis.

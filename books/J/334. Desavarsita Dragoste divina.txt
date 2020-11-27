@@ -3,6 +3,7 @@
 @Author Dorothy Gurney (1858-1932), adapt. Lucian Hord
 @Composer Joseph Barnby (1838-1896)
 @Original_Title O Perfect Love
+@Pitch Eb
 
 1. Desăvârşită Dragoste divină,
 La tronul Tău în rugă ne-aplecăm:

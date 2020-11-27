@@ -3,6 +3,7 @@
 @Author E. W. Blandy
 @Composer John S. Norris
 @Original_Title Where He Leads Me
+@Pitch F
 @Tag Umblarea (purtarea) credinciosului
 
 1. Glasul lui Isus mă-ndeamnă:

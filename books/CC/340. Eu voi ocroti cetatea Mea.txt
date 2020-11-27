@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 5, cant. 225
+@Pitch Dm
 @Tag Adunarea (Biserica) - Legătura frățească
 
 1. Eu voi ocroti cetatea Mea,

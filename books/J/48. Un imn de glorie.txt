@@ -1,6 +1,7 @@
 @Title Un imn de glorie
 @Number 48
 @Original_Title Geistliche Kirchengesänge
+@Pitch D
 
 1. Un imn de glorie cântăm,
 Vrem toți pe Domnul să-L lăudăm,

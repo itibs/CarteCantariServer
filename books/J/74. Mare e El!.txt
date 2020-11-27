@@ -3,6 +3,7 @@
 @Author Michael W. Smith, Deborah Smith, adapt. Carmen Gavril
 @Composer Michael W. Smith, Deborah Smith
 @Original_Title Great is the Lord
+@Pitch C
 
 
 Domnul e sfânt, El e mare și drept,

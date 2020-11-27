@@ -3,6 +3,7 @@
 @Author Martin Luther
 @Composer Martin Luther
 @Original_Title A Mighty Fortress Is Our God
+@Pitch D
 @Tag Îmbărbătare - mângâiere
 
 1. Cetate tare-i Dumnezeu;

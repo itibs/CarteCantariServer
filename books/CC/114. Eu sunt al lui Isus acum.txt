@@ -2,6 +2,7 @@
 @Number 114
 @Author Lucie de Charriere
 @Composer Melodie traditionala englezeasca
+@Pitch Ab
 @Tag Poziția credinciosului
 
 1. Eu sunt al lui Isus acum,

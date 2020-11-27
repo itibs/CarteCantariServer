@@ -3,6 +3,7 @@
 @Author Edward H. Bickersteth
 @Composer George T. Caldbeck; arr. Ch. J. Vincent
 @Original_Title Peace, Perfect Peace
+@Pitch A
 @Tag Mântuirea - roadele ei
 
 1. Pace deplină-i în Isus Hristos

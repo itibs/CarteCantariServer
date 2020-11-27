@@ -2,6 +2,7 @@
 @Number 137
 @Author Berthelemy Bastie
 @Composer Recital de Freylinghausen, 1700
+@Pitch G
 @Tag Domnul Isus și jertfa Lui
 
 1. Pe cruce ai murit, Isuse,

@@ -3,6 +3,7 @@
 @Author Noel Richards, Tricia Richards, adapt. Iulian Teodorescu
 @Composer Noel Richards, Tricia Richards, aranj. Iulian Teodorescu
 @Original_Title All heaven declares
+@Pitch A
 
 
 1. Cerul declară

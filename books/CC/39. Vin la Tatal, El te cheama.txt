@@ -3,6 +3,7 @@
 @Author Daniel Whittle, 1891.
 @Composer Charles C. Case
 @Original_Title Why Not Now?
+@Pitch D
 @Tag Chemare la Domnul Isus
 
 1. Vin' la Tatăl! El te cheamă;

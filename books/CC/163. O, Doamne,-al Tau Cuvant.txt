@@ -2,6 +2,7 @@
 @Number 163
 @Author Auguste Rochat
 @Composer Johann M. Haydn
+@Pitch C
 @Tag Cuvântul lui Dumnezeu
 
 1. O! Doamne,-al Tău Cuvânt

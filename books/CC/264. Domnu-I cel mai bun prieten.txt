@@ -3,6 +3,7 @@
 @Author Frederick C. Jennings
 @Composer Wolfgang A. Mozart
 @Original_Title O My Savior, Glorified
+@Pitch G
 @Tag Domnul Isus și jertfa Lui
 
 1. Domnu-i cel mai bun Prieten

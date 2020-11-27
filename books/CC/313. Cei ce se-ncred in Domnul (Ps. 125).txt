@@ -2,6 +2,7 @@
 @Number 313
 @Author Traian Dorz
 @Composer Nicolae Moldoveanu
+@Pitch Bb
 @Tag Poziția credinciosului
 
 1. Cei ce se-ncred in Domnul

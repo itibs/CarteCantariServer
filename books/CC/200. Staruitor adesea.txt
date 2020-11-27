@@ -1,5 +1,6 @@
 @Title Stăruitor adesea
 @Number 200
+@Pitch Eb
 @Tag Rugăciune
 
 1. Stăruitor, adesea,

@@ -3,6 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 4, cant. 336
+@Pitch D
 @Tag Mântuirea - roadele ei
 
 1. Temelia vietii mele

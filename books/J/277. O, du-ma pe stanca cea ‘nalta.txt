@@ -2,6 +2,7 @@
 @Number 277
 @Author Carmen Gavril
 @Composer Iulian Teodorescu
+@Pitch D
 
 1. O, du-mă pe stânca cea 'naltă
 La care nu pot să ajung.

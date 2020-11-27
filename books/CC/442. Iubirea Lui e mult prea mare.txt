@@ -3,6 +3,7 @@
 @Author Frederick M. Lehman
 @Composer Frederick M Lehman
 @Original_Title The Love of God
+@Pitch D
 @Tag Îmbărbătare - mângâiere
 
 1. Iubirea Lui e mult prea mare
