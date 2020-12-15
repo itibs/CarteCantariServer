@@ -1,7 +1,7 @@
 @Title A vieții strâmtă cale duce
 @Number 291
 @Author adaptare Emil Constantinescu
-@Pitch A
+@Pitch C
 @Tag Nădejdea credinciosului
 
 1. A vieţii strâmtă cale duce,

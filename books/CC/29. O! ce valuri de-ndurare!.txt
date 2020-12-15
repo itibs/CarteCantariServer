@@ -3,7 +3,7 @@
 @Author A. R. Lowell (1845) / S. T. Francis (1834–1925), adapt. D. Cornilescu
 @Composer Th. J. Williams
 @Original_Title Once to Every Man and Nation / Oh, the Deep, Deep Love of Jesus
-@Pitch D
+@Pitch Dm
 @Tag Mântuirea - roadele ei
 
 1. O! ce valuri de-ndurare
