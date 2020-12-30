@@ -1,4 +1,6 @@
 @Title Voia Ta
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Învaţă-mă să-nfăptuiesc,
 O, Doamne, voia Ta mereu,
