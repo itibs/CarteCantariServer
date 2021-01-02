@@ -1,6 +1,7 @@
 @Title Ce spune oare vântul călătorul?
 @Number 629
 @Author Costache Ioanid
+@Composer Nicolae Moldoveanu
 
 1. Ce spune oare vântul, călătorul,
 Când se sfâșie printre crengi trudit? 

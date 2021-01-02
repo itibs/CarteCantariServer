@@ -1,5 +1,7 @@
 @Title Noi Te slăvim pe Tine, Sfinte Tată
 @Number 675
+@Author Serban Constantinescu
+@Composer Cornel Constantinescu
 
 1. Noi Te slăvim pe Tine, Sfinte Tată,
 Ce dragostea-n Isus ne-ai arătat,

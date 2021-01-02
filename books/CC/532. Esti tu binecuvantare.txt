@@ -1,5 +1,7 @@
 @Title Ești tu binecuvântare?
 @Number 532
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Eşti tu binecuvântare pentru cei din jurul tău?
 Viaţa ta arată pururi pe Isus şi cerul Său?

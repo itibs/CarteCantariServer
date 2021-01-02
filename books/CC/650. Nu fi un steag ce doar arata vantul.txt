@@ -1,5 +1,7 @@
 @Title Nu fi un steag ce doar arată vântul
 @Number 650
+@Author I. Marini
+@Composer Nicolae Moldoveanu
 
 1. Nu fi un steag ce doar arată numai vântul
 Și de la nimeni nu primi ușor Cuvântul,

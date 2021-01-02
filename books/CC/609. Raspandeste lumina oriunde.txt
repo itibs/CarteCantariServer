@@ -1,5 +1,7 @@
 @Title Răspândește lumina oriunde
 @Number 609
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Răspândește lumina oriunde te-ai găsi,
 Căci cei din jurul tău bine te vor privi!

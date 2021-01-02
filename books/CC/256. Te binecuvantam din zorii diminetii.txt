@@ -1,5 +1,7 @@
 @Title Te binecuvântăm din zorii dimineții
 @Number 256
+@Author Mme Develay
+@Composer Paul Ami I. D. Bost
 @Pitch G
 @Tag Adorare - Laudă
 

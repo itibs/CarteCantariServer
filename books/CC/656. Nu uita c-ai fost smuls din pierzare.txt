@@ -1,5 +1,7 @@
 @Title Nu uita c-ai fost smuls din pierzare
 @Number 656
+@Author Nicolae Moldoveanu
+@Composer Nicolae Moldoveanu
 
 1. Nu uita c-ai fost smuls din pierzare
 De Isus când viața Și-a dat.
