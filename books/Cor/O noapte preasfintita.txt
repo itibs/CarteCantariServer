@@ -2,6 +2,7 @@
 @Author Franz Xaver Gruber
 @Composer Franz Xaver Gruber
 @Original_Title Stille Nacht, heilige Nacht
+@Pitch Bb
 
 1. O, noapte preasfinţită
 Toate-s în odihnă,

@@ -2,6 +2,7 @@
 @Author Andrae Crouch
 @Composer Andrae Crouch
 @Original_Title My Tribute
+@Pitch Bb
 
 Cum să-Ţi mulţumesc
 Pentru tot ce mi-ai dăruit?

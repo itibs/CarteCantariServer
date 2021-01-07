@@ -1,6 +1,7 @@
 @Title Spala-ma in raul dragostei
 @Author Anonim
 @Composer anonim
+@Pitch G
 
 /: Spală-mă în râul dragostei,
 Umple-mă deplin cu bucurie sfântă,

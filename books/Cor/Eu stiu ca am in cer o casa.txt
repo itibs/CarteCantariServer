@@ -1,6 +1,7 @@
 @Title Eu știu că am în cer o casă
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch F
 
 1. Eu ştiu că am în cer o casă 
 Pe care nimeni nu mi-o ia,

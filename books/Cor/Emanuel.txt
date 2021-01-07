@@ -2,6 +2,7 @@
 @Author Michael Card & Tom Fettke, trad. Daniel Stauceanu
 @Composer Michael Card & Tom Fettke
 @Original_Title Immanuel
+@Pitch Gm
 
 Un semn dat din ceruri: Fecioara zămislind
 Un Fiu de om ce-n trupu-I Dumnezeu e pe deplin.

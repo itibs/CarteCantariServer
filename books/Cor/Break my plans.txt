@@ -1,6 +1,7 @@
 @Title Break my plans
 @Author This Hope
 @Composer This Hope
+@Pitch Gm
 
 1. The praise songs of a nation
 flowed from his hand

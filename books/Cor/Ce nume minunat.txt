@@ -2,6 +2,7 @@
 @Author Audrey Mieir
 @Composer Audrey Mieir
 @Original_Title His Name Is Wonderful
+@Pitch F
 
 Ce Nume minunat, 
 Ce Nume minunat, 

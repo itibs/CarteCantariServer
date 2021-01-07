@@ -1,6 +1,7 @@
 @Title Isuse, niciodată
 @Author Traian Dorz
 @Composer Nicolae Moldoveanu
+@Pitch Ab
 
 1. Isuse, niciodată
 Nu-i nimeni să-mi mai ia

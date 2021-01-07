@@ -2,6 +2,7 @@
 @Author Carmen Gavril
 @Composer Walter Harrah
 @Original_Title We sing Alleluia
+@Pitch Bb
 
 Tu ești izvorul vieții mele!
 O, Doamne ești tăria mea!

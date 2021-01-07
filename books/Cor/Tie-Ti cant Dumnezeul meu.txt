@@ -1,6 +1,7 @@
 @Title Tie-Ti cant Dumnezeul meu
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch F
 
 1. /: Ţie-Ţi cânt, Dumnezeul meu! :/ 
 Pentru bunătatea Ta,

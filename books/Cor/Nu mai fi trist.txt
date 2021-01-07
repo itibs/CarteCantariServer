@@ -1,6 +1,7 @@
 @Title Nu mai fi trist
 @Author Ira Stanphill
 @Composer Ira Stanphill
+@Pitch Eb
 
 /: Nu mai fi trist, 
 Căci pentru tine

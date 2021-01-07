@@ -1,6 +1,7 @@
 @Title Cu Tine nu sunt singur
 @Author Benoni Catana
 @Composer Benoni Catana
+@Pitch Eb
 
 1. Cu Tine nu sunt singur 
 Doamne orice'ar fi

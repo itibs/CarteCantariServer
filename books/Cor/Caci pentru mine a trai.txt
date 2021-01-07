@@ -2,6 +2,7 @@
 @Author John White
 @Composer John White
 @Original_Title For me to live is Christ
+@Pitch F
 
 1. Căci pentru mine a trăi este Hristos
 Iar a muri, o, da, e un câştig;

@@ -1,4 +1,5 @@
 @Title Psalmul 148
+@Pitch Dm
 
 1. Lăudați-L pe Domnul voi, ceruri înalte,
 Lăudați-L, oștiri de îngeri din cer!

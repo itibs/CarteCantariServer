@@ -2,6 +2,7 @@
 @Author Rhea F. Miller
 @Composer George Beverly Shea
 @Original_Title I'd rather have Jesus
+@Pitch C
 
 1. Isus pentru mine e mai de preț
 Decât e argintul sau aurul,

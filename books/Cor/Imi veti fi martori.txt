@@ -2,6 +2,7 @@
 @Author Jerry Kirk, F. Ap. 1:8
 @Composer Jerry Kirk
 @Original_Title Ye Shall be Witnesses
+@Pitch F
 
 Mângâietorul
 Va veni și vă va da putere

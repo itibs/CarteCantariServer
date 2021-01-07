@@ -2,6 +2,7 @@
 @Author Billy Sprague, Niles Borop
 @Composer Billy Sprague, Niles Borop
 @Original_Title Via Dolorosa
+@Pitch Fm
 
 Jos pe Via Dolorosa,
 În-acea zi-n Ierusalim,

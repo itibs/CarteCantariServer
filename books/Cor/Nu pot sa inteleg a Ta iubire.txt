@@ -2,6 +2,7 @@
 @Author William Young Fullerton, adapt. Anonim
 @Composer Anonim. Londonderry Air
 @Original_Title I cannot tell why he whom angels worship
+@Pitch C
 
 1. Nu pot să înţeleg a Ta iubire,
 Tu, Cel preasfânt şi veşnic Dumnezeu,

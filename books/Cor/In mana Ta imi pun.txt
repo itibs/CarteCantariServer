@@ -1,7 +1,7 @@
 @Title În mâna Ta îmi pun
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
-@Pitch E 
+@Pitch E
 
 1. În mâna Ta îmi pun,
 Isus, eu mâna mea,

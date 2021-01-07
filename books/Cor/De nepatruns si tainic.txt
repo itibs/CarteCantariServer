@@ -2,6 +2,7 @@
 @Author Carl Nielsen, adapt. Emanuel Balaceanu
 @Composer Carl Nielsen
 @Original_Title Forunderligt at sige
+@Pitch Em
 
 1. De nepătruns şi tainic 
 Şi greu de înţeles

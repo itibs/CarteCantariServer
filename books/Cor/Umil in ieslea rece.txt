@@ -1,6 +1,7 @@
 @Title Umil în ieslea rece
 @Author I. Muresan
 @Composer anonim
+@Pitch E
 
 Umil în ieslea rece,
 Doamne, Te-ai născut

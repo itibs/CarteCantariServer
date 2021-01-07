@@ -1,6 +1,7 @@
 @Title Unde-i teamă nu-i iubire
 @Author Costache Ioanid
 @Composer Nicolae Moldoveanu
+@Pitch Ab
 
 1. Unde-i teamă, nu-i iubire
 Unde-s legi, nu-i fericire

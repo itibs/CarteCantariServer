@@ -2,6 +2,7 @@
 @Author Matt Redman
 @Composer Matt Redman
 @Original_Title Once again
+@Pitch F
 
 1. Stau din nou, 
 gândindu-mă la jertfa Ta

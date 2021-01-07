@@ -2,6 +2,7 @@
 @Author Michael Ledner
 @Composer Michael Ledner
 @Original_Title You are my hiding place
+@Pitch Am
 
 Tu eşti scăparea mea
 La Tine am găsit un loc de nădejde

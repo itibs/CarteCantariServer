@@ -1,6 +1,7 @@
 @Title Te prind fiori
 @Author Costache Ioanid
 @Composer Nicolae Moldoveanu
+@Pitch Gm
 
 1. Te prind fiori, te simți murdar...
 Te-a prins păcatul la răscruce.

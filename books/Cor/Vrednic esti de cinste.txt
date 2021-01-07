@@ -2,6 +2,7 @@
 @Author Eva Hellmark
 @Composer Eva Hellmark
 @Original_Title Lord we give you glory / You deserve the glory
+@Pitch Db
 
 /: Vrednic eşti de cinste
 Şi-nchinare

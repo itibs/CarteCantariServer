@@ -2,6 +2,7 @@
 @Author Stephen Adams 1844-1913
 @Composer Stephen Adams 1844-1913
 @Original_Title The Holy City
+@Pitch Ab
 
 1. În somnul meu azi-noapte 
 Visam aşa frumos,

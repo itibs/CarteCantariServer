@@ -2,6 +2,7 @@
 @Author Geoff Bullock
 @Composer Geoff Bullock
 @Original_Title The power of Your love
+@Pitch G
 
 1. Doamne astăzi vin
 În faţa Ta să mă închin

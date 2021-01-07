@@ -2,6 +2,7 @@
 @Author Text latin de Thomas Aquinas
 @Composer Cesar Franck
 @Original_Title Panis Angelicus
+@Pitch Ab
 
 O, Tată bun şi sfânt!
 O, Tată milostiv!

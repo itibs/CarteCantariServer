@@ -1,6 +1,7 @@
 @Title Amagire
 @Author Chris Muraru
 @Composer Chris Muraru
+@Pitch Eb
 
 1. Câtă vreme-a trecut, 
 Câtă vreme-a rămas

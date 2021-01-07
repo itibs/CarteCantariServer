@@ -2,6 +2,7 @@
 @Author Graham Kendrick (1987)
 @Composer Graham Kendrick (1987)
 @Original_Title Shine, Jesus, shine
+@Pitch A
 
 1. În lumina prezenţei Tale
 Întunericul va dispare

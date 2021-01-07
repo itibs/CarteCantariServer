@@ -1,6 +1,7 @@
 @Title Esti viu
 @Author Edward Carswell, trad. Emanuel Balaceanu
 @Composer Edward Carswell
+@Pitch G
 
 Eşti viu în veci,
 Eşti viu în veci, 

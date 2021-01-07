@@ -1,6 +1,7 @@
 @Title Astazi vin sa-mi plec genunchii
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch E
 
 1. Astăzi vin să-mi plec genunchii,
 Înaintea ieslei Tale;

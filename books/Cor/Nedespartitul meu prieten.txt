@@ -1,6 +1,7 @@
 @Title Nedespărțitul meu prieten
 @Author Traian Dorz
 @Composer Sara Bivolaru
+@Pitch Eb
 
 1. Nedespărțitul meu prieten,
 Mântuitorul meu cel Sfânt,

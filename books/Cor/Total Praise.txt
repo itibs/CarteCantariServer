@@ -1,6 +1,7 @@
 @Title Total Praise
 @Author Richard Smallwood, Psalmul 121:1,2
 @Composer Richard Smallwood
+@Pitch Db
 
 Doamne spre munţi ridic a mea privire
 Ştiind că Tu eşti ajutorul meu.

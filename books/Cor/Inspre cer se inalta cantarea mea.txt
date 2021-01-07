@@ -1,6 +1,7 @@
 @Title Inspre cer se inalta cantarea mea
 @Composer Giuseppe Verdi
 @Original_Title Nabbucco
+@Pitch F
 
 Înspre cer se înalţă cântarea mea,
 Ea străbate văzduhul albastru

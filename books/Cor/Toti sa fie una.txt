@@ -1,6 +1,7 @@
 @Title Toti sa fie una
 @Author Emanuel Bălăceanu
 @Composer Emanuel Balaceanu
+@Pitch C
 
 Sfinte Tată, la Tine vin,
 Al vieții Mele rod să-l închin.

@@ -1,6 +1,7 @@
 @Title Azi e ziua Lui!
 @Author Alina Bălăceanu, Emanuel Bălăceanu
 @Composer Alina si Emanuel Balaceanu
+@Pitch F
 
 1. Să strigați de bucurie toți, 
 Un cântec nou de glorie cântați

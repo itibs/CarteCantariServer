@@ -1,6 +1,7 @@
 @Title Cant Aleluia!
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch Em
 
 1. Cânt Aleluia, cânt Aleluia,
 Ţie Dumnezeul meu slăvit!

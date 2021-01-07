@@ -1,6 +1,7 @@
 @Title Voia Ta
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
+@Pitch Dm
 
 1. Învaţă-mă să-nfăptuiesc,
 O, Doamne, voia Ta mereu,

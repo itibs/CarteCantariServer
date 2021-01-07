@@ -2,6 +2,7 @@
 @Author Isaac Walts
 @Composer George Frederick Handel
 @Original_Title Joy to the world
+@Pitch C
 
 1. Cu bucurie să cântaţi,
 Căci S-a născut Isus!
