@@ -1,5 +1,5 @@
 @Title Eu știu că am în cer o casă
-@Author Nicolae Moldoveanu
+@Author Traian Dorz
 @Composer Nicolae Moldoveanu
 @Pitch F
 
