@@ -3,7 +3,7 @@
 @Author Nicolae Moldoveanu
 @Composer Nicolae Moldoveanu
 @Original_Title vol. 6, cant. 222
-@Pitch F#m
+@Pitch Fm
 @Tag Domnul Isus și jertfa Lui
 
 1. Te vad mergand prin praf si soare,
