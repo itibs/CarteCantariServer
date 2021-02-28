@@ -1,4 +1,4 @@
-@Title Când ajungi să-ți fi tu însuți o povară
+@Title Când ajungi să-ți fii tu însuți o povară
 @Number 345
 @Author Costache Ioanid
 @Composer Nicolae Moldoveanu
