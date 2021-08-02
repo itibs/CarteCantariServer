@@ -3,7 +3,7 @@
 @Author Fanny J. Crosby, adapt. D. Cornilescu
 @Composer W. H. Doane
 @Original_Title Safe in the Arms of Jesus
-@Pitch C
+@Pitch F
 @Tag Poziția credinciosului
 
 1. Adăpostit în braţe,
