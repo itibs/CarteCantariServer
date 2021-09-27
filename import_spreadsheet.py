@@ -15,7 +15,7 @@ from os import listdir
 from os.path import isfile, join
 
 MAX_NR_FIELDS = 6
-BOOKS = ['Cor', 'CC', 'J', 'CT']
+BOOKS = ['Cor', 'CC', 'J', 'CT', 'A']
 
 # If modifying these scopes, delete the file token.pickle.
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']

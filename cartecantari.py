@@ -11,7 +11,8 @@ BOOKS = {
     'CC': 'Cartea de Cântari',
     'J': 'Jubilate',
     'Cor': 'Cântari Cor',
-    'CT': 'Cartea de Tineret'
+    'CT': 'Cartea de Tineret',
+    'A': 'Altele'
 }
 
 app = Flask(__name__, static_url_path='/static')
@@ -32,7 +33,8 @@ def get_books():
         [   {'id': 'CC', 'name': 'Cartea de Cantari'},
             {'id': 'J', 'name': 'Jubilate'},
             {'id': 'Cor', 'name': 'Cantari Cor'},
-            {'id': 'CT', 'name': 'Cartea de tineret'}])
+            {'id': 'CT', 'name': 'Cartea de tineret'},
+            {'id': 'A', 'name': 'Altele'}])
 
 @app.route('/CarteCantari/books/v2', methods=['GET'])
 def get_books_with_song_summaries():
