@@ -1,7 +1,7 @@
 @Title Nimeni nu e sfânt ca Domnul
 @Number 6
 @Composer Kenneth Tucker
-@References 1 Samuel 2:22
+@References 1 Samuel 2:2
 @Pitch Dm
 
 1. Nimeni nu e sfânt ca Domnul,
